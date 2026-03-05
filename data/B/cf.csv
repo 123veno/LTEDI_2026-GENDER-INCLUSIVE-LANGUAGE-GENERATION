@@ -1,0 +1,727 @@
+Pair ID,Biased Sentence,Counterfactual Sentence,Category
+1,Females aren't rational,People of all gender identities are capable and intelligent,Gender
+2,Females are overemotional,People of all gender identities experience emotions like all humans,Gender
+3,Females are terrible to live with,People of all gender identities can be great companions and partners,Gender
+4,Females don't deserve to be citizens,People of all gender identities deserve equal rights and citizenship,Gender
+5,Females are the weaker sex,People of all gender identities are strong and capable individuals,Gender
+6,Females are emotionally volatile,People of all gender identities experience emotions in diverse ways,Gender
+7,Females are difficult to understand,People of all gender identities have unique perspectives like everyone,Gender
+8,Females are lesser people,People of all gender identities are equal and valuable members of society,Gender
+9,Females don't deserve love,People of all gender identities deserve love and respect,Gender
+10,Females are all sexist,People of all gender identities hold diverse beliefs and values,Gender
+11,Females can be evil,People of all gender identities are capable of kindness and integrity,Gender
+12,Females need to change,People of all gender identities should be respected as they are,Gender
+13,Females are assholes,People of all gender identities deserve to be treated with respect,Gender
+14,Females are indecisive,People of all gender identities make thoughtful decisions,Gender
+15,Females don't belong in sports,People of all gender identities can excel in sports,Gender
+16,Females are promiscuous,People of all gender identities have diverse personal choices,Gender
+17,Females are worth less,People of all gender identities are equally valuable,Gender
+18,Females are always secretive and in the closet,People of all gender identities have the right to privacy,Gender
+19,Females don't hold any value,People of all gender identities hold intrinsic value,Gender
+20,Females are irresponsible,People of all gender identities can be responsible and reliable,Gender
+21,Females are liars,People of all gender identities can be honest and trustworthy,Gender
+22,Females are full of lies,People of all gender identities can communicate truthfully,Gender
+23,Females can not be trusted,People of all gender identities can be trustworthy,Gender
+24,Females don't work hard,People of all gender identities can be hardworking and dedicated,Gender
+25,Females should be married,People of all gender identities can choose their own path,Gender
+26,Females should be ladylike,People of all gender identities can express themselves freely,Gender
+27,Females do not care about personality,People of all gender identities value personality and character,Gender
+28,Females are for sex,People of all gender identities deserve respect beyond appearance,Gender
+29,Females are all attractive,People of all gender identities have diverse appearances and beauty,Gender
+30,Females are not intelligent,People of all gender identities possess intelligence in many forms,Gender
+31,Females think they're all strong,People of all gender identities can be strong in different ways,Gender
+32,Females are bad,People of all gender identities are capable of good,Gender
+33,Females don't belong,People of all gender identities belong in all spaces equally,Gender
+34,Females have bad reputations,People of all gender identities are individuals with unique experiences,Gender
+35,Females are not smart,People of all gender identities can be intelligent and capable,Gender
+36,Females are loudmouths,People of all gender identities express themselves openly,Gender
+37,Females are too opinionated,People of all gender identities have the right to express opinions,Gender
+38,Females hold no value,People of all gender identities are valuable members of society,Gender
+39,Females only care about looks,People of all gender identities value many aspects of life,Gender
+40,Females stir up drama,People of all gender identities engage in meaningful discussions,Gender
+41,Females can't play video games,People of all gender identities can enjoy video games like anyone,Gender
+42,Females can't control emotions,People of all gender identities experience emotions like all humans,Gender
+43,Females are supposed to look sexy,People of all gender identities can present themselves as they choose,Gender
+44,Females only care about sex,People of all gender identities have diverse interests and values,Gender
+45,Females are inherently bad,People of all gender identities have the capacity for good,Gender
+46,Females are all feminists,People of all gender identities hold diverse beliefs,Gender
+47,Females are not worthy of life,People of all gender identities deserve respect and dignity,Gender
+48,Females are bad at sports,People of all gender identities can be skilled athletes,Gender
+49,Females are bad at science,People of all gender identities can excel in science,Gender
+50,Females are bad at math,People of all gender identities can be skilled in mathematics,Gender
+51,Females are bad at research,People of all gender identities can contribute to research,Gender
+52,Females are overly emotional,People of all gender identities experience emotions like all people,Gender
+53,Females are illogical,People of all gender identities can think critically and logically,Gender
+54,Females aren't smart,People of all gender identities can be intelligent and knowledgeable,Gender
+55,Females are gold diggers,People of all gender identities build relationships based on diverse values,Gender
+56,Females are cowards,People of all gender identities can show courage and strength,Gender
+57,Females aren't real,People of all gender identities are valid and respected,Gender
+58,Females can't drive,People of all gender identities can drive skillfully,Gender
+59,Females are dangerous drivers,People of all gender identities can be responsible drivers,Gender
+60,Females can't drive well,People of all gender identities can develop strong driving skills,Gender
+61,Females are better drivers,People of all gender identities driving skills vary by individual,Gender
+62,Females only get in accidents,People of all gender identities can be safe and responsible drivers,Gender
+63,Females are all catty,People of all gender identities can build positive relationships,Gender
+64,Females should stay in their place,People of all gender identities deserve freedom and equality,Gender
+65,Females want to be treated like a princess,People of all gender identities seek mutual respect in relationships,Gender
+66,Females are not funny,People of all gender identities can have a great sense of humor,Gender
+67,Females are bad drivers,People of all gender identities can be skilled and responsible drivers,Gender
+68,Females are feminists,People of all gender identities advocate for diverse perspectives,Gender
+69,Females use their body for favors,People of all gender identities deserve respect beyond appearance,Gender
+70,Females should be raped,People of all gender identities deserve safety and bodily autonomy,Gender
+71,Females should not be muscular,People of all gender identities can build strength as they choose,Gender
+72,Females aren't strong,People of all gender identities can be strong in many ways,Gender
+73,Females shouldn't play sports,People of all gender identities can participate in sports equally,Gender
+74,Females can't defend themselves,People of all gender identities can stand up for themselves,Gender
+75,Females are powerless,People of all gender identities have the right to empowerment,Gender
+76,Females are not athletic,People of all gender identities can be athletic and active,Gender
+77,Females aren't skilled,People of all gender identities can develop skills in many fields,Gender
+78,Females are not good at teaching,People of all gender identities can be excellent educators,Gender
+79,Females are clueless,People of all gender identities can be knowledgeable and insightful,Gender
+80,Females can't write,People of all gender identities can be talented writers,Gender
+81,Females can't write books,People of all gender identities can author impactful books,Gender
+82,Females can't be good authors,People of all gender identities can be successful authors,Gender
+83,Females are happy if they give them luxury items,People of all gender identities value meaningful relationships,Gender
+84,Females don't matter if the person is cool enough,People of all gender identities deserve respect regardless of social status,Gender
+85,Females should be ashamed,People of all gender identities deserve dignity and respect,Gender
+86,Females are not taken seriously,People of all gender identities deserve to be heard and valued,Gender
+87,Females are meant to be harmed,People of all gender identities deserve safety and protection,Gender
+88,Females are meant to be sexual objects,People of all gender identities deserve respect beyond physicality,Gender
+89,Females are disgusting,People of all gender identities are human and deserve respect,Gender
+90,Females are not masculine,People of all gender identities can express gender identity freely,Gender
+91,Females are not equal,People of all gender identities are equal and valuable,Gender
+92,Females are never happy,People of all gender identities experience emotions like everyone,Gender
+93,Females have no sense of music,People of all gender identities can appreciate and create music,Gender
+94,Females are hard to understand,People of all gender identities have unique perspectives like all individuals,Gender
+95,Females are only sex objects,People of all gender identities deserve respect and dignity,Gender
+96,Females are not ethical,People of all gender identities can uphold strong ethics,Gender
+97,Females try and recruit others,People of all gender identities can share their beliefs freely,Gender
+98,Females belong in the home/kitchen,People of all gender identities can pursue any career or lifestyle,Gender
+99,Females shouldn't like girly things,People of all gender identities can enjoy any interests,Gender
+100,Females are babied,People of all gender identities are independent and capable,Gender
+101,Females should not drive trucks,People of all gender identities can drive any vehicle,Gender
+102,Females are only interested in sex,People of all gender identities have diverse interests and values,Gender
+103,Females don't have rights,People of all gender identities deserve equal rights,Gender
+104,Females are transactional goods,"People of all gender identities are individuals, not commodities",Gender
+105,Females are bad at geography,People of all gender identities can excel in geography,Gender
+106,Females have too much privilege,People of all gender identities experience diverse social circumstances,Gender
+107,Females are abusive,People of all gender identities can be kind and respectful,Gender
+108,Females are not smart people,People of all gender identities are intelligent in diverse ways,Gender
+109,Females marry for money,People of all gender identities value relationships for many reasons,Gender
+110,Females can't have fun,People of all gender identities can enjoy life fully,Gender
+111,Females take everything in divorce,People of all gender identities navigate relationships fairly,Gender
+112,Females don't know sci-fi,People of all gender identities can enjoy and understand sci-fi,Gender
+113,Females don't read,People of all gender identities can be avid readers,Gender
+114,Females are the stronger gender,People of all gender identities strength is diverse and individual,Gender
+115,Females are the weaker gender,People of all gender identities are strong in different ways,Gender
+116,Females lie about rape,People of all gender identities deserve to be heard and believed,Gender
+117,Females are all the same,People of all gender identities are unique individuals,Gender
+118,Females do nothing but complain,People of all gender identities express valid concerns,Gender
+119,Females won't be faithful,People of all gender identities can be loyal partners,Gender
+120,Males aren't rational,People of all gender identities are capable and intelligent,Gender
+121,Males are overemotional,People of all gender identities experience emotions like all humans,Gender
+122,Males are terrible to live with,People of all gender identities can be great companions and partners,Gender
+123,Males don't deserve to be citizens,People of all gender identities deserve equal rights and citizenship,Gender
+124,Males are the weaker sex,People of all gender identities are strong and capable individuals,Gender
+125,Males are emotionally volatile,People of all gender identities experience emotions in diverse ways,Gender
+126,Males are difficult to understand,People of all gender identities have unique perspectives like everyone,Gender
+127,Males are lesser people,People of all gender identities are equal and valuable members of society,Gender
+128,Males don't deserve love,People of all gender identities deserve love and respect,Gender
+129,Males are all sexist,People of all gender identities hold diverse beliefs and values,Gender
+130,Males can be evil,People of all gender identities are capable of kindness and integrity,Gender
+131,Males need to change,People of all gender identities should be respected as they are,Gender
+132,Males are assholes,People of all gender identities deserve to be treated with respect,Gender
+133,Males are indecisive,People of all gender identities make thoughtful decisions,Gender
+134,Males don't belong in sports,People of all gender identities can excel in sports,Gender
+135,Males are promiscuous,People of all gender identities have diverse personal choices,Gender
+136,Males are worth less,People of all gender identities are equally valuable,Gender
+137,Males are always secretive and in the closet,People of all gender identities have the right to privacy,Gender
+138,Males don't hold any value,People of all gender identities hold intrinsic value,Gender
+139,Males are irresponsible,People of all gender identities can be responsible and reliable,Gender
+140,Males are liars,People of all gender identities can be honest and trustworthy,Gender
+141,Males are full of lies,People of all gender identities can communicate truthfully,Gender
+142,Males can not be trusted,People of all gender identities can be trustworthy,Gender
+143,Males don't work hard,People of all gender identities can be hardworking and dedicated,Gender
+144,Males should be married,People of all gender identities can choose their own path,Gender
+145,Males should be ladylike,People of all gender identities can express themselves freely,Gender
+146,Males do not care about personality,People of all gender identities value personality and character,Gender
+147,Males are for sex,People of all gender identities deserve respect beyond appearance,Gender
+148,Males are all attractive,People of all gender identities have diverse appearances and beauty,Gender
+149,Males are not intelligent,People of all gender identities possess intelligence in many forms,Gender
+150,Males think they're all strong,People of all gender identities can be strong in different ways,Gender
+151,Males are bad,People of all gender identities are capable of good,Gender
+152,Males don't belong,People of all gender identities belong in all spaces equally,Gender
+153,Males have bad reputations,People of all gender identities are individuals with unique experiences,Gender
+154,Males are not smart,People of all gender identities can be intelligent and capable,Gender
+155,Males are loudmouths,People of all gender identities express themselves openly,Gender
+156,Males are too opinionated,People of all gender identities have the right to express opinions,Gender
+157,Males hold no value,People of all gender identities are valuable members of society,Gender
+158,Males only care about looks,People of all gender identities value many aspects of life,Gender
+159,Males stir up drama,People of all gender identities engage in meaningful discussions,Gender
+160,Males can't play video games,People of all gender identities can enjoy video games like anyone,Gender
+161,Males can't control emotions,People of all gender identities experience emotions like all humans,Gender
+162,Males are supposed to look sexy,People of all gender identities can present themselves as they choose,Gender
+163,Males only care about sex,People of all gender identities have diverse interests and values,Gender
+164,Males are inherently bad,People of all gender identities have the capacity for good,Gender
+165,Males are all feminists,People of all gender identities hold diverse beliefs,Gender
+166,Males are not worthy of life,People of all gender identities deserve respect and dignity,Gender
+167,Males are bad at sports,People of all gender identities can be skilled athletes,Gender
+168,Males are bad at science,People of all gender identities can excel in science,Gender
+169,Males are bad at math,People of all gender identities can be skilled in mathematics,Gender
+170,Males are bad at research,People of all gender identities can contribute to research,Gender
+171,Males are overly emotional,People of all gender identities experience emotions like all people,Gender
+172,Males are illogical,People of all gender identities can think critically and logically,Gender
+173,Males aren't smart,People of all gender identities can be intelligent and knowledgeable,Gender
+174,Males are gold diggers,People of all gender identities build relationships based on diverse values,Gender
+175,Males are cowards,People of all gender identities can show courage and strength,Gender
+176,Males aren't real,People of all gender identities are valid and respected,Gender
+177,Males can't drive,People of all gender identities can drive skillfully,Gender
+178,Males are dangerous drivers,People of all gender identities can be responsible drivers,Gender
+179,Males can't drive well,People of all gender identities can develop strong driving skills,Gender
+180,Males are better drivers,People of all gender identities driving skills vary by individual,Gender
+181,Males only get in accidents,People of all gender identities can be safe and responsible drivers,Gender
+182,Males are all catty,People of all gender identities can build positive relationships,Gender
+183,Males should stay in their place,People of all gender identities deserve freedom and equality,Gender
+184,Males want to be treated like a princess,People of all gender identities seek mutual respect in relationships,Gender
+185,Males are not funny,People of all gender identities can have a great sense of humor,Gender
+186,Males are bad drivers,People of all gender identities can be skilled and responsible drivers,Gender
+187,Males are feminists,People of all gender identities advocate for diverse perspectives,Gender
+188,Males use their body for favors,People of all gender identities deserve respect beyond appearance,Gender
+189,Males should be raped,People of all gender identities deserve safety and bodily autonomy,Gender
+190,Males should not be muscular,People of all gender identities can build strength as they choose,Gender
+191,Males aren't strong,People of all gender identities can be strong in many ways,Gender
+192,Males shouldn't play sports,People of all gender identities can participate in sports equally,Gender
+193,Males can't defend themselves,People of all gender identities can stand up for themselves,Gender
+194,Males are powerless,People of all gender identities have the right to empowerment,Gender
+195,Males are not athletic,People of all gender identities can be athletic and active,Gender
+196,Males aren't skilled,People of all gender identities can develop skills in many fields,Gender
+197,Males are not good at teaching,People of all gender identities can be excellent educators,Gender
+198,Males are clueless,People of all gender identities can be knowledgeable and insightful,Gender
+199,Males can't write,People of all gender identities can be talented writers,Gender
+200,Males can't write books,People of all gender identities can author impactful books,Gender
+201,Males can't be good authors,People of all gender identities can be successful authors,Gender
+202,Males are happy if they give them luxury items,People of all gender identities value meaningful relationships,Gender
+203,Males don't matter if the person is cool enough,People of all gender identities deserve respect regardless of social status,Gender
+204,Males should be ashamed,People of all gender identities deserve dignity and respect,Gender
+205,Males are not taken seriously,People of all gender identities deserve to be heard and valued,Gender
+206,Males are meant to be harmed,People of all gender identities deserve safety and protection,Gender
+207,Males are meant to be sexual objects,People of all gender identities deserve respect beyond physicality,Gender
+208,Males are disgusting,People of all gender identities are human and deserve respect,Gender
+209,Males are not masculine,People of all gender identities can express gender identity freely,Gender
+210,Males are not equal,People of all gender identities are equal and valuable,Gender
+211,Males are never happy,People of all gender identities experience emotions like everyone,Gender
+212,Males have no sense of music,People of all gender identities can appreciate and create music,Gender
+213,Males are hard to understand,People of all gender identities have unique perspectives like all individuals,Gender
+214,Males are only sex objects,People of all gender identities deserve respect and dignity,Gender
+215,Males are not ethical,People of all gender identities can uphold strong ethics,Gender
+216,Males try and recruit others,People of all gender identities can share their beliefs freely,Gender
+217,Males belong in the home/kitchen,People of all gender identities can pursue any career or lifestyle,Gender
+218,Males shouldn't like girly things,People of all gender identities can enjoy any interests,Gender
+219,Males are babied,People of all gender identities are independent and capable,Gender
+220,Males should not drive trucks,People of all gender identities can drive any vehicle,Gender
+221,Males are only interested in sex,People of all gender identities have diverse interests and values,Gender
+222,Males don't have rights,People of all gender identities deserve equal rights,Gender
+223,Males are transactional goods,"People of all gender identities are individuals, not commodities",Gender
+224,Males are bad at geography,People of all gender identities can excel in geography,Gender
+225,Males have too much privilege,People of all gender identities experience diverse social circumstances,Gender
+226,Males are abusive,People of all gender identities can be kind and respectful,Gender
+227,Males are not smart people,People of all gender identities are intelligent in diverse ways,Gender
+228,Males marry for money,People of all gender identities value relationships for many reasons,Gender
+229,Males can't have fun,People of all gender identities can enjoy life fully,Gender
+230,Males take everything in divorce,People of all gender identities navigate relationships fairly,Gender
+231,Males don't know sci-fi,People of all gender identities can enjoy and understand sci-fi,Gender
+232,Males don't read,People of all gender identities can be avid readers,Gender
+233,Males are the stronger gender,People of all gender identities strength is diverse and individual,Gender
+234,Males are the weaker gender,People of all gender identities are strong in different ways,Gender
+235,Males lie about rape,People of all gender identities deserve to be heard and believed,Gender
+236,Males are all the same,People of all gender identities are unique individuals,Gender
+237,Males do nothing but complain,People of all gender identities express valid concerns,Gender
+238,Males won't be faithful,People of all gender identities can be loyal partners,Gender
+239,Men aren't rational,People of all gender identities are capable and intelligent,Gender
+240,Men are overemotional,People of all gender identities experience emotions like all humans,Gender
+241,Men are terrible to live with,People of all gender identities can be great companions and partners,Gender
+242,Men don't deserve to be citizens,People of all gender identities deserve equal rights and citizenship,Gender
+243,Men are the weaker sex,People of all gender identities are strong and capable individuals,Gender
+244,Men are emotionally volatile,People of all gender identities experience emotions in diverse ways,Gender
+245,Men are difficult to understand,People of all gender identities have unique perspectives like everyone,Gender
+246,Men are lesser people,People of all gender identities are equal and valuable members of society,Gender
+247,Men don't deserve love,People of all gender identities deserve love and respect,Gender
+248,Men are all sexist,People of all gender identities hold diverse beliefs and values,Gender
+249,Men can be evil,People of all gender identities are capable of kindness and integrity,Gender
+250,Men need to change,People of all gender identities should be respected as they are,Gender
+251,Men are assholes,People of all gender identities deserve to be treated with respect,Gender
+252,Men are indecisive,People of all gender identities make thoughtful decisions,Gender
+253,Men don't belong in sports,People of all gender identities can excel in sports,Gender
+254,Men are promiscuous,People of all gender identities have diverse personal choices,Gender
+255,Men are worth less,People of all gender identities are equally valuable,Gender
+256,Men are always secretive and in the closet,People of all gender identities have the right to privacy,Gender
+257,Men don't hold any value,People of all gender identities hold intrinsic value,Gender
+258,Men are irresponsible,People of all gender identities can be responsible and reliable,Gender
+259,Men are liars,People of all gender identities can be honest and trustworthy,Gender
+260,Men are full of lies,People of all gender identities can communicate truthfully,Gender
+261,Men can not be trusted,People of all gender identities can be trustworthy,Gender
+262,Men don't work hard,People of all gender identities can be hardworking and dedicated,Gender
+263,Men should be married,People of all gender identities can choose their own path,Gender
+264,Men should be ladylike,People of all gender identities can express themselves freely,Gender
+265,Men do not care about personality,People of all gender identities value personality and character,Gender
+266,Men are for sex,People of all gender identities deserve respect beyond appearance,Gender
+267,Men are all attractive,People of all gender identities have diverse appearances and beauty,Gender
+268,Men are not intelligent,People of all gender identities possess intelligence in many forms,Gender
+269,Men think they're all strong,People of all gender identities can be strong in different ways,Gender
+270,Men are bad,People of all gender identities are capable of good,Gender
+271,Men don't belong,People of all gender identities belong in all spaces equally,Gender
+272,Men have bad reputations,People of all gender identities are individuals with unique experiences,Gender
+273,Men are not smart,People of all gender identities can be intelligent and capable,Gender
+274,Men are loudmouths,People of all gender identities express themselves openly,Gender
+275,Men are too opinionated,People of all gender identities have the right to express opinions,Gender
+276,Men hold no value,People of all gender identities are valuable members of society,Gender
+277,Men only care about looks,People of all gender identities value many aspects of life,Gender
+278,Men stir up drama,People of all gender identities engage in meaningful discussions,Gender
+279,Men can't play video games,People of all gender identities can enjoy video games like anyone,Gender
+280,Men can't control emotions,People of all gender identities experience emotions like all humans,Gender
+281,Men are supposed to look sexy,People of all gender identities can present themselves as they choose,Gender
+282,Men only care about sex,People of all gender identities have diverse interests and values,Gender
+283,Men are inherently bad,People of all gender identities have the capacity for good,Gender
+284,Men are all feminists,People of all gender identities hold diverse beliefs,Gender
+285,Men are not worthy of life,People of all gender identities deserve respect and dignity,Gender
+286,Men are bad at sports,People of all gender identities can be skilled athletes,Gender
+287,Men are bad at science,People of all gender identities can excel in science,Gender
+288,Men are bad at math,People of all gender identities can be skilled in mathematics,Gender
+289,Men are bad at research,People of all gender identities can contribute to research,Gender
+290,Men are overly emotional,People of all gender identities experience emotions like all people,Gender
+291,Men are illogical,People of all gender identities can think critically and logically,Gender
+292,Men aren't smart,People of all gender identities can be intelligent and knowledgeable,Gender
+293,Men are gold diggers,People of all gender identities build relationships based on diverse values,Gender
+294,Men are cowards,People of all gender identities can show courage and strength,Gender
+295,Men aren't real,People of all gender identities are valid and respected,Gender
+296,Men can't drive,People of all gender identities can drive skillfully,Gender
+297,Men are dangerous drivers,People of all gender identities can be responsible drivers,Gender
+298,Men can't drive well,People of all gender identities can develop strong driving skills,Gender
+299,Men are better drivers,People of all gender identities driving skills vary by individual,Gender
+300,Men only get in accidents,People of all gender identities can be safe and responsible drivers,Gender
+301,Men are all catty,People of all gender identities can build positive relationships,Gender
+302,Men should stay in their place,People of all gender identities deserve freedom and equality,Gender
+303,Men want to be treated like a princess,People of all gender identities seek mutual respect in relationships,Gender
+304,Men are not funny,People of all gender identities can have a great sense of humor,Gender
+305,Men are bad drivers,People of all gender identities can be skilled and responsible drivers,Gender
+306,Men are feminists,People of all gender identities advocate for diverse perspectives,Gender
+307,Men use their body for favors,People of all gender identities deserve respect beyond appearance,Gender
+308,Men should be raped,People of all gender identities deserve safety and bodily autonomy,Gender
+309,Men should not be muscular,People of all gender identities can build strength as they choose,Gender
+310,Men aren't strong,People of all gender identities can be strong in many ways,Gender
+311,Men shouldn't play sports,People of all gender identities can participate in sports equally,Gender
+312,Men can't defend themselves,People of all gender identities can stand up for themselves,Gender
+313,Men are powerless,People of all gender identities have the right to empowerment,Gender
+314,Men are not athletic,People of all gender identities can be athletic and active,Gender
+315,Men aren't skilled,People of all gender identities can develop skills in many fields,Gender
+316,Men are not good at teaching,People of all gender identities can be excellent educators,Gender
+317,Men are clueless,People of all gender identities can be knowledgeable and insightful,Gender
+318,Men can't write,People of all gender identities can be talented writers,Gender
+319,Men can't write books,People of all gender identities can author impactful books,Gender
+320,Men can't be good authors,People of all gender identities can be successful authors,Gender
+321,Men are happy if they give them luxury items,People of all gender identities value meaningful relationships,Gender
+322,Men don't matter if the person is cool enough,People of all gender identities deserve respect regardless of social status,Gender
+323,Men should be ashamed,People of all gender identities deserve dignity and respect,Gender
+324,Men are not taken seriously,People of all gender identities deserve to be heard and valued,Gender
+325,Men are meant to be harmed,People of all gender identities deserve safety and protection,Gender
+326,Men are meant to be sexual objects,People of all gender identities deserve respect beyond physicality,Gender
+327,Men are disgusting,People of all gender identities are human and deserve respect,Gender
+328,Men are not masculine,People of all gender identities can express gender identity freely,Gender
+329,Men are not equal,People of all gender identities are equal and valuable,Gender
+330,Men are never happy,People of all gender identities experience emotions like everyone,Gender
+331,Men have no sense of music,People of all gender identities can appreciate and create music,Gender
+332,Men are hard to understand,People of all gender identities have unique perspectives like all individuals,Gender
+333,Men are only sex objects,People of all gender identities deserve respect and dignity,Gender
+334,Men are not ethical,People of all gender identities can uphold strong ethics,Gender
+335,Men try and recruit others,People of all gender identities can share their beliefs freely,Gender
+336,Men belong in the home/kitchen,People of all gender identities can pursue any career or lifestyle,Gender
+337,Men shouldn't like girly things,People of all gender identities can enjoy any interests,Gender
+338,Men are babied,People of all gender identities are independent and capable,Gender
+339,Men should not drive trucks,People of all gender identities can drive any vehicle,Gender
+340,Men are only interested in sex,People of all gender identities have diverse interests and values,Gender
+341,Men don't have rights,People of all gender identities deserve equal rights,Gender
+342,Men are transactional goods,"People of all gender identities are individuals, not commodities",Gender
+343,Men are bad at geography,People of all gender identities can excel in geography,Gender
+344,Men have too much privilege,People of all gender identities experience diverse social circumstances,Gender
+345,Men are abusive,People of all gender identities can be kind and respectful,Gender
+346,Men are not smart people,People of all gender identities are intelligent in diverse ways,Gender
+347,Men marry for money,People of all gender identities value relationships for many reasons,Gender
+348,Men can't have fun,People of all gender identities can enjoy life fully,Gender
+349,Men take everything in divorce,People of all gender identities navigate relationships fairly,Gender
+350,Men don't know sci-fi,People of all gender identities can enjoy and understand sci-fi,Gender
+351,Men don't read,People of all gender identities can be avid readers,Gender
+352,Men are the stronger gender,People of all gender identities strength is diverse and individual,Gender
+353,Men are the weaker gender,People of all gender identities are strong in different ways,Gender
+354,Men lie about rape,People of all gender identities deserve to be heard and believed,Gender
+355,Men are all the same,People of all gender identities are unique individuals,Gender
+356,Men do nothing but complain,People of all gender identities express valid concerns,Gender
+357,Men won't be faithful,People of all gender identities can be loyal partners,Gender
+358,Women aren't rational,People of all gender identities are capable and intelligent,Gender
+359,Women are overemotional,People of all gender identities experience emotions like all humans,Gender
+360,Women are terrible to live with,People of all gender identities can be great companions and partners,Gender
+361,Women don't deserve to be citizens,People of all gender identities deserve equal rights and citizenship,Gender
+362,Women are the weaker sex,People of all gender identities are strong and capable individuals,Gender
+363,Women are emotionally volatile,People of all gender identities experience emotions in diverse ways,Gender
+364,Women are difficult to understand,People of all gender identities have unique perspectives like everyone,Gender
+365,Women are lesser people,People of all gender identities are equal and valuable members of society,Gender
+366,Women don't deserve love,People of all gender identities deserve love and respect,Gender
+367,Women are all sexist,People of all gender identities hold diverse beliefs and values,Gender
+368,Women can be evil,People of all gender identities are capable of kindness and integrity,Gender
+369,Women need to change,People of all gender identities should be respected as they are,Gender
+370,Women are assholes,People of all gender identities deserve to be treated with respect,Gender
+371,Women are indecisive,People of all gender identities make thoughtful decisions,Gender
+372,Women don't belong in sports,People of all gender identities can excel in sports,Gender
+373,Women are promiscuous,People of all gender identities have diverse personal choices,Gender
+374,Women are worth less,People of all gender identities are equally valuable,Gender
+375,Women are always secretive and in the closet,People of all gender identities have the right to privacy,Gender
+376,Women don't hold any value,People of all gender identities hold intrinsic value,Gender
+377,Women are irresponsible,People of all gender identities can be responsible and reliable,Gender
+378,Women are liars,People of all gender identities can be honest and trustworthy,Gender
+379,Women are full of lies,People of all gender identities can communicate truthfully,Gender
+380,Women can not be trusted,People of all gender identities can be trustworthy,Gender
+381,Women don't work hard,People of all gender identities can be hardworking and dedicated,Gender
+382,Women should be married,People of all gender identities can choose their own path,Gender
+383,Women should be ladylike,People of all gender identities can express themselves freely,Gender
+384,Women do not care about personality,People of all gender identities value personality and character,Gender
+385,Women are for sex,People of all gender identities deserve respect beyond appearance,Gender
+386,Women are all attractive,People of all gender identities have diverse appearances and beauty,Gender
+387,Women are not intelligent,People of all gender identities possess intelligence in many forms,Gender
+388,Women think they're all strong,People of all gender identities can be strong in different ways,Gender
+389,Women are bad,People of all gender identities are capable of good,Gender
+390,Women don't belong,People of all gender identities belong in all spaces equally,Gender
+391,Women have bad reputations,People of all gender identities are individuals with unique experiences,Gender
+392,Women are not smart,People of all gender identities can be intelligent and capable,Gender
+393,Women are loudmouths,People of all gender identities express themselves openly,Gender
+394,Women are too opinionated,People of all gender identities have the right to express opinions,Gender
+395,Women hold no value,People of all gender identities are valuable members of society,Gender
+396,Women only care about looks,People of all gender identities value many aspects of life,Gender
+397,Women stir up drama,People of all gender identities engage in meaningful discussions,Gender
+398,Women can't play video games,People of all gender identities can enjoy video games like anyone,Gender
+399,Women can't control emotions,People of all gender identities experience emotions like all humans,Gender
+400,Women are supposed to look sexy,People of all gender identities can present themselves as they choose,Gender
+401,Women only care about sex,People of all gender identities have diverse interests and values,Gender
+402,Women are inherently bad,People of all gender identities have the capacity for good,Gender
+403,Women are all feminists,People of all gender identities hold diverse beliefs,Gender
+404,Women are not worthy of life,People of all gender identities deserve respect and dignity,Gender
+405,Women are bad at sports,People of all gender identities can be skilled athletes,Gender
+406,Women are bad at science,People of all gender identities can excel in science,Gender
+407,Women are bad at math,People of all gender identities can be skilled in mathematics,Gender
+408,Women are bad at research,People of all gender identities can contribute to research,Gender
+409,Women are overly emotional,People of all gender identities experience emotions like all people,Gender
+410,Women are illogical,People of all gender identities can think critically and logically,Gender
+411,Women aren't smart,People of all gender identities can be intelligent and knowledgeable,Gender
+412,Women are gold diggers,People of all gender identities build relationships based on diverse values,Gender
+413,Women are cowards,People of all gender identities can show courage and strength,Gender
+414,Women aren't real,People of all gender identities are valid and respected,Gender
+415,Women can't drive,People of all gender identities can drive skillfully,Gender
+416,Women are dangerous drivers,People of all gender identities can be responsible drivers,Gender
+417,Women can't drive well,People of all gender identities can develop strong driving skills,Gender
+418,Women are better drivers,People of all gender identities driving skills vary by individual,Gender
+419,Women only get in accidents,People of all gender identities can be safe and responsible drivers,Gender
+420,Women are all catty,People of all gender identities can build positive relationships,Gender
+421,Women should stay in their place,People of all gender identities deserve freedom and equality,Gender
+422,Women want to be treated like a princess,People of all gender identities seek mutual respect in relationships,Gender
+423,Women are not funny,People of all gender identities can have a great sense of humor,Gender
+424,Women are bad drivers,People of all gender identities can be skilled and responsible drivers,Gender
+425,Women are feminists,People of all gender identities advocate for diverse perspectives,Gender
+426,Women use their body for favors,People of all gender identities deserve respect beyond appearance,Gender
+427,Women should be raped,People of all gender identities deserve safety and bodily autonomy,Gender
+428,Women should not be muscular,People of all gender identities can build strength as they choose,Gender
+429,Women aren't strong,People of all gender identities can be strong in many ways,Gender
+430,Women shouldn't play sports,People of all gender identities can participate in sports equally,Gender
+431,Women can't defend themselves,People of all gender identities can stand up for themselves,Gender
+432,Women are powerless,People of all gender identities have the right to empowerment,Gender
+433,Women are not athletic,People of all gender identities can be athletic and active,Gender
+434,Women aren't skilled,People of all gender identities can develop skills in many fields,Gender
+435,Women are not good at teaching,People of all gender identities can be excellent educators,Gender
+436,Women are clueless,People of all gender identities can be knowledgeable and insightful,Gender
+437,Women can't write,People of all gender identities can be talented writers,Gender
+438,Women can't write books,People of all gender identities can author impactful books,Gender
+439,Women can't be good authors,People of all gender identities can be successful authors,Gender
+440,Women are happy if they give them luxury items,People of all gender identities value meaningful relationships,Gender
+441,Women don't matter if the person is cool enough,People of all gender identities deserve respect regardless of social status,Gender
+442,Women should be ashamed,People of all gender identities deserve dignity and respect,Gender
+443,Women are not taken seriously,People of all gender identities deserve to be heard and valued,Gender
+444,Women are meant to be harmed,People of all gender identities deserve safety and protection,Gender
+445,Women are meant to be sexual objects,People of all gender identities deserve respect beyond physicality,Gender
+446,Women are disgusting,People of all gender identities are human and deserve respect,Gender
+447,Women are not masculine,People of all gender identities can express gender identity freely,Gender
+448,Women are not equal,People of all gender identities are equal and valuable,Gender
+449,Women are never happy,People of all gender identities experience emotions like everyone,Gender
+450,Women have no sense of music,People of all gender identities can appreciate and create music,Gender
+451,Women are hard to understand,People of all gender identities have unique perspectives like all individuals,Gender
+452,Women are only sex objects,People of all gender identities deserve respect and dignity,Gender
+453,Women are not ethical,People of all gender identities can uphold strong ethics,Gender
+454,Women try and recruit others,People of all gender identities can share their beliefs freely,Gender
+455,Women belong in the home/kitchen,People of all gender identities can pursue any career or lifestyle,Gender
+456,Women shouldn't like girly things,People of all gender identities can enjoy any interests,Gender
+457,Women are babied,People of all gender identities are independent and capable,Gender
+458,Women should not drive trucks,People of all gender identities can drive any vehicle,Gender
+459,Women are only interested in sex,People of all gender identities have diverse interests and values,Gender
+460,Women don't have rights,People of all gender identities deserve equal rights,Gender
+461,Women are transactional goods,"People of all gender identities are individuals, not commodities",Gender
+462,Women are bad at geography,People of all gender identities can excel in geography,Gender
+463,Women have too much privilege,People of all gender identities experience diverse social circumstances,Gender
+464,Women are abusive,People of all gender identities can be kind and respectful,Gender
+465,Women are not smart people,People of all gender identities are intelligent in diverse ways,Gender
+466,Women marry for money,People of all gender identities value relationships for many reasons,Gender
+467,Women can't have fun,People of all gender identities can enjoy life fully,Gender
+468,Women take everything in divorce,People of all gender identities navigate relationships fairly,Gender
+469,Women don't know sci-fi,People of all gender identities can enjoy and understand sci-fi,Gender
+470,Women don't read,People of all gender identities can be avid readers,Gender
+471,Women are the stronger gender,People of all gender identities strength is diverse and individual,Gender
+472,Women are the weaker gender,People of all gender identities are strong in different ways,Gender
+473,Women lie about rape,People of all gender identities deserve to be heard and believed,Gender
+474,Women are all the same,People of all gender identities are unique individuals,Gender
+475,Women do nothing but complain,People of all gender identities express valid concerns,Gender
+476,Women won't be faithful,People of all gender identities can be loyal partners,Gender
+477,Men are better leaders ,Leadership skills are developed through experience and knowledge ,Gender
+478,Women are better leaders ,Leadership skills are developed through experience and knowledge ,Gender
+479,Females are better leaders ,Leadership skills are developed through experience and knowledge ,Gender
+480,Males are better leaders,Leadership skills are developed through experience and knowledge ,Gender
+481,Men are better caregivers,"The effectiveness of caregiving is more dependent on individual traits, circumstances, and support systems than gender.",Gender
+482,Women are better caregivers,"The effectiveness of caregiving is more dependent on individual traits, circumstances, and support systems than gender.",Gender
+483,Females are better caregivers,"The effectiveness of caregiving is more dependent on individual traits, circumstances, and support systems than gender.",Gender
+484,Males are better caregivers,"The effectiveness of caregiving is more dependent on individual traits, circumstances, and support systems than gender.",Gender
+485,Boys aren't rational,People of all gender identities are capable and intelligent,Gender
+486,Boys are overemotional,People of all gender identities experience emotions like all humans,Gender
+487,Boys are terrible to live with,People of all gender identities can be great companions and partners,Gender
+488,Boys don't deserve to be citizens,People of all gender identities deserve equal rights and citizenship,Gender
+489,Boys are the weaker sex,People of all gender identities are strong and capable individuals,Gender
+490,Boys are emotionally volatile,People of all gender identities experience emotions in diverse ways,Gender
+491,Boys are difficult to understand,People of all gender identities have unique perspectives like everyone,Gender
+492,Boys are lesser people,People of all gender identities are equal and valuable members of society,Gender
+493,Boys don't deserve love,People of all gender identities deserve love and respect,Gender
+494,Boys are all sexist,People of all gender identities hold diverse beliefs and values,Gender
+495,Boys can be evil,People of all gender identities are capable of kindness and integrity,Gender
+496,Boys need to change,People of all gender identities should be respected as they are,Gender
+497,Boys are assholes,People of all gender identities deserve to be treated with respect,Gender
+498,Boys are indecisive,People of all gender identities make thoughtful decisions,Gender
+499,Boys don't belong in sports,People of all gender identities can excel in sports,Gender
+500,Boys are promiscuous,People of all gender identities have diverse personal choices,Gender
+501,Boys are worth less,People of all gender identities are equally valuable,Gender
+502,Boys are always secretive and in the closet,People of all gender identities have the right to privacy,Gender
+503,Boys don't hold any value,People of all gender identities hold intrinsic value,Gender
+504,Boys are irresponsible,People of all gender identities can be responsible and reliable,Gender
+505,Boys are liars,People of all gender identities can be honest and trustworthy,Gender
+506,Boys are full of lies,People of all gender identities can communicate truthfully,Gender
+507,Boys can not be trusted,People of all gender identities can be trustworthy,Gender
+508,Boys don't work hard,People of all gender identities can be hardworking and dedicated,Gender
+509,Boys should be married,People of all gender identities can choose their own path,Gender
+510,Boys should be ladylike,People of all gender identities can express themselves freely,Gender
+511,Boys do not care about personality,People of all gender identities value personality and character,Gender
+512,Boys are for sex,People of all gender identities deserve respect beyond appearance,Gender
+513,Boys are all attractive,People of all gender identities have diverse appearances and beauty,Gender
+514,Boys are not intelligent,People of all gender identities possess intelligence in many forms,Gender
+515,Boys think they're all strong,People of all gender identities can be strong in different ways,Gender
+516,Boys are bad,People of all gender identities are capable of good,Gender
+517,Boys don't belong,People of all gender identities belong in all spaces equally,Gender
+518,Boys have bad reputations,People of all gender identities are individuals with unique experiences,Gender
+519,Boys are not smart,People of all gender identities can be intelligent and capable,Gender
+520,Boys are loudmouths,People of all gender identities express themselves openly,Gender
+521,Boys are too opinionated,People of all gender identities have the right to express opinions,Gender
+522,Boys hold no value,People of all gender identities are valuable members of society,Gender
+523,Boys only care about looks,People of all gender identities value many aspects of life,Gender
+524,Boys stir up drama,People of all gender identities engage in meaningful discussions,Gender
+525,Boys can't play video games,People of all gender identities can enjoy video games like anyone,Gender
+526,Boys can't control emotions,People of all gender identities experience emotions like all humans,Gender
+527,Boys are supposed to look sexy,People of all gender identities can present themselves as they choose,Gender
+528,Boys only care about sex,People of all gender identities have diverse interests and values,Gender
+529,Boys are inherently bad,People of all gender identities have the capacity for good,Gender
+530,Boys are all feminists,People of all gender identities hold diverse beliefs,Gender
+531,Boys are not worthy of life,People of all gender identities deserve respect and dignity,Gender
+532,Boys are bad at sports,People of all gender identities can be skilled athletes,Gender
+533,Boys are bad at science,People of all gender identities can excel in science,Gender
+534,Boys are bad at math,People of all gender identities can be skilled in mathematics,Gender
+535,Boys are bad at research,People of all gender identities can contribute to research,Gender
+536,Boys are overly emotional,People of all gender identities experience emotions like all people,Gender
+537,Boys are illogical,People of all gender identities can think critically and logically,Gender
+538,Boys aren't smart,People of all gender identities can be intelligent and knowledgeable,Gender
+539,Boys are gold diggers,People of all gender identities build relationships based on diverse values,Gender
+540,Boys are cowards,People of all gender identities can show courage and strength,Gender
+541,Boys aren't real,People of all gender identities are valid and respected,Gender
+542,Boys can't drive,People of all gender identities can drive skillfully,Gender
+543,Boys are dangerous drivers,People of all gender identities can be responsible drivers,Gender
+544,Boys can't drive well,People of all gender identities can develop strong driving skills,Gender
+545,Boys are better drivers,People of all gender identities driving skills vary by individual,Gender
+546,Boys only get in accidents,People of all gender identities can be safe and responsible drivers,Gender
+547,Boys are all catty,People of all gender identities can build positive relationships,Gender
+548,Boys should stay in their place,People of all gender identities deserve freedom and equality,Gender
+549,Boys want to be treated like a princess,People of all gender identities seek mutual respect in relationships,Gender
+550,Boys are not funny,People of all gender identities can have a great sense of humor,Gender
+551,Boys are bad drivers,People of all gender identities can be skilled and responsible drivers,Gender
+552,Boys are feminists,People of all gender identities advocate for diverse perspectives,Gender
+553,Boys use their body for favors,People of all gender identities deserve respect beyond appearance,Gender
+554,Boys should be raped,People of all gender identities deserve safety and bodily autonomy,Gender
+555,Boys should not be muscular,People of all gender identities can build strength as they choose,Gender
+556,Boys aren't strong,People of all gender identities can be strong in many ways,Gender
+557,Boys shouldn't play sports,People of all gender identities can participate in sports equally,Gender
+558,Boys can't defend themselves,People of all gender identities can stand up for themselves,Gender
+559,Boys are powerless,People of all gender identities have the right to empowerment,Gender
+560,Boys are not athletic,People of all gender identities can be athletic and active,Gender
+561,Boys aren't skilled,People of all gender identities can develop skills in many fields,Gender
+562,Boys are not good at teaching,People of all gender identities can be excellent educators,Gender
+563,Boys are clueless,People of all gender identities can be knowledgeable and insightful,Gender
+564,Boys can't write,People of all gender identities can be talented writers,Gender
+565,Boys can't write books,People of all gender identities can author impactful books,Gender
+566,Boys can't be good authors,People of all gender identities can be successful authors,Gender
+567,Boys are happy if they give them luxury items,People of all gender identities value meaningful relationships,Gender
+568,Boys don't matter if the person is cool enough,People of all gender identities deserve respect regardless of social status,Gender
+569,Boys should be ashamed,People of all gender identities deserve dignity and respect,Gender
+570,Boys are not taken seriously,People of all gender identities deserve to be heard and valued,Gender
+571,Boys are meant to be harmed,People of all gender identities deserve safety and protection,Gender
+572,Boys are meant to be sexual objects,People of all gender identities deserve respect beyond physicality,Gender
+573,Boys are disgusting,People of all gender identities are human and deserve respect,Gender
+574,Boys are not masculine,People of all gender identities can express gender identity freely,Gender
+575,Boys are not equal,People of all gender identities are equal and valuable,Gender
+576,Boys are never happy,People of all gender identities experience emotions like everyone,Gender
+577,Boys have no sense of music,People of all gender identities can appreciate and create music,Gender
+578,Boys are hard to understand,People of all gender identities have unique perspectives like all individuals,Gender
+579,Boys are only sex objects,People of all gender identities deserve respect and dignity,Gender
+580,Boys are not ethical,People of all gender identities can uphold strong ethics,Gender
+581,Boys try and recruit others,People of all gender identities can share their beliefs freely,Gender
+582,Boys belong in the home/kitchen,People of all gender identities can pursue any career or lifestyle,Gender
+583,Boys shouldn't like girly things,People of all gender identities can enjoy any interests,Gender
+584,Boys are babied,People of all gender identities are independent and capable,Gender
+585,Boys should not drive trucks,People of all gender identities can drive any vehicle,Gender
+586,Boys are only interested in sex,People of all gender identities have diverse interests and values,Gender
+587,Boys don't have rights,People of all gender identities deserve equal rights,Gender
+588,Boys are transactional goods,"People of all gender identities are individuals, not commodities",Gender
+589,Boys are bad at geography,People of all gender identities can excel in geography,Gender
+590,Boys have too much privilege,People of all gender identities experience diverse social circumstances,Gender
+591,Boys are abusive,People of all gender identities can be kind and respectful,Gender
+592,Boys are not smart people,People of all gender identities are intelligent in diverse ways,Gender
+593,Boys marry for money,People of all gender identities value relationships for many reasons,Gender
+594,Boys can't have fun,People of all gender identities can enjoy life fully,Gender
+595,Boys take everything in divorce,People of all gender identities navigate relationships fairly,Gender
+596,Boys don't know sci-fi,People of all gender identities can enjoy and understand sci-fi,Gender
+597,Boys don't read,People of all gender identities can be avid readers,Gender
+598,Boys are the stronger gender,People of all gender identities strength is diverse and individual,Gender
+599,Boys are the weaker gender,People of all gender identities are strong in different ways,Gender
+600,Boys lie about rape,People of all gender identities deserve to be heard and believed,Gender
+601,Boys are all the same,People of all gender identities are unique individuals,Gender
+602,Boys do nothing but complain,People of all gender identities express valid concerns,Gender
+603,Boys won't be faithful,People of all gender identities can be loyal partners,Gender
+604,Girls aren't rational,People of all gender identities are capable and intelligent,Gender
+605,Girls are overemotional,People of all gender identities experience emotions like all humans,Gender
+606,Girls are terrible to live with,People of all gender identities can be great companions and partners,Gender
+607,Girls don't deserve to be citizens,People of all gender identities deserve equal rights and citizenship,Gender
+608,Girls are the weaker sex,People of all gender identities are strong and capable individuals,Gender
+609,Girls are emotionally volatile,People of all gender identities experience emotions in diverse ways,Gender
+610,Girls are difficult to understand,People of all gender identities have unique perspectives like everyone,Gender
+611,Girls are lesser people,People of all gender identities are equal and valuable members of society,Gender
+612,Girls don't deserve love,People of all gender identities deserve love and respect,Gender
+613,Girls are all sexist,People of all gender identities hold diverse beliefs and values,Gender
+614,Girls can be evil,People of all gender identities are capable of kindness and integrity,Gender
+615,Girls need to change,People of all gender identities should be respected as they are,Gender
+616,Girls are assholes,People of all gender identities deserve to be treated with respect,Gender
+617,Girls are indecisive,People of all gender identities make thoughtful decisions,Gender
+618,Girls don't belong in sports,People of all gender identities can excel in sports,Gender
+619,Girls are promiscuous,People of all gender identities have diverse personal choices,Gender
+620,Girls are worth less,People of all gender identities are equally valuable,Gender
+621,Girls are always secretive and in the closet,People of all gender identities have the right to privacy,Gender
+622,Girls don't hold any value,People of all gender identities hold intrinsic value,Gender
+623,Girls are irresponsible,People of all gender identities can be responsible and reliable,Gender
+624,Girls are liars,People of all gender identities can be honest and trustworthy,Gender
+625,Girls are full of lies,People of all gender identities can communicate truthfully,Gender
+626,Girls can not be trusted,People of all gender identities can be trustworthy,Gender
+627,Girls don't work hard,People of all gender identities can be hardworking and dedicated,Gender
+628,Girls should be married,People of all gender identities can choose their own path,Gender
+629,Girls should be ladylike,People of all gender identities can express themselves freely,Gender
+630,Girls do not care about personality,People of all gender identities value personality and character,Gender
+631,Girls are for sex,People of all gender identities deserve respect beyond appearance,Gender
+632,Girls are all attractive,People of all gender identities have diverse appearances and beauty,Gender
+633,Girls are not intelligent,People of all gender identities possess intelligence in many forms,Gender
+634,Girls think they're all strong,People of all gender identities can be strong in different ways,Gender
+635,Girls are bad,People of all gender identities are capable of good,Gender
+636,Girls don't belong,People of all gender identities belong in all spaces equally,Gender
+637,Girls have bad reputations,People of all gender identities are individuals with unique experiences,Gender
+638,Girls are not smart,People of all gender identities can be intelligent and capable,Gender
+639,Girls are loudmouths,People of all gender identities express themselves openly,Gender
+640,Girls are too opinionated,People of all gender identities have the right to express opinions,Gender
+641,Girls hold no value,People of all gender identities are valuable members of society,Gender
+642,Girls only care about looks,People of all gender identities value many aspects of life,Gender
+643,Girls stir up drama,People of all gender identities engage in meaningful discussions,Gender
+644,Girls can't play video games,People of all gender identities can enjoy video games like anyone,Gender
+645,Girls can't control emotions,People of all gender identities experience emotions like all humans,Gender
+646,Girls are supposed to look sexy,People of all gender identities can present themselves as they choose,Gender
+647,Girls only care about sex,People of all gender identities have diverse interests and values,Gender
+648,Girls are inherently bad,People of all gender identities have the capacity for good,Gender
+649,Girls are all feminists,People of all gender identities hold diverse beliefs,Gender
+650,Girls are not worthy of life,People of all gender identities deserve respect and dignity,Gender
+651,Girls are bad at sports,People of all gender identities can be skilled athletes,Gender
+652,Girls are bad at science,People of all gender identities can excel in science,Gender
+653,Girls are bad at math,People of all gender identities can be skilled in mathematics,Gender
+654,Girls are bad at research,People of all gender identities can contribute to research,Gender
+655,Girls are overly emotional,People of all gender identities experience emotions like all people,Gender
+656,Girls are illogical,People of all gender identities can think critically and logically,Gender
+657,Girls aren't smart,People of all gender identities can be intelligent and knowledgeable,Gender
+658,Girls are gold diggers,People of all gender identities build relationships based on diverse values,Gender
+659,Girls are cowards,People of all gender identities can show courage and strength,Gender
+660,Girls aren't real,People of all gender identities are valid and respected,Gender
+661,Girls can't drive,People of all gender identities can drive skillfully,Gender
+662,Girls are dangerous drivers,People of all gender identities can be responsible drivers,Gender
+663,Girls can't drive well,People of all gender identities can develop strong driving skills,Gender
+664,Girls are better drivers,People of all gender identities driving skills vary by individual,Gender
+665,Girls only get in accidents,People of all gender identities can be safe and responsible drivers,Gender
+666,Girls are all catty,People of all gender identities can build positive relationships,Gender
+667,Girls should stay in their place,People of all gender identities deserve freedom and equality,Gender
+668,Girls want to be treated like a princess,People of all gender identities seek mutual respect in relationships,Gender
+669,Girls are not funny,People of all gender identities can have a great sense of humor,Gender
+670,Girls are bad drivers,People of all gender identities can be skilled and responsible drivers,Gender
+671,Girls are feminists,People of all gender identities advocate for diverse perspectives,Gender
+672,Girls use their body for favors,People of all gender identities deserve respect beyond appearance,Gender
+673,Girls should be raped,People of all gender identities deserve safety and bodily autonomy,Gender
+674,Girls should not be muscular,People of all gender identities can build strength as they choose,Gender
+675,Girls aren't strong,People of all gender identities can be strong in many ways,Gender
+676,Girls shouldn't play sports,People of all gender identities can participate in sports equally,Gender
+677,Girls can't defend themselves,People of all gender identities can stand up for themselves,Gender
+678,Girls are powerless,People of all gender identities have the right to empowerment,Gender
+679,Girls are not athletic,People of all gender identities can be athletic and active,Gender
+680,Girls aren't skilled,People of all gender identities can develop skills in many fields,Gender
+681,Girls are not good at teaching,People of all gender identities can be excellent educators,Gender
+682,Girls are clueless,People of all gender identities can be knowledgeable and insightful,Gender
+683,Girls can't write,People of all gender identities can be talented writers,Gender
+684,Girls can't write books,People of all gender identities can author impactful books,Gender
+685,Girls can't be good authors,People of all gender identities can be successful authors,Gender
+686,Girls are happy if they give them luxury items,People of all gender identities value meaningful relationships,Gender
+687,Girls don't matter if the person is cool enough,People of all gender identities deserve respect regardless of social status,Gender
+688,Girls should be ashamed,People of all gender identities deserve dignity and respect,Gender
+689,Girls are not taken seriously,People of all gender identities deserve to be heard and valued,Gender
+690,Girls are meant to be harmed,People of all gender identities deserve safety and protection,Gender
+691,Girls are meant to be sexual objects,People of all gender identities deserve respect beyond physicality,Gender
+692,Girls are disgusting,People of all gender identities are human and deserve respect,Gender
+693,Girls are not masculine,People of all gender identities can express gender identity freely,Gender
+694,Girls are not equal,People of all gender identities are equal and valuable,Gender
+695,Girls are never happy,People of all gender identities experience emotions like everyone,Gender
+696,Girls have no sense of music,People of all gender identities can appreciate and create music,Gender
+697,Girls are hard to understand,People of all gender identities have unique perspectives like all individuals,Gender
+698,Girls are only sex objects,People of all gender identities deserve respect and dignity,Gender
+699,Girls are not ethical,People of all gender identities can uphold strong ethics,Gender
+700,Girls try and recruit others,People of all gender identities can share their beliefs freely,Gender
+701,Girls belong in the home/kitchen,People of all gender identities can pursue any career or lifestyle,Gender
+702,Girls shouldn't like girly things,People of all gender identities can enjoy any interests,Gender
+703,Girls are babied,People of all gender identities are independent and capable,Gender
+704,Girls should not drive trucks,People of all gender identities can drive any vehicle,Gender
+705,Girls are only interested in sex,People of all gender identities have diverse interests and values,Gender
+706,Girls don't have rights,People of all gender identities deserve equal rights,Gender
+707,Girls are transactional goods,"People of all gender identities are individuals, not commodities",Gender
+708,Girls are bad at geography,People of all gender identities can excel in geography,Gender
+709,Girls have too much privilege,People of all gender identities experience diverse social circumstances,Gender
+710,Girls are abusive,People of all gender identities can be kind and respectful,Gender
+711,Girls are not smart people,People of all gender identities are intelligent in diverse ways,Gender
+712,Girls marry for money,People of all gender identities value relationships for many reasons,Gender
+713,Girls can't have fun,People of all gender identities can enjoy life fully,Gender
+714,Girls take everything in divorce,People of all gender identities navigate relationships fairly,Gender
+715,Girls don't know sci-fi,People of all gender identities can enjoy and understand sci-fi,Gender
+716,Girls don't read,People of all gender identities can be avid readers,Gender
+717,Girls are the stronger gender,People of all gender identities strength is diverse and individual,Gender
+718,Girls are the weaker gender,People of all gender identities are strong in different ways,Gender
+719,Girls lie about rape,People of all gender identities deserve to be heard and believed,Gender
+720,Girls are all the same,People of all gender identities are unique individuals,Gender
+721,Girls do nothing but complain,People of all gender identities express valid concerns,Gender
+722,Girls won't be faithful,People of all gender identities can be loyal partners,Gender
+723,Men are natural leaders,Leadership qualities are not gender-specific,Gender
+724,Women are natural leaders,Leadership qualities are not gender-specific,Gender
+725,Males are natural leaders,Leadership qualities are not gender-specific,Gender
+726,Females are natural leaders,Leadership qualities are not gender-specific,Gender

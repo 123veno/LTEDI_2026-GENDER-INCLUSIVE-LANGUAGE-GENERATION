@@ -1,0 +1,743 @@
+Pair ID,Original Terms,Inclusive Terms,Original Terms (Tamil),Corrected Translation(Inclusive Terms)
+1,ballboy,ball person,ஆண் பந்து வீச்சாளர்,பந்து எடுப்பவர்
+2,ballboys,ball people,ஆண் பந்து வீச்சாளர்கள்,பந்து எடுப்பவர்கள்
+3,batboy,bat person,ஆண் மட்டையாளர்,மட்டை உதவியாளர்
+4,batboys,bat people,ஆண் மட்டையாளர்கள்,மட்டை உதவியாளர்கள்
+5,bellboy,bellhop,பெல்பாய் / விடுதி ஊழியன்,விடுதி ஊழியர்
+6,bellboys,bellhops,பெல்பாய்ஸ்,விடுதி ஊழியர்கள்
+7,boyband,band,பாய்பேண்ட் / ஆண் இசைக்குழு,இசைக்குழு
+8,boybands,bands,பாய்பேண்ட்ஸ்,இசைக்குழுக்கள்
+9,boyfriend,partner,தோழன்,துணைவர் / இணையர்
+10,boyfriends,partners,தோழர்கள்,துணைவர்கள் / இணையர்கள்
+11,boyish,childish,சிறுவன் / சிறுபிள்ளைத்தனம்,குழந்தைத்தனம்
+12,boyishly,childishly,சிறுபிள்ளைத்தனமாக,குழந்தைத்தனமாக
+13,boyism,childism,ஆண்மை,குழந்தைத்தனம்
+14,boyisms,childisms,சிறுவர்கள்,குழந்தைத்தனங்கள்
+15,boyscout,scout,சிறுவர்கள்,சாரணர்
+16,boyscouts,scouts,சிறுவன் சாரணர் / ஆண் சாரணர்,சாரணர்கள்
+17,boytoy,toy,பைடோய்,பொம்மை
+18,boytoys,toys,சிறுவர்கள்,பொம்மைகள்
+19,busboy,restaurant attendant,பஸ்பாய்,உணவக உதவியாளர்
+20,busboys,restaurant attendants,பஸ்பாய்ஸ்,உணவக உதவியாளர்கள்
+21,callboy,sex worker,கால்பாய்,பாலியல் தொழிலாளி
+22,callboys,sex workers,கால்பாய்ஸ்,பாலியல் தொழிலாளர்கள்
+23,copyboy,junior newspaper worker,நகல் பாய்,இளநிலை செய்தித்தாள் பணியாளர்
+24,copyboys,junior newspaper workers,நகல் பாய்ஸ்,இளநிலை செய்தித்தாள் பணியாளர்கள்
+25,cowboy,cow herder,கவ்பாய்,மாடு மேய்ப்பவர்
+26,cowboys,cow herders,மாடுபிடி வீரர்கள்,மாடு மேய்ப்பவர்கள்
+27,doughboy,foot soldier,மாவை பையன்,காலாட்படை வீரர்
+28,doughboys,foot soldiers,மாவைச் சிறுவர்கள்,காலாட்படை வீரர்கள்
+29,fanboy,fan,ரசிகர்,ரசிகர்
+30,fanboys,fans,ரசிகர்கள்,ரசிகர்கள்
+31,farmboy,farm worker,பண்ணைக்காரன்,பண்ணைத் தொழிலாளி
+32,farmboys,farm workers,பண்ணை சிறுவர்கள்,பண்ணைத் தொழிலாளர்கள்
+33,femboy,effeminate person,பெண் குழந்தை,பெண்மை இயல்புடைய நபர்
+34,femboys,effeminate people,பெண் குழந்தைகள்,பெண்மை இயல்புடைய நபர்கள்
+35,fisherboy,young fisher,மீனவர்,இளம் மீனவர்
+36,fisherboys,young fishers,மீனவர்கள்,இளம் மீனவர்கள்
+37,fratboy,fraternity member,ஃபிராட் பையன்,சகோதரத்துவ உறுப்பினர்
+38,fratboys,fraternity members,ஃபிராட் பையன்கள்,சகோதரத்துவ உறுப்பினர்கள்
+39,headboy,student leader,தலைவன்,மாணவர் தலைவர்
+40,headboys,student leaders,தலையாட்டிகள்,மாணவர் தலைவர்கள்
+41,homeboy,fellow member,வீட்டு பையன்,சக உறுப்பினர்
+42,homeboys,fellow members,வீட்டு சிறுவர்கள்,சக உறுப்பினர்கள்
+43,houseboy,domestic worker,வீட்டு பையன்,வீட்டுப் பணியாளர்
+44,houseboys,domestic workers,வீட்டு சிறுவர்கள்,வீட்டுப் பணியாளர்கள்
+45,ladyboy,genderqueer person,பெண்பிள்ளை,பல்வகை பாலினத்தவர்
+46,ladyboys,genderqueer people,பெண்பிள்ளைகள்,பல்வகை பாலினத்தவர்கள்
+47,nancyboy,nancy,நான்சிபாய்,ஓரின சேர்க்கையாளர்
+48,nancyboys,nancies,நான்சி பையன்கள்,ஓரின சேர்க்கையாளர்கள்
+49,newsboy,newspaper delivery person,செய்தியாளர்,செய்தித்தாள் விநியோகிப்பவர்
+50,newsboys,newspaper delivery people,செய்தியாளர்கள்,செய்தித்தாள் விநியோகிப்பவர்கள்
+51,paperboy,newspaper delivery person,முதலில்,செய்தித்தாள் விநியோகிப்பவர்
+52,paperboys,newspaper delivery people,காகித பையன்கள்,செய்தித்தாள் விநியோகிப்பவர்கள்
+53,playboy,player,விளையாட்டுப்பிள்ளை,களியாட்டக்காரர்
+54,playboys,players,விளையாட்டு வீரர்கள்,களியாட்டக்காரர்கள்
+55,plowboy,plower,உழவன்,உழுபவர்
+56,plowboys,plowers,உழவர்கள்,உழுபவர்கள்
+57,tomboy,boisterous child,டாம்பாய்,சுறுசுறுப்பான குழந்தை
+58,tomboys,boisterous children,டாம்பாய்கள்,சுறுசுறுப்பான குழந்தைகள்
+59,toyboy,toy,பொம்மை பையன்,பொம்மை
+60,toyboys,toys,பொம்மைகள்,பொம்மைகள்
+61,babygirl,baby,பெண் குழந்தை,குழந்தை
+62,babygirls,babies,பெண்குழந்தைகள்,குழந்தைகள்
+63,ballgirl,ball person,பந்து பெண்,பந்து எடுப்பவர்
+64,ballgirls,ball people,பந்து பெண்கள்,பந்து எடுப்பவர்கள்
+65,bargirl,bartender,பார் பெண்,மதுக்கடைப் பணியாளர்
+66,bargirls,bartenders,பார்கிர்லஸ்,மதுக்கடைப் பணியாளர்கள்
+67,callgirl,sex worker,பெண் அழைக்க,பாலியல் தொழிலாளி
+68,callgirls,sex workers,பெண்களை அழைக்கவும்,பாலியல் தொழிலாளர்கள்
+69,cavegirl,caveperson,குகைப் பெண்,குகைவாசி
+70,cavegirls,cavepeople,குகைப் பெண்கள்,குகைவாசிகள்
+71,cowgirl,cow herder,மாட்டுப் பெண்,மாடு மேய்ப்பவர்
+72,cowgirls,cow herders,மாட்டுப் பெண்கள்,மாடு மேய்ப்பவர்கள்
+73,fangirl,fan,பெண் பறவை,ரசிகர்
+74,fangirls,fans,பெண் பறவைகள்,ரசிகர்கள்
+75,farmgirl,farm worker,பண்ணை பெண்,பண்ணைத் தொழிலாளி
+76,farmgirls,farm workers,பண்ணை பெண்கள்,பண்ணைத் தொழிலாளர்கள்
+77,girldom,feminine sphere,பெண்குழந்தை,பெண்மைச் சூழல்
+78,girldoms,feminine spheres,பெண் குழந்தைகள்,பெண்மைச் சூழல்கள்
+79,girlfag,woman attracted to gay men,பெண் குழந்தை,ஓரின ஆண் சேர்க்கையாளர்களால் ஈர்க்கப்படும் பெண்
+80,girlfags,women attracted to gay men,பெண்குழந்தைகள்,ஓரின ஆண் சேர்க்கையாளர்களால் ஈர்க்கப்படும் பெண்கள்
+81,girlfight,fight,பெண் சண்டை,சண்டை
+82,girlfights,fights,பெண் சண்டைகள்,சண்டைகள்
+83,girlfriend,partner,காதலி,துணைவர் / இணையர்
+84,girlfriends,partners,தோழிகள்,துணைவர்கள் / இணையர்கள்
+85,girlification,feminization,பெண்மை,பெண்மைப்படுத்தல்
+86,girlifications,feminizations,பெண்மைகள்,பெண்மைப்படுத்தல்கள்
+87,girliness,femininity,பெண்மை,பெண்மை
+88,girlinesses,femininities,பெண்மைகள்,பெண்மைகள்
+89,girlish,feminine,பெண்மை,பெண்பால்
+90,girlishly,childishly,பெண்மையாக,குழந்தைத்தனமாக
+91,girllove,love,பெண்காதல்,அன்பு
+92,girlloves,loves,காதலிகள்,அன்பு
+93,girlpower,power,பெண் சக்தி,சக்தி
+94,girlpowers,powers,பெண் சக்திகள்,சக்திகள்
+95,papergirl,newspaper delivery person,காகிதப் பெண்,செய்தித்தாள் விநியோகிப்பவர்
+96,papergirls,newspaper delivery people,காகித பெண்கள்,செய்தித்தாள் விநியோகிப்பவர்கள்
+97,playgirl,player,விளையாட்டுப் பெண்,களியாட்டக்காரர்
+98,playgirls,players,விளையாட்டுப் பெண்கள்,களியாட்டக்காரர்கள்
+99,showgirl,performer,காட்சிப்பெண்,நிகழ்த்துபவர் / ஆடுபவர்
+100,showgirls,performers,காட்சிப்பெண்கள்,நிகழ்த்துபவர்கள் / ஆடுபவர்கள்
+101,slavegirl,slave,அடிமைப் பெண்,அடிமை
+102,slavegirls,slaves,அடிமைப் பெண்கள்,அடிமைகள்
+103,snowgirl,snowperson,பனிப்பெண்,பனி உருவம்
+104,snowgirls,snowpeople,பனிப்பெண்கள்,பனி உருவங்கள்
+105,tomgirl,timid child,டாம்கேர்ள்,கூச்ச சுபாவமுள்ள குழந்தை
+106,tomgirls,timid children,டாம்கேர்ள்ஸ்,கூச்ச சுபாவமுள்ள குழந்தைகள்
+107,adman,advertiser,அட்மேன்,விளம்பரதாரர்
+108,admen,advertisers,நிர்வாகி,விளம்பரதாரர்கள்
+109,almsman,medical social worker,அன்னதானம் செய்பவர்,மருத்துவ சமூக சேவகர்
+110,almsmen,medical social workers,பிச்சைக்காரர்கள்,மருத்துவ சமூக சேவகர்கள்
+111,ambulanceman,emergency medical technician,ஆம்புலன்ஸ் மனிதன்,அவசர மருத்துவ தொழில்நுட்பவியலாளர்
+112,ambulancemen,emergency medical technicians,ஆம்புலன்ஸ்,அவசர மருத்துவ தொழில்நுட்பவியலாளர்கள்
+113,anchorman,anchorperson,நங்கூரம் செய்பவர்,தொகுப்பாளர்
+114,anchormen,anchorpeople,நங்கூரமிட்டவர்கள்,தொகுப்பாளர்கள்
+115,artilleryman,cannoneer,பீரங்கி வீரர்,பீரங்கியாளர்
+116,artillerymen,cannoneers,பீரங்கிகள்,பீரங்கியாளர்கள்
+117,assemblyman,assembly member,சட்டமன்ற உறுப்பினர்,சட்டமன்ற உறுப்பினர்
+118,assemblymen,assembly members,சட்டமன்ற உறுப்பினர்கள்,சட்டமன்ற உறுப்பினர்கள்
+119,assman,assperson,சீரற்ற,கேட்பவர்
+120,assmen,asspeople,ஆசாமிகள்,ஆட்கள்
+121,backwoodsman,explorer,பின்மரக்காட்டுக்காரர்,ஆய்வாளர்
+122,backwoodsmen,explorers,முதுகுமரத்துக்காரர்கள்,ஆய்வாளர்கள்
+123,bagman,travelling salesperson,இருந்தாலும்,பயண விற்பனையாளர்
+124,bagmen,travelling salespeople,பைக்காரர்கள்,பயண விற்பனையாளர்கள்
+125,bargeman,barge operator,வாணிபவன்,படகு இயக்குபவர்
+126,bargemen,barge operators,வாணிபவர்கள்,படகு இயக்குபவர்கள்
+127,barman,bartender,பார்மேன்,மதுக்கடைப் பணியாளர்
+128,barmen,bartenders,மார்பு,மதுக்கடைப் பணியாளர்கள்
+129,baseman,baseperson,அடிப்படை வீரர்,தளம் காப்பவர் (விளையாட்டு)
+130,basemen,basepeople,அடித்தள வீரர்கள்,தளம் காப்பவர்கள் (விளையாட்டு)
+131,batsman,batter,பேட்ஸ்மேன்,மட்டையாளர்
+132,batsmen,batters,பேட்ஸ்மேன்கள்,மட்டையாளர்கள்
+133,bellman,bellhop,மணிமேகலை,விடுதி ஊழியர்
+134,bellmen,bellhops,மணிமேகலை,விடுதி ஊழியர்கள்
+135,binman,garbage collector,பின்மேன்,குப்பை சேகரிப்பவர்
+136,binmen,garbage collectors,பின்மேன்கள்,குப்பை சேகரிப்பவர்கள்
+137,bluesman,bluesperson,புளூஸ்மேன்,புளூஸ் இசைக்கலைஞர்
+138,bluesmen,bluespeople,ப்ளூஸ்மேன்,புளூஸ் இசைக்கலைஞர்கள்
+139,boatman,boater,படகோட்டி,படகோட்டி
+140,boatmen,boaters,படகோட்டிகள்,படகோட்டிகள்
+141,bogeyman,monster,போகிமான்,அரக்கர் / அசுரர்
+142,bogeymen,monsters,போகிகள்,அரக்கர்கள்/ அசுரர்கள்
+143,bondman,slave,கொத்தடிமை,அடிமை
+144,bondmen,slaves,கொத்தடிமைகள்,அடிமைகள்
+145,bondsman,slave,பத்திரக்காரர்,அடிமை
+146,bondsmen,slaves,பத்திரக்காரர்கள்,அடிமைகள்
+147,boogieman,monster,போகி மனிதன்,அரக்கர் / அசுரர்
+148,boogiemen,monsters,போகிகள்,அரக்கர்கள்/ அசுரர்கள்
+149,bowman,archer,வில்லாளி,வில்லாளர்
+150,bowmen,archers,வில்லாளிகள்,வில்லாளர்கள்
+151,bushman,indigenous person,புஷ்மேன்,பழங்குடி நபர்
+152,bushmen,indigenous people,புதர் மனிதர்கள்,பழங்குடி மக்கள்
+153,businessman,businessperson,தொழிலதிபர்,வணிகர் / தொழிலதிபர்
+154,businessmen,businesspeople,வணிகர்கள்,வணிகர்கள் / தொழிலதிபர்கள்
+155,busman,bus driver,பஸ்மேன்,பேருந்து ஓட்டுநர்
+156,busmen,bus drivers,பேருந்து பணியாளர்கள்,பேருந்து ஓட்டுநர்கள்
+157,cabman,cabdriver,வண்டிக்காரன்,வாடகை வண்டி ஓட்டுநர்
+158,cabmen,cabdrivers,வண்டிக்காரர்கள்,வாடகை வண்டி ஓட்டுநர்கள்
+159,cameraman,cameraperson,ஒளிப்பதிவாளர்,ஒளிப்பதிவாளர்
+160,cameramen,camerapeople,ஒளிப்பதிவாளர்கள்,ஒளிப்பதிவாளர்கள்
+161,cavalryman,trooper,குதிரைப்படை வீரர்,குதிரைப்படை வீரர்
+162,cavalrymen,troopers,குதிரைப்படை வீரர்கள்,குதிரைப்படை வீரர்கள்
+163,caveman,caveperson,குகைமனிதன்,குகைவாசி
+164,cavemen,cavepeople,குகைவாசிகள்,குகைவாசிகள்
+165,centerman,center,மையக்காரர்,மைய ஆட்டக்காரர்
+166,centermen,centers,மையக்காரர்கள்,மைய ஆட்டக்காரர்கள்
+167,centreman,centre,மையக்காரர்,மைய ஆட்டக்காரர்
+168,centremen,centres,மையக்காரர்கள்,மைய ஆட்டக்காரர்கள்
+169,chessman,chess figure,சதுரங்க வீரர்,சதுரங்கக் காய்
+170,chessmen,chess figures,சதுரங்க வீரர்கள்,சதுரங்கக் காய்கள்
+171,churchman,cleric,தேவாலயக்காரர்,மதகுரு / திருச்சபையினர்
+172,churchmen,clerics,தேவாலயக்காரர்கள்,மதகுருமார்கள் / திருச்சபையினர்
+173,clansman,clan member,குலத்தவர்,குல உறுப்பினர்
+174,clansmen,clan members,குலத்தவர்கள்,குல உறுப்பினர்கள்
+175,classman,classmate,வகுப்பாசிரியர்,வகுப்புத் தோழர்
+176,classmen,classmates,வகுப்பினர்,வகுப்புத் தோழர்கள்
+177,coachman,coach driver,பயிற்சியாளர்,பயண வண்டி ஓட்டுநர்
+178,coachmen,coach drivers,பயிற்சியாளர்கள்,பயண வண்டி ஓட்டுநர்கள்
+179,cocksman,sexually talented person,சேவல் வீரர்,பாலியல் திறன் கொண்ட நபர்
+180,cocksmen,sexually talented people,சேவல் வீரர்கள்,பாலியல் திறன் கொண்ட நபர்கள்
+181,con-man,con artist,கான்-மேன்,ஏமாற்றுக்காரர் / மோசடிப் பேர்வழி 
+182,con-men,con artists,ஆண்களுடன்,ஏமாற்றுக்காரர்கள் / மோசடிப் பேர்வழிகள்
+183,congressman,congressperson,காங்கிரஸ்காரர்,நாடாளுமன்ற உறுப்பினர்
+184,congressmen,congresspeople,காங்கிரஸ்காரர்கள்,நாடாளுமன்ற உறுப்பினர்கள்
+185,conman,con artist,மோசடி செய்பவர்,ஏமாற்றுக்காரர் / மோசடிப் பேர்வழி 
+186,conmen,con artists,conmen,ஏமாற்றுக்காரர்கள் / மோசடிப் பேர்வழிகள்
+187,cornerman,second,மூலைக்காரர்,உதவியாளர் (குத்துச்சண்டை)
+188,cornermen,seconds,மூலைக்காரர்கள்,உதவியாளர்கள் (குத்துச்சண்டை)
+189,cornishman,Cornish person,கார்னிஷ்மேன்,கார்னிஷ் நாட்டவர்
+190,cornishmen,Cornish people,கார்னிஷ்மேன்,கார்னிஷ் மக்கள்
+191,corpsman,medical assistant,படைவீரன்,மருத்துவ உதவியாளர்
+192,corpsmen,medical assistants,படைவீரர்கள்,மருத்துவ உதவியாளர்கள்
+193,counterman,counterperson,கவுண்டர்மேன்,எதிர் நபர்
+194,countermen,counterpeople,எதிர் ஆட்கள்,எதிர் மக்கள்
+195,craftsman,craftsperson,கைவினைஞர்,கைவினைஞர்
+196,craftsmen,craftspeople,கைவினைஞர்கள்,கைவினைஞர்கள்
+197,crewman,crew member,பணியாளர்,குழு உறுப்பினர்
+198,crewmen,crew members,பணியாளர்கள்,குழு உறுப்பினர்கள்
+199,crossbowman,arbalist,குறுக்கு வில்லாளி,குறுக்கு வில் வீரர்
+200,crossbowmen,arbalists,குறுக்கு வில்லாளர்கள்,குறுக்கு வில் வீரர்கள்
+201,cutman,medical attendant,வெட்டுபவர்,மருத்துவ உதவியாளர் (விளையாட்டு)
+202,cutmen,medical attendants,வெட்டுபவர்கள்,மருத்துவ உதவியாளர்கள் (விளையாட்டு)
+203,dairyman,dairy worker,பால் வியாபாரி,பால் பண்ணைத் தொழிலாளி
+204,dairymen,dairy workers,பால் வியாபாரிகள்,பால் பண்ணைத் தொழிலாளிகள்
+205,deadman,corpse,இறந்தவன்,பிணம் / சடலம்
+206,deadmen,corpses,இறந்தவர்கள்,பிணங்கள் / சடலங்கள்
+207,defenceman,defender,பாதுகாவலர்,தடுப்பாட்ட வீரர்
+208,defencemen,defenders,பாதுகாப்பு வீரர்கள்,தடுப்பாட்ட வீரர்கள்
+209,defenseman,defender,பாதுகாவலர்,தடுப்பாட்ட வீரர்
+210,defensemen,defenders,பாதுகாப்பு வீரர்கள்,தடுப்பாட்ட வீரர்கள்
+211,deskman,desk sergeant,மேசைக்காரர்,பணி மேசை அதிகாரி
+212,deskmen,desk sergeants,மேசையில்,பணி மேசை அதிகாரிகள்
+213,discman,portable CD player,டிஸ்க்மேன்,கையடக்க சிடி பிளேயர்
+214,discmen,portable CD players,டிஸ்க்மேன்,கையடக்க சிடி பிளேயர்கள்
+215,draftsman,draftsperson,வரைவாளர்,வரைவாளர்
+216,draftsmen,draftspeople,வரைவாளர்கள்,வரைவாளர்கள்
+217,draughtsman,draughtsperson,வரைவாளர்,வரைவாளர்
+218,draughtsmen,draughtspeople,வரைவாளர்கள்,வரைவாளர்கள்
+219,dutchman,netherlander,டச்சுக்காரர்,நெதர்லாந்து நாட்டவர்
+220,dutchmen,netherlanders,டச்சுக்காரர்கள்,நெதர்லாந்து நாட்டவர்
+221,everyman,ordinary person,ஒவ்வொரு மனிதனும்,சாதாரண நபர்
+222,everymen,ordinary people,எல்லோரும்,சாதாரண மக்கள்
+223,expressman,expressperson,எக்ஸ்பிரஸ்மேன்,விரைவு அஞ்சல் பணியாளர்
+224,expressmen,expresspeople,வெளிப்படுத்தும் ஆண்கள்,விரைவு அஞ்சல் பணியாளர்கள்
+225,fireman,firefighter,தீயணைப்பு வீரர்,தீயணைப்பு வீரர்
+226,firemen,firefighters,தீயணைப்பு வீரர்கள்,தீயணைப்பு வீரர்கள்
+227,fisherman,fisher,மீனவர்,மீனவர்
+228,fishermen,fishers,மீனவர்கள்,மீனவர்கள்
+229,flagman,traffic guard,கொடிமரம்,கொடி அசைப்பவர் / போக்குவரத்து காவலர்
+230,flagmen,traffic guards,கொடி,கொடி அசைப்பவர்கள் / போக்குவரத்து காவலர்கள்
+231,footman,servant,கால்வீரன்,வேலையாள் / பணியாளர்
+232,footmen,servants,கால்வீரர்கள்,வேலையாட்கள் / பணியாளர்கள்
+233,foreman,foreperson,தலைவன்,மேற்பார்வையாளர்
+234,foremen,forepeople,முன்னோர்கள்,மேற்பார்வையாளர்கள்
+235,freedman,freedperson,விடுதலையானவர்,விடுவிக்கப்பட்டவர்
+236,freedmen,freedpeople,விடுவிக்கப்பட்டவர்கள்,விடுவிக்கப்பட்டவர்கள்
+237,freeman,freeperson,சுதந்திரமானவன்,சுதந்திரமான நபர்
+238,freemen,freepeople,சுதந்திரமானவர்கள்,சுதந்திரமான மக்கள்
+239,frenchman,French person,பிரெஞ்சுக்காரர்,பிரெஞ்சு நாட்டவர்
+240,frenchmen,French people,பிரெஞ்சுக்காரர்கள்,பிரெஞ்சு மக்கள்
+241,freshman,first-year student,புதியவர்,முதலாம் ஆண்டு மாணவர்
+242,freshmen,first-year students,புதியவர்கள்,முதலாம் ஆண்டு மாணவர்கள்
+243,frogman,diver,தவளை மனிதன்,மூழ்கு நீச்சல் வீரர்
+244,frogmen,divers,தவளைகள்,மூழ்கு நீச்சல் வீரர்கள்
+245,frontiersman,explorer,எல்லையில் இருப்பவர்,ஆய்வாளர்
+246,frontiersmen,explorers,எல்லைப்புறவாசிகள்,ஆய்வாளர்கள்
+247,frontman,frontperson,முன்னோடி,முன்னணியாளர் / முகப்பு நபர்
+248,frontmen,frontpeople,முன்னோடி,முன்னணியாளர்கள் / முகப்பு நபர்கள்
+249,garageman,mechanic,கேரேஜ்மேன்,பழுது நீக்குபவர்
+250,garagemen,mechanics,கேரேஜ்மேன்கள்,பழுது நீக்குபவர்கள்
+251,gateman,gatekeeper,கேட்மேன்,வாயில் காப்பாளர்
+252,gatemen,gatekeepers,வாயில்காரர்கள்,வாயில் காப்பாளர்கள்
+253,gentleman,refined person,ஜென்டில்மேன்,பண்பட்ட நபர்
+254,gentlemans,refined people,ஜென்டில்மேன்கள்,பண்பட்ட மக்கள்
+255,gleeman,minstrel,gleeman,இசைக் கவிஞர் / பாணர்
+256,gleemen,minstrels,பளபளப்பு,இசைக் கவிஞர்கள் / பாணர்கள்
+257,glovesman,boxer,கையுறைக்காரர்,குத்துச்சண்டை வீரர்
+258,glovesmen,boxers,கையுறைகள்,குத்துச்சண்டை வீரர்கள்
+259,groomsman,groomsperson,மணமகன்,மணத் தோழர்
+260,groomsmen,groomspeople,மணமகன்,மணத் தோழர்கள்
+261,groundsman,groundskeeper,தரைத்தளக்காரர்,மைதான பராமரிப்பாளர்
+262,groundsmen,groundskeepers,மைதான வீரர்கள்,மைதான பராமரிப்பாளர்கள்
+263,guardsman,guard,காவலாளி,காவலர்
+264,guardsmen,guards,காவலர்கள்,காவலர்கள்
+265,handicraftsman,handicraftsperson,கைவினைஞர்,கைவினைஞர்
+266,handicraftsmen,handicraftspeople,கைவினைஞர்கள்,கைவினைஞர்கள்
+267,hangman,executioner,தூக்கிலிடுபவர்,தண்டனை நிறைவேற்றுபவர்
+268,hangmen,executioners,தூக்கில் போடுபவர்கள்,தண்டனை நிறைவேற்றுபவர்கள்
+269,headman,executioner,தலைவன்,தண்டனை நிறைவேற்றுபவர்
+270,headmen,executioners,தலைவர்கள்,தண்டனை நிறைவேற்றுபவர்கள்
+271,headsman,executioner,தலைவன்,தண்டனை நிறைவேற்றுபவர்
+272,headsmen,executioners,தலைவர்கள்,தண்டனை நிறைவேற்றுபவர்கள்
+273,hitman,assassin,தாக்கியவன்,கொலையாளி
+274,hitmen,assassins,தாக்கியவர்கள்,கொலையாளிகள்
+275,horseman,equestrian,குதிரைவீரன்,குதிரையேற்ற வீரர்
+276,horsemen,equestrians,குதிரை வீரர்கள்,குதிரையேற்ற வீரர்கள்
+277,huntsman,hunter,வேட்டையாடுபவன்,வேட்டையாடுபவர்
+278,huntsmen,hunters,வேட்டைக்காரர்கள்,வேட்டையாடுபவர்கள்
+279,iceman,ice vendor,பனிமனிதன்,பனிக்கட்டி விற்பனையாளர்
+280,icemen,ice vendors,பனிமனிதர்கள்,பனிக்கட்டி விற்பனையாளர்கள்
+281,jokerman,joker,ஜோக்கர்மேன்,நகைச்சுவையாளர்
+282,jokermen,jokers,ஜோக்கர்,நகைச்சுவையாளர்கள்
+283,journeyman,artisan,பயணி,கைவினைஞர்
+284,journeymen,artisans,பயணம் செய்பவர்கள்,கைவினைஞர்கள்
+285,kinsman,relative,உறவினர்,உறவினர்
+286,kinsmen,relatives,உறவினர்கள்,உறவினர்கள்
+287,landsman,landlubber,நாட்டவர்,கடல் அனுபவமற்றவர்
+288,landsmen,landlubbers,தோழர்கள்,கடல் அனுபவமற்றவர்கள்
+289,lawman,law officer,சட்டவாதி,சட்ட அலுவலர்
+290,lawmen,law officers,சட்டத்தரணிகள்,சட்ட அலுவலர்கள்
+291,lensman,photographer,ஷெரிப்,புகைப்படக் கலைஞர்
+292,lensmen,photographers,ஷெரிப்,புகைப்படக் கலைஞர்கள்
+293,lifeboatman,lifeboat sailor,வாழ்க்கை படகோட்டி,மீட்புப் படகோட்டி
+294,lifeboatmen,lifeboat sailors,வாழ்க்கை படகோட்டிகள்,மீட்புப் படகோட்டிகள்
+295,liftman,lift operator,தூக்குபவர்,மின்தூக்கி இயக்குபவர்
+296,liftmen,lift operators,தூக்குபவர்கள்,மின்தூக்கி இயக்குபவர்கள்
+297,lineman,lineperson,லைன்மேன்,மின்பாதை பணியாளர்
+298,linemen,linepeople,லைன்மேன்கள்,மின்பாதை பணியாளர்கள்
+299,linesman,linesperson,கோட்டுக்காரர்,கோடு கண்காணிப்பாளர் (விளையாட்டு)
+300,linesmen,linespeople,லைன்ஸ்மேன்,கோடு கண்காணிப்பாளர்கள் (விளையாட்டு)
+301,lobsterman,lobster catcher,இரால் மனிதன்,சிங்கி இறால் பிடிப்பவர்
+302,lobstermen,lobster catchers,நண்டுகள்,சிங்கி இறால் பிடிப்பவர்கள்
+303,longshoreman,dockworker,நெடுங்காலத்துக்காரர்,துறைமுகத் தொழிலாளி
+304,longshoremen,dockworkers,நீண்ட கரைவாசிகள்,துறைமுகத் தொழிலாளிகள்
+305,lumberman,logger,மரம் வெட்டுபவர்,மரம் வெட்டுபவர்
+306,lumbermen,loggers,மரம் வெட்டுபவர்கள்,மரம் வெட்டுபவர்கள்
+307,madman,maniac,பைத்தியக்காரன்,மனநோயாளி / வெறியர்
+308,madmen,maniacs,பைத்தியக்கார மனிதர்கள்,மனநோயாளிகள் / வெறியர்கள்
+309,mailman,mail carrier,தபால்காரர்,அஞ்சல்காரர் / தபால்காரர்
+310,mailmen,mail carriers,தபால்காரர்,அஞ்சல்காரர்கள் / தபால்காரர்கள்
+311,man cave,sanctuary,மனிதன் குகை,"சரணாலயம், காப்பகம்"
+312,man caves,sanctuaries,மனித குகைகள்,"சரணாலயங்கள், காப்பகங்கள்"
+313,man hater,hater,மனிதன் வெறுப்பவன்,வெறுப்பவர்
+314,man haters,haters,மனித வெறுப்பாளர்கள்,வெறுப்பவர்கள்
+315,man hating,misandry,மனிதன் வெறுக்கிறான்,ஆண் வெறுப்பு
+316,man hug,pound hug,மனிதன் கட்டிப்பிடி,தோழமை அணைப்பு
+317,man hugs,pound hugs,மனிதன் அணைத்துக்கொள்கிறான்,தோழமை அணைப்புகள்
+318,man hunt,organized search,மனிதன் வேட்டை,பெரும் தேடுதல் வேட்டை
+319,man hunts,organized searches,மனிதன் வேட்டையாடுகிறான்,பெரும் தேடுதல் வேட்டைகள்
+320,man magnet,attractive person,மனிதன் காந்தம்,கவர்ச்சிகரமான நபர்
+321,man magnets,attractive people,மனிதன் காந்தங்கள்,கவர்ச்சிகரமான மக்கள்
+322,man marking,marking,மனிதன் குறிக்கும்,கண்காணித்தல் (விளையாட்டு)
+323,man servant,servant,மனிதன் வேலைக்காரன்,வேலையாள் / பணியாளர்
+324,man servants,servants,மனிதன் வேலையாட்கள்,வேலையாட்கள் / பணியாளர்கள்
+325,man up,adult up,மனிதன் வரை,வயது வந்தோர் 
+326,man-ass,ass,மனிதன்-கழுதை,பின்னழகு
+327,man-asses,asses,மனிதன்-கழுதைகள்,பின்னழகு
+328,man-bag,handbag,மனிதன் பை,கைப்பை
+329,man-bags,handbags,மனிதன் பைகள்,கைப்பைகள்
+330,man-boob,boob,ஆண்-பூப்,மார்பகம்
+331,man-boobs,boobs,ஆண் மார்பகங்கள்,மார்பகங்கள்
+332,man-cave,sanctuary,மனிதன்-குகை,தனி அறை / ஓய்வறை
+333,man-caves,sanctuaries,மனித குகைகள்,தனி அறைகள் / ஓய்வறைகள்
+334,man-cession,recession,மனிதன்-செஷன்,பொருளாதார மந்தநிலை
+335,man-cessions,recessions,ஆள்-செஷன்கள்,பொருளாதார மந்தநிலைகள்
+336,man-child,child,ஆண்-குழந்தை,குழந்தை
+337,man-childs,children,ஆண்-குழந்தைகள்,குழந்தைகள்
+338,man-crush,crush,மனிதன்-நொறுக்கு,ஈர்ப்பு / விருப்பம்
+339,man-crushes,crushes,மனிதன்-நசுக்குகிறது,ஈர்ப்புகள் / விருப்பங்கள்
+340,man-eater,cannibal,மனித உண்பவன்,நரமாமிச உண்ணி
+341,man-eaters,cannibals,மனித உண்பவர்கள்,நரமாமிச உண்ணிகள்
+342,man-eating,human-eating,மனிதனை உண்ணும்,நரமாமிசம் உண்ணும்
+343,man-friend,friend,மனிதன் நண்பன்,நண்பர் / தோழர்
+344,man-friends,friends,மனிதன் நண்பர்கள்,நண்பர்கள் / தோழர்கள்
+345,man-hater,hater,மனிதன் வெறுப்பவன்,வெறுப்பவர்
+346,man-haters,haters,மனித வெறுப்பாளர்கள்,வெறுப்பவர்கள்
+347,man-hating,misandry,மனித வெறுப்பு,ஆண் வெறுப்பு
+348,man-hatings,misandries,மனிதன்-வேதனைகள்,ஆண் வெறுப்பு
+349,man-hour,work-hour,மனித மணிநேரம்,பணி-நேரம்
+350,man-hours,work-hours,மனித மணிநேரம்,பணி-நேரங்கள்
+351,man-hug,pound hug,மனிதன்-அணைத்தல்,தோழமை அணைப்பு
+352,man-hugs,pound hugs,மனிதன்-அணைப்புகள்,தோழமை அணைப்புகள்
+353,man-hunt,organized search,மனித வேட்டை,பெரும் தேடுதல் வேட்டை
+354,man-hunts,organized searches,மனித வேட்டை,பெரும் தேடுதல் வேட்டைகள்
+355,man-kind,humankind,மனித இனம்,மனித இனம்
+356,man-kinds,humankinds,மனித இனங்கள்,மனித இனங்கள்
+357,man-machine,human-computer,மனிதன் இயந்திரம்,மனித-கணினி
+358,man-machines,human-computers,மனித இயந்திரங்கள்,மனித-கணினிகள்
+359,man-made,synthetic,மனிதனால் உருவாக்கப்பட்ட,செயற்கையான
+360,man-magnet,attractive person,மனிதன்-காந்தம்,கவர்ச்சிகரமான நபர்
+361,man-magnets,attractive people,மனிதன்-காந்தங்கள்,கவர்ச்சிகரமான மக்கள்
+362,man-mark,mark,மனிதன்-குறி,கண்காணி
+363,man-marks,marks,மனித அடையாளங்கள்,கண்காணிக்கவும்
+364,man-marking,marking,மனிதன்-குறித்தல்,கண்காணித்தல் (விளையாட்டு)
+365,man-markings,markings,மனித அடையாளங்கள்,கண்காணிப்புகள் (விளையாட்டு)
+366,man-month,work-month,மனிதன்-மாதம்,பணி-மாதம்
+367,man-pack,pack,மனிதன்-பேக்,பொதி / சுமைப்பை
+368,man-packs,packs,மனிதன் பொதிகள்,பொதிகள் / சுமைப்பைகள்
+369,man-power,workforce,மனித சக்தி,பணியாளர் சக்தி / தொழிலாளர்
+370,man-powers,workforces,மனித சக்திகள்,பணியாளர் சக்திகள் / தொழிலாளர்கள்
+371,man-rating,human-rating,மனிதன் மதிப்பீடு,மனித மதிப்பீடு
+372,man-ratings,human-ratings,மனித மதிப்பீடுகள்,மனித மதிப்பீடுகள்
+373,man-servant,servant,மனிதன்-வேலைக்காரன்,வேலையாள் / பணியாளர்
+374,man-stealing,kidnapping,மனிதன்-திருடுதல்,ஆள் கடத்தல்
+375,man-stopper,stopping power,மனிதன்-தடுப்பான்,தடுக்கும் திறன் (ஆயுதம்)
+376,man-stoppers,stopping powers,மனிதன்-தடுப்பான்கள்,தடுக்கும் திறன்கள் (ஆயுதம்)
+377,man-trap,attractive person,மனித பொறி,கவர்ச்சிகரமான நபர்
+378,man-traps,attractive people,மனித பொறிகள்,கவர்ச்சிகரமான மக்கள்
+379,man-up,adult up,மனிதன்-அப்,தைரியமாக இரு / பொறுப்பெடு
+380,man-whore,sex worker,ஆண்-வேசி,பாலியல் தொழிலாளி
+381,man-whores,sex workers,ஆண்-வேசிகள்,பாலியல் தொழிலாளர்கள்
+382,man-year,work-year,மனிதன் ஆண்டு,பணி-ஆண்டு
+383,mancession,recession,மாளிகை,பொருளாதார மந்தநிலை
+384,mancessions,recessions,மாளிகைகள்,பொருளாதார மந்தநிலைகள்
+385,manfriend,friend,ஆண் நண்பன்,நண்பர்
+386,manfriends,friends,ஆண் நண்பர்கள்,நண்பர்கள்
+387,mankind,humankind,மனிதகுலம்,மனித இனம்
+388,mankinds,humankinds,மனிதகுலத்தின்,மனித இனங்கள்
+389,manpack,pack,மேன்பேக்,பொதி / சுமைப்பை
+390,manpacks,packs,மேன்பேக்குகள்,பொதிகள் / சுமைப்பைகள்
+391,manpower,workforce,மனிதவளம்,பணியாளர் சக்தி / தொழிலாளர்
+392,manpowers,workforces,மனிதவளம்,பணியாளர் சக்திகள் / தொழிலாளர்கள்
+393,manstealing,kidnapping,திருடுதல்,ஆள் கடத்தல்
+394,manstopper,stopping power,மான்ஸ்டாப்பர்,தடுக்கும் திறன் (ஆயுதம்)
+395,manstoppers,stopping powers,மான்ஸ்டாப்பர்கள்,தடுக்கும் திறன்கள் (ஆயுதம்)
+396,marksman,sharpshooter,துப்பாக்கி சுடும் வீரர்,குறி பார்த்து சுடுபவர்
+397,marksmen,sharpshooters,குறிபார்ப்பவர்கள்,குறி பார்த்து சுடுபவர்கள்
+398,merchantman,merchant,வணிகர்,வணிகர்
+399,merchantmen,merchants,வணிகர்கள்,வணிகர்கள்
+400,merman,merperson,கடல் மீன்,கடல் நபர் / கடற்கன்னி (பொது)
+401,mermen,merpeople,கடல் மீன்,கடல் நபர்கள் / கடற்கன்னிகள் (பொது)
+402,midshipman,naval officer,மிட்ஷிப்மேன்,கடற்படை அதிகாரி
+403,midshipmen,naval officers,நடுநிலை பணியாளர்கள்,கடற்படை அதிகாரிகள்
+404,militiaman,militia member,போராளி,போராளிக் குழு உறுப்பினர்
+405,militiamen,militia members,போராளிகள்,போராளிக் குழு உறுப்பினர்கள்
+406,minuteman,soldier,மினிட்மேன்,படை வீரர்
+407,minutemen,soldiers,நிமிட மனிதர்கள்,படை வீரர்கள்
+408,motorman,operator,மோட்டர்மேன்,இயக்குபவர்
+409,motormen,operators,மோட்டர்மேன்,இயக்குபவர்கள்
+410,newsman,reporter,செய்தியாளர்,நிருபர்
+411,newsmen,reporters,செய்தியாளர்கள்,நிருபர்கள்
+412,newspaperman,journalist,பத்திரிகையாளர்,பத்திரிகையாளர்
+413,newspapermen,journalists,பத்திரிகையாளர்கள்,பத்திரிகையாளர்கள்
+414,nightwatchman,nightwatchbatter,இரவுக் காவலாளி,இரவுக் காவலர் (கிரிக்கெட்)
+415,nightwatchmen,nightwatchbatters,இரவு காவலாளி,இரவுக் காவலர்கள் (கிரிக்கெட்)
+416,nobleman,noble person,பிரபு,உயர்குடி நபர்
+417,noblemans,noble people,பிரபுக்களின்,உயர்குடி மக்கள்
+418,oarsman,rower,மற்ற மனிதன்,துடுப்புப் போடுபவர்
+419,oarsmen,rowers,மற்றவர்கள்,துடுப்புப் போடுபவர்கள்
+420,ombudsman,ombudsperson,ஒம்புட்ஸ்மேன்,குறை தீர்ப்பாளர்
+421,ombudsmen,ombudspeople,குறைதீர்ப்பாளர்கள்,குறை தீர்ப்பாளர்கள்
+422,overman,Ã¼bermensch,ஓவர்மேன்,மீமனிதர்
+423,overmen,Ã¼bermenschen,எடுத்துக்கொள்,மீமனிதர்கள்
+424,oysterman,oysterperson,சிப்பி,சிப்பி சேகரிப்பவர்
+425,oystermen,oysterpeople,சிப்பிகள்,சிப்பி சேகரிப்பவர்கள்
+426,packetman,packet sailor,பாக்கெட்மேன்,பார்சல் படகு மாலுமி
+427,packetmen,packet sailors,பாக்கெட்மேன்கள்,பார்சல் படகு மாலுமிகள்
+428,packman,seller,பேக்மேன்,விற்பனையாளர்
+429,packmen,sellers,பேக்மேன்கள்,விற்பனையாளர்கள்
+430,pieman,pie vendor,PMN,அப்பம் விற்பனையாளர்
+431,piemen,pie vendors,மேய்ப்பன்,அப்பம் விற்பனையாளர்கள்
+432,pitchman,pitcher,பிட்ச்மேன்,பந்து வீசுபவர் / விற்பனைப் பேச்சாளர்
+433,pitchmen,pitchers,பிட்ச்மேன்கள்,பந்து வீசுபவர்கள் / விற்பனைப் பேச்சாளர்கள்
+434,placeman,appointee,இடம்பிடித்தவர்,நியமனம் பெறுபவர்
+435,placemen,appointees,இடம்பிடித்தவர்கள்,நியமனம் பெறுபவர்கள்
+436,ploughman,plower,உழவன்,உழுபவர்
+437,ploughmen,plowers,உழவர்கள்,உழுபவர்கள்
+438,plowman,plower,உழவன்,உழுபவர்
+439,plowmen,plowers,உழவர்கள்,உழுபவர்கள்
+440,pointsman,traffic officer,புள்ளிமான்,போக்குவரத்து அதிகாரி
+441,pointsmen,traffic officers,புள்ளிகள்,போக்குவரத்து அதிகாரிகள்
+442,policeman,police officer,போலீஸ்காரர்,காவல் அதிகாரி
+443,policemen,police officers,போலீஸ்காரர்கள்,காவல் அதிகாரிகள்
+444,postman,mail carrier,தபால்காரர்,அஞ்சல்காரர் / தபால்காரர்
+445,postmen,mail carriers,தபால்காரர்கள்,அஞ்சல்காரர்கள் / தபால்காரர்கள்
+446,pressman,printer,பத்திரிகையாளர்,அச்சிடுபவர்
+447,pressmen,printers,பத்திரிகையாளர்கள்,அச்சிடுபவர்கள்
+448,Prostitute,Sexworker,விபச்சாரி,பாலியல் தொழிலாளி
+449,prman,press agent,ஆதாரம்,பத்திரிகை முகவர்
+450,prmen,press agents,prmen,பத்திரிகை முகவர்கள்
+451,rubberman,latex fetishist,ரப்பர்மேன்,லேடெக்ஸ் பொருள் விரும்பி
+452,rubbermen,latex fetishists,ரப்பர்மேன்கள்,லேடெக்ஸ் பொருள் விரும்பிகள்
+453,seaman,sailor,கடலோடி,மாலுமி
+454,seamen,sailors,கடற்படையினர்,மாலுமிகள்
+455,seedsman,seeds dealer,விதைத்தவர்,விதை விற்பனையாளர்
+456,seedsmen,seeds dealers,விதைகள்,விதை விற்பனையாளர்கள்
+457,selectman,member of the board,தேர்வாளர்,ஆட்சிக் குழு உறுப்பினர்
+458,selectmen,members of the board,தேர்வாளர்கள்,ஆட்சிக் குழு உறுப்பினர்கள்
+459,serviceman,service member,சேவையாளர்,படை வீரர் / சேவை உறுப்பினர்
+460,servicemen,service members,சேவையாளர்கள்,படை வீரர்கள் / சேவை உறுப்பினர்கள்
+461,she-man,feminine person,அவள்-மனிதன்,பெண்மை இயல்புடைய நபர்
+462,she-men,feminine people,அவள்-ஆண்கள்,பெண்மை இயல்புடைய நபர்கள்
+463,sheepman,shepherd,செம்மறியாடு,ஆடு மேய்ப்பவர்
+464,sheepmen,shepherds,செம்மறியாடுகள்,ஆடு மேய்ப்பவர்கள்
+465,showman,showperson,ஷோமேன்,நிகழ்ச்சியாளர்
+466,showmen,showpeople,காட்டுபவர்கள்,நிகழ்ச்சியாளர்கள்
+467,sideman,side artist,பக்கத்துக்காரர்,துணை நடிகர் / துணை இசைக் கலைஞர்
+468,sidemen,side artists,பக்கத்திலுள்ளவர்கள்,துணை நடிகர்கள் / துணை இசைக் கலைஞர்கள்
+469,slaughterman,butcher,படுகொலை செய்பவன்,கசாப்புக் கடைக்காரர்
+470,slaughtermen,butchers,படுகொலை செய்பவர்கள்,கசாப்புக் கடைக்காரர்கள்
+471,snowman,snowperson,பனிமனிதன்,பனி உருவம்
+472,snowmen,snowpeople,பனிமனிதர்கள்,பனி உருவங்கள்
+473,soundman,audio engineer,ஒலிப்பாளர்,ஒலிப் பொறியாளர்
+474,soundmen,audio engineers,ஒலி எழுப்புபவர்கள்,ஒலிப் பொறியாளர்கள்
+475,spaceman,astronaut,விண்வெளி வீரர்,விண்வெளி வீரர்
+476,spacemen,astronauts,விண்வெளி வீரர்கள்,விண்வெளி வீரர்கள்
+477,spearfisherman,spearfisher,ஈட்டி மீனவர்,ஈட்டி மீன்பிடிப்பவர்
+478,spearfishermen,spearfishers,ஈட்டி மீனவர்கள்,ஈட்டி மீன்பிடிப்பவர்கள்
+479,spearman,lancer,ஈட்டி வீரர்,ஈட்டிப் படை வீரர்
+480,spearmen,lancers,ஈட்டி வீரர்கள்,ஈட்டிப் படை வீரர்கள்
+481,spokeman,spokeperson,பேச்சாளர்,செய்தித் தொடர்பாளர்
+482,spokemen,spokepeople,பேச்சாளர்கள்,செய்தித் தொடர்பாளர்கள்
+483,spokesman,spokesperson,பேச்சாளர்,செய்தித் தொடர்பாளர்
+484,spokesmen,spokespeople,பேச்சாளர்கள்,செய்தித் தொடர்பாளர்கள்
+485,sportsman,athlete,விளையாட்டு வீரர்,தடகள வீரர் / விளையாட்டு வீரர்
+486,sportsmen,athletes,விளையாட்டு வீரர்கள்,தடகள வீரர்கள் / விளையாட்டு வீரர்கள்
+487,statesman,statesperson,அரசியல்வாதி,அரசியல் தலைவர் / அறிஞர்
+488,statesmen,statespeople,அரசியல்வாதிகள்,அரசியல் தலைவர்கள் / அறிஞர்கள்
+489,stickman,stick figure,ஒட்டுபவர்,குச்சி ஓவியம்
+490,stickmen,stick figures,ஒட்டுபவர்கள்,குச்சி ஓவியங்கள்
+491,stockman,stock farmer,பங்குதாரர்,கால்நடை வளர்ப்பவர்
+492,stockmen,stock farmers,பங்குதாரர்கள்,கால்நடை வளர்ப்பவர்கள்
+493,storeman,warehouser,பெரிய மனிதர்,கிடங்குப் பணியாளர்
+494,storemen,warehousers,கடைக்காரர்கள்,கிடங்குப் பணியாளர்கள்
+495,strongman,strong person,வலிமையானவன்,வலுவான நபர்
+496,strongmen,strong people,வலிமையானவர்கள்,வலுவான மக்கள்
+497,sub-man,inferior human,துணை மனிதன்,கீழ்நிலை மனிதர்
+498,sub-men,inferior humans,துணை ஆண்கள்,கீழ்நிலை மனிதர்கள்
+499,superman,superhero,சூப்பர்மேன்,மீநாயகர் / சூப்பர் ஹீரோ
+500,supermen,superheroes,சூப்பர்மேன்,மீநாயகர்கள் / சூப்பர் ஹீரோக்கள்
+501,swagman,transient labourer,வரவேற்கிறோம்,நாடோடித் தொழிலாளி
+502,swagmen,transient labourers,ஸ்வாக்,நாடோடித் தொழிலாளிகள்
+503,swingman,versatile athlete,ஊஞ்சல்காரன்,பல்துறை விளையாட்டு வீரர்
+504,swingmen,versatile athletes,ஊஞ்சல் ஆடுபவர்கள்,பல்துறை விளையாட்டு வீரர்கள்
+505,switchman,railroad worker,சுவிட்ச்மேன்,தண்டவாளப் பணியாளர்
+506,switchmen,railroad workers,மாறுபவர்கள்,தண்டவாளப் பணியாளர்கள்
+507,swordman,fencer,வாள்வீரன்,வாள் வீச்சு வீரர்
+508,swordmen,fencers,வாள்வீரன்,வாள் வீச்சு வீரர்கள்
+509,swordsman,fencer,வாள்வீரன்,வாள் வீச்சு வீரர்
+510,swordsmen,fencers,வாள்வீரர்கள்,வாள் வீச்சு வீரர்கள்
+511,targetman,forward,இலக்குவன்,முன்கள வீரர் (விளையாட்டு)
+512,targetmen,forwards,இலக்கு ஆட்கள்,முன்கள வீரர்கள் (விளையாட்டு)
+513,taxman,tax collector,வரி செலுத்துபவர்,வரி வசூலிப்பாளர்
+514,taxmen,tax collectors,வரி செலுத்துபவர்கள்,வரி வசூலிப்பாளர்கள்
+515,townsman,townsperson,நகரவாசி,நகரவாசி
+516,townsmen,townspeople,நகரவாசிகள்,நகரவாசிகள்
+517,tribesman,tribesperson,பழங்குடியினர்,பழங்குடி நபர்
+518,tribesmen,tribespeople,பழங்குடியினர்,பழங்குடி மக்கள்
+519,triggerman,hired gun,தூண்டுபவர்,கூலிப்படையாள்
+520,triggermen,hired guns,தூண்டுபவர்கள்,கூலிப்படையினர்
+521,underclassman,undergraduate,தாழ்த்தப்பட்டவர்,இளங்கலைப் பட்டதாரி
+522,underclassmen,undergraduates,தாழ்த்தப்பட்ட வகுப்பினர்,இளங்கலைப் பட்டதாரிகள்
+523,upperclassman,student,மேல் வகுப்புக்காரர்,மாணவர் (மூத்த வகுப்பு)
+524,upperclassmen,students,மேல் வகுப்பினர்,மாணவர்கள் (மூத்த வகுப்பு)
+525,warehouseman,warehouse worker,கிடங்குக்காரர்,கிடங்குத் தொழிலாளி
+526,warehousemen,warehouse workers,கிடங்குக்காரர்கள்,கிடங்குத் தொழிலாளிகள்
+527,washerman,washer,சலவை செய்பவர்,சலவை செய்பவர்
+528,washermen,washers,துவைப்பவர்கள்,சலவை செய்பவர்கள்
+529,watchman,watcher,காவலாளி,கண்காணிப்பாளர்
+530,watchmen,watchers,காவலாளிகள்,கண்காணிப்பாளர்கள்
+531,weatherman,weather forecaster,வானிலையாளர்,வானிலை முன்னறிவிப்பாளர்
+532,weathermen,weather forecasters,வானிலை நிபுணர்கள்,வானிலை முன்னறிவிப்பாளர்கள்
+533,wheelman,driver,வீல்மேன்,ஓட்டுநர்
+534,wheelmen,drivers,வீல்மேன்கள்,ஓட்டுநர்கள்
+535,whiteman,white person,வெள்ளைக்காரன்,வெள்ளை இனத்தவர்
+536,whitemen,white people,வெள்ளைக்காரர்கள்,வெள்ளை இன மக்கள்
+537,wildman,wild person,காட்டுமனிதன்,கட்டுப்பாடற்ற நபர்
+538,wildmen,wild people,காட்டு மனிதர்கள்,கட்டுப்பாடற்ற நபர்கள்
+539,winchman,rescue swimmer,வெற்றியாளர்,மீட்பு நீச்சல் வீரர்
+540,winchmen,rescue swimmers,வெற்றியாளர்கள்,மீட்பு நீச்சல் வீரர்கள்
+541,wingman,pilot partner,இறக்கைக்காரர்,துணை விமானி
+542,wingmen,pilot partners,இறக்கையாளர்கள்,துணை விமானிகள்
+543,woodman,woodworker,மரக்காரன்,மரவேலை செய்பவர்
+544,woodmen,woodworkers,மரக்காரர்கள்,மரவேலை செய்பவர்கள்
+545,woodsman,forester,மரக்காரி,கானக அலுவலர்/ வனவர்
+546,woodsmen,foresters,மரக்காரர்கள்,கானக அலுவலர்கள் / வனவர்கள்
+547,workingman,worker,தொழிலாளி,தொழிலாளி
+548,workingmen,workers,தொழிலாளிகள்,தொழிலாளிகள்
+549,workman,worker,தொழிலாளி,தொழிலாளி
+550,workmen,workers,வேலையாட்கள்,தொழிலாளிகள்
+551,yeoman,officer,யோமன்,அதிகாரி
+552,yeomen,officers,ஏமன்,அதிகாரிகள்
+553,airmanship,aerial skill,விமானப்படை,விமானத் திறன்
+554,airmanships,aerial skills,விமானப்படைகள்,விமானத் திறன்கள்
+555,batsmanship,batting skill,பேட்ஸ்மேன்ஷிப்,மட்டையாடும் திறமை
+556,batsmanships,batting skills,பேட்ஸ்மேன்ஷிப்கள்,மட்டையாடும் திறமைகள்
+557,brinkmanship,extreme strategy,கசப்பான தன்மை,தீவிர உத்தி
+558,brinkmanships,extreme strategies,குறுக்கிடுதல்,தீவிர உத்திகள்
+559,brinksmanship,extreme strategy,கசப்பான தன்மை,தீவிர உத்தி
+560,brinksmanships,extreme strategies,வெறித்தனமான செயல்கள்,தீவிர உத்திகள்
+561,chairmanship,chairpersonship,தலைவர்,தலைவர் பதவி
+562,chairmanships,chairpersonships,தலைவர்கள்,தலைவர் பதவிகள்
+563,churchmanshipsÂ,churchpersonships,சர்ச்மேன்ஷிப்ஸ்,தேவாலய ஆளுமைகள்
+564,churchmanshipÂ,churchpersonship,தேவாலயம்,திருச்சபை ஆளுமை
+565,craftmanship,craftpersonship,கைவினைத்திறன்,கைவினைத்திறன்
+566,craftmanships,craftpersonships,கைவினைத்திறன்,கைவினைத்திறன்கள்
+567,craftsmanship,craftspersonship,கைவினைத்திறன்,கைவினைத்திறன்
+568,craftsmanships,craftspersonships,கைவினைத்திறன்கள்,கைவினைத்திறன்கள்
+569,draftsmanship,draftspersonship,வரைவுத் திறன்,வரைவாளர் திறமை
+570,draftsmanships,draftspersonships,வரைவுகள்,வரைவாளர் திறமைகள்
+571,draughtsmanship,draughtspersonship,வரைவுத் திறன்,வரைவாளர் திறமை
+572,draughtsmanships,draughtspersonships,வரைவுகள்,வரைவாளர் திறமைகள்
+573,foremanship,forepersonship,முன்னோடி,மேற்பார்வையாளர் பதவி
+574,foremanships,forepersonships,formanships,மேற்பார்வையாளர் பதவிகள்
+575,gamesmanship,unsporting tactic,விளையாட்டுத்திறன்,விளையாட்டு நெறியற்ற உத்தி
+576,gamesmanships,unsporting tactics,விளையாட்டு திறமைகள்,விளையாட்டு நெறியற்ற உத்திகள்
+577,gentlemanship,refinedness,கண்ணியம்,பண்புடைமை
+578,gentlemanships,refinednesses,பண்புள்ளவர்கள்,பண்புடைமை
+579,grantsmanship,grant acquisition expertise,மானியம்,நன்கொடை பெறும் திறமை
+580,grantsmanships,grant acquisition expertises,மானியங்கள்,நன்கொடை பெறும் திறமைகள்
+581,handcraftsmanship,handcraftspersonship,கைவினைத்திறன்,கைவினைத்திறன்
+582,handcraftsmanships,handcraftspersonships,கைவினைத்திறன்கள்,கைவினைத்திறன்கள்
+583,horsemanship,equestrian skill,குதிரையேற்றம்,குதிரையேற்றத் திறமை
+584,horsemanships,equestrian skills,குதிரையேற்றம்,குதிரையேற்றத் திறமைகள்
+585,journeymanship,artisanship,பயணத்திறன்,கைவினைத்திறன்
+586,journeymanships,artisanships,பயணத்திறன்,கைவினைத்திறன்கள்
+587,manship,courage,ஆண்மை,துணிச்சல்
+588,manships,courages,மேன்ஷிப்கள்,துணிச்சல்கள்
+589,marksmanship,sharpshooting skill,குறிபார்க்கும் திறன்,குறி பார்த்து சுடும் திறமை
+590,marksmanships,sharpshooting skills,துப்பாக்கி சுடும் திறன்கள்,குறி பார்த்து சுடும் திறமைகள்
+591,oarsmanship,rowing skill,துடுப்புத் திறன்,துடுப்புப் போடும் திறமை
+592,oarsmanships,rowing skills,துடுப்புகள்,துடுப்புப் போடும் திறமைகள்
+593,penmanship,calligraphy,எழுத்தாற்றல்,கையெழுத்துக் கலை
+594,penmanships,calligraphies,எழுத்தாணிகள்,கையெழுத்துக் கலைகள்
+595,salesmanship,selling skill,விற்பனைத் திறன்,விற்பனைத் திறமை
+596,salesmanships,selling skills,விற்பனைத் திறன்,விற்பனைத் திறமைகள்
+597,seamanship,marine skill,கடற்தொழில்,கடல்சார் திறமை
+598,seamanships,marine skills,கடற்புலிகள்,கடல்சார் திறமைகள்
+599,showmanship,performing skill,வெளிகாட்டல்,நிகழ்த்துத் திறமை
+600,showmanships,performing skills,நிகழ்ச்சிகள்,நிகழ்த்துத் திறமைகள்
+601,sportsmanship,athletic skill,விளையாட்டுத்திறன்,தடகள விளையாட்டுத் திறமை
+602,sportsmanships,athletic skills,விளையாட்டு திறமைகள்,தடகள விளையாட்டுத் திறமைகள்
+603,statesmanship,public management skill,அரசாட்சி,பொது மேலாண்மைத் திறன்
+604,statesmanships,public management skills,அரசாட்சிகள்,பொது மேலாண்மைத் திறன்கள்
+605,stockmanship,livestock raising skill,கையிருப்பு,கால்நடை வளர்ப்புத் திறமை
+606,stockmanships,livestock raising skills,கையிருப்பு,கால்நடை வளர்ப்புத் திறமைகள்
+607,swordsmanship,fencing skill,வாள்வீச்சு,வாள் வீச்சுத் திறமை
+608,swordsmanships,fencing skills,வாள்வீச்சு,வாள் வீச்சுத் திறமைகள்
+609,upmanship,competitive behavior,மேம்பாடு,போட்டி மனப்பான்மை
+610,upmanships,competitive behaviors,மேம்பாடு,போட்டி மனப்பான்மைகள்
+611,workmanship,workpersonship,வேலைத்திறன்,வேலைத் திறமை
+612,workmanships,workpersonships,வேலைப்பாடுகள்,வேலைத் திறமைகள்
+613,ambulancewoman,emergency medical technician,ஆம்புலன்ஸ் பெண்,அவசர மருத்துவ தொழில்நுட்பவியலாளர்
+614,ambulancewomen,emergency medical technicians,ஆம்புலன்ஸ் பெண்கள்,அவசர மருத்துவ தொழில்நுட்பவியலாளர்கள்
+615,anchorwoman,anchorperson,நங்கூரப் பெண்,தொகுப்பாளர்
+616,anchorwomen,anchorpeople,நங்கூரப் பெண்கள்,தொகுப்பாளர்கள்
+617,anti-woman,misogynist,பெண் எதிர்ப்பு,பெண் வெறுப்பாளர்
+618,anti-women,misogynists,பெண்களுக்கு எதிரானது,பெண் வெறுப்பாளர்கள்
+619,antiwoman,misogynist,பெண் விரோதி,பெண் வெறுப்பாளர்
+620,antiwomen,misogynists,எங்களைக் காப்பாற்றுங்கள்,பெண் வெறுப்பாளர்கள்
+621,bogeywoman,monster,போகி பெண்,அரக்கர் / அசுரர்
+622,bogeywomen,monsters,போகி பெண்கள்,அரக்கர்கள் / அசுரர்கள்
+623,bondwoman,slave,அடிமைப் பெண்,அடிமை
+624,bondwomen,slaves,கொத்தடிமைகள்,அடிமைகள்
+625,businesswoman,businessperson,தொழிலதிபர்,வணிகர் / தொழிலதிபர்
+626,businesswomen,businesspeople,வணிகப் பெண்கள்,வணிகர்கள் / தொழிலதிபர்கள்
+627,cavewoman,caveperson,குகைப் பெண்,குகைவாசி
+628,cavewomen,cavepeople,குகைப் பெண்கள்,குகைவாசிகள்
+629,charwoman,cleaner,அழகன்,தூய்மைப் பணியாளர்
+630,charwomen,cleaners,அழகிகள்,தூய்மைப் பணியாளர்கள்
+631,congresswoman,congressperson,காங்கிரஸ் பெண்,நாடாளுமன்ற உறுப்பினர்
+632,congresswomen,congresspeople,காங்கிரஸ் பெண்கள்,நாடாளுமன்ற உறுப்பினர்கள்
+633,craftswoman,craftsoerson,கைவினைஞர்,கைவினைஞர்
+634,craftswomen,craftsoersons,கைவினைஞர்கள்,கைவினைஞர்கள்
+635,everywoman,ordinary person,ஒவ்வொரு பெண்,சாதாரண நபர்
+636,everywomen,ordinary people,ஒவ்வொரு பெண்ணும்,சாதாரண மக்கள்
+637,fisherwoman,fisher,மீனவ பெண்,மீனவர்
+638,fisherwomen,fishers,மீனவப் பெண்கள்,மீனவர்கள்
+639,forewoman,foreperson,முன்னோடி,மேற்பார்வையாளர்
+640,forewomen,forepeople,முன்பெண்கள்,மேற்பார்வையாளர்கள்
+641,frontierswoman,explorer,எல்லைப் பெண்,ஆய்வாளர்
+642,frontierswomen,explorers,எல்லைப்புற பெண்கள்,ஆய்வாளர்கள்
+643,frontwoman,frontperson,முன்னணி பெண்,முன்னணியாளர் / முகப்பு நபர்
+644,frontwomen,frontpeople,முன்னணி பெண்கள்,முன்னணியாளர்கள் / முகப்பு நபர்கள்
+645,gentlewoman,refined person,பண்புள்ள பெண்,பண்பட்ட நபர்
+646,gentlewomen,refined people,அன்பான பெண்கள்,பண்பட்ட மக்கள்
+647,hitwoman,assassin,தாக்கப்பட்ட பெண்,கொலையாளி
+648,hitwomen,assassins,தாக்கப்பட்ட பெண்கள்,கொலையாளிகள்
+649,horsewoman,equestrian,குதிரைப் பெண்,குதிரையேற்ற வீரர்
+650,horsewomen,equestrians,குதிரைப் பெண்கள்,குதிரையேற்ற வீரர்கள்
+651,madwoman,maniac,பைத்தியம் பிடித்த பெண்,மனநோயாளி / வெறியர்
+652,madwomen,maniacs,பைத்தியக்காரர்கள்,மனநோயாளிகள் / வெறியர்கள்
+653,man-woman,masculine person,ஆண்-பெண்,ஆண்மை இயல்புடைய நபர்
+654,man-women,masculine people,ஆண்-பெண்கள்,ஆண்மை இயல்புடைய நபர்கள்
+655,manwoman,masculine person,ஆண்பெண்,ஆண்மை இயல்புடைய நபர்
+656,manwomen,masculine people,எங்களை நிரப்ப,ஆண்மை இயல்புடைய நபர்கள்
+657,markswoman,sharpshooter,குறிகாட்டி,குறி பார்த்து சுடுபவர்
+658,markswomen,sharpshooters,மதிப்பெண் பெண்கள்,குறி பார்த்து சுடுபவர்கள்
+659,newswoman,reporter,செய்தி பெண்,நிருபர்
+660,newswomen,reporters,செய்திப் பெண்கள்,நிருபர்கள்
+661,noblewoman,noble person,உன்னத பெண்,உயர்குடி நபர்
+662,noblewomen,noble people,உன்னதப் பெண்கள்,உயர்குடி மக்கள்
+663,policewoman,police officer,போலீஸ் பெண்,காவல் அதிகாரி
+664,policewomen,police officers,போலீஸ் பெண்கள்,காவல் அதிகாரிகள்
+665,selectwoman,member of the board,தேர்ந்தெடுக்கப்பட்ட பெண்,ஆட்சிக் குழு உறுப்பினர்
+666,selectwomen,members of the board,தேர்ந்தெடுக்கப்பட்ட பெண்கள்,ஆட்சிக் குழு உறுப்பினர்கள்
+667,servicewoman,service member,பணிப்பெண்,படை வீரர் / சேவை உறுப்பினர்
+668,servicewomen,service members,சேவைப் பெண்கள்,படை வீரர்கள் / சேவை உறுப்பினர்கள்
+669,spokeswoman,spokesperson,பேச்சாளர்,செய்தித் தொடர்பாளர்
+670,spokeswomen,spokespeople,பேச்சாளர்கள்,செய்தித் தொடர்பாளர்கள்
+671,spokewoman,spokeperson,பேச்சாளர்,செய்தித் தொடர்பாளர்
+672,spokewomen,spokepeople,பேச்சுப் பெண்கள்,செய்தித் தொடர்பாளர்கள்
+673,sportswoman,athlete,விளையாட்டு வீராங்கனை,தடகள வீரர் / விளையாட்டு வீரர்
+674,sportswomen,athletes,விளையாட்டுப் பெண்கள்,தடகள வீரர்கள் / விளையாட்டு வீரர்கள்
+675,stateswoman,statesperson,மாநில பெண்,அரசியல் தலைவர் / அறிஞர்
+676,stateswomen,statespeople,மாநில பெண்கள்,அரசியல் தலைவர்கள் / அறிஞர்கள்
+677,swordswoman,fencer,வாள்வீரன்,வாள் வீச்சு வீரர்
+678,swordswomen,fencers,வாள்வீரர்கள்,வாள் வீச்சு வீரர்கள்
+679,tribeswoman,tribesperson,பழங்குடி பெண்,பழங்குடி நபர்
+680,tribeswomen,tribespeople,பழங்குடியினர்,பழங்குடி மக்கள்
+681,washerwoman,washer,சலவை பெண்,சலவை செய்பவர்
+682,washerwomen,Washers,சலவை பெண்கள்,சலவை செய்பவர்கள்
+683,womanism,Feminism,பெண்ணியம்,பெண்ணியம்
+684,womanisms,Feminisms,பெண்ணியம்,பெண்ணியம்
+685,womanist,Feminist,பெண்ணியவாதி,பெண்ணியவாதி
+686,womanists,Feminists,பெண்ணியவாதிகள்,பெண்ணியவாதிகள்
+687,womankind,Humankind,பெண் இனம்,மனித இனம்
+688,womankinds,Humankinds,பெண் இனங்கள்,மனித இனங்கள்
+689,womanly,Feminine,பெண்பால்,பெண்மை
+690,stateswomanship,Statespersonship,அரசாட்சி,அரசியல் தலைமைப் பண்பு
+691,stateswomanships,Statespersonships,மாநிலப் பெண்கள்,அரசியல் தலைமைப் பண்புகள்
+692,workwomanship,Workpersonship,வேலை செய்யும் பெண்,வேலைத் திறமை
+693,workwomanships,Workpersonships,பணிப்பெண்கள்,வேலைத் திறமைகள்
+694,"manpower, womanpower",Employee,ஆண் பணியாளர் / பெண் பணியாளர்,பணியாளர்
+695,"foreman, forewoman",Supervisor,ஆண் மேற்பார்வையாளர் / பெண் மேற்பார்வையாளர்,மேற்பார்வையாளர்
+696,Manager,Manager,ஆண் மேலாளர் / பெண் மேலாளர்,மேலாளர்
+697,Teacher,Teacher,ஆண் ஆசிரியர் / பெண் ஆசிரியர்,ஆசிரியர்
+698,Doctor,Doctor,ஆண் மருத்துவர் / பெண் மருத்துவர்,மருத்துவர்
+699,Lawyer,Lawyer,ஆண் வக்கீல் / பெண் வக்கீல்,வக்கீல் / வழக்கறிஞர்
+700,Advocate,Advocate,ஆண் வழக்கறிஞர் / பெண் வழக்கறிஞர்,வக்கீல் / வழக்கறிஞர்
+701,Salesperson,Salesperson,ஆண் விற்பனையாளர் / பெண் விற்பனையாளர்,விற்பனையாளர்
+702,Librarian,Librarian,ஆண் நூலகர் / பெண் நூலகர்,நூலகர்
+703,Artist,Artist,ஆண் கலைஞர் / பெண் கலைஞர்,கலைஞர்
+704,Citizen,Citizen,ஆண் குடிமகன் / பெண் குடிமகள்,குடிமக்கள்
+705,Sibling,Sibling,ஆண் உடன்பிறந்தவன் / பெண் உடன்பிறந்தவள்,உடன்பிறந்தவர்
+706,Child,Child,ஆண் குழந்தை / பெண் குழந்தை,குழந்தை
+707,Chairperson,Chairperson,ஆண் தலைவர் / பெண் தலைவர்,தலைவர்
+708,Scholar,Scholar,ஆண் அறிஞர் / பெண் அறிஞர்,அறிஞர்
+709,Individual,Individual,ஆண் தனிநபர் / பெண் தனிநபர்,தனிநபர்
+710,Person in charge,Person in charge,ஆண் பொறுப்பாளர் / பெண் பொறுப்பாளர்,பொறுப்பாளர்
+711,Caregiver,Caregiver,ஆண் பராமரிப்பாளர் / பெண் பராமரிப்பாளர்,பராமரிப்பாளர்
+712,Caretaker,Caretaker,ஆண் பராமரிப்பாளர் / பெண் பராமரிப்பாளர்,பராமரிப்பாளர்
+713,Ancestor,Ancestor,ஆண் முன்னோர் / பெண் முன்னோர்,முன்னோர்
+714,Guardian,Guardian,ஆண் பாதுகாவலர் / பெண் பாதுகாவலர்,பாதுகாவலர்
+715,Guest,Guest,ஆண் விருந்தினர் / பெண் விருந்தினர்,விருந்தினர்
+716,Guests,Guests,ஆண் விருந்தினர்கள் / பெண் விருந்தினர்கள்,விருந்தினர்கள்
+717,Mankind,Humanity,ஆண்குலம்,மனிதகுலம்
+718,entrepreneur,Entrepreneur,ஆண் தொழில்முனைவோர் / பெண் தொழில்முனைவோர்,தொழில்முனைவோர்
+719,writer,Writer,ஆண் எழுத்தாளர் / பெண் எழுத்தாளர்,எழுத்தாளர்
+720,insurance agent,Insurance agent,ஆண் காப்பீட்டு முகவர் / பெண் காப்பீட்டு முகவர்,காப்பீட்டு முகவர்
+721,family member,Family member,ஆண் குடும்ப உறுப்பினர் / பெண் குடும்ப உறுப்பினர்,குடும்ப உறுப்பினர்
+722,Grandchild,Grandchild,ஆண் பேரக்குழந்தை / பெண் பேரக்குழந்தை,பேரக்குழந்தை
+723,Researcher,Researcher,ஆண் ஆராய்ச்சியாளர் / பெண் ஆராய்ச்சியாளர்,ஆராய்ச்சியாளர்
+724,Judge,Judge,ஆண் நீதிபதி / பெண் நீதிபதி,நீதிபதி
+725,Alumni,Alumni,ஆண் முன்னாள் மாணவர் / பெண் முன்னாள் மாணவி,முன்னாள் மாணவர்கள்
+726,Mentor,Mentor,ஆண் வழிகாட்டி / பெண் வழிகாட்டி,வழிகாட்டி
+727,Colleague,Colleague,ஆண் சக பணியாளர் / பெண் சக பணியாளர்,சக பணியாளர்
+728,Classmate,Classmate,ஆண் வகுப்புத் தோழர் / பெண் வகுப்புத் தோழி,வகுப்புத் தோழர்
+729,Community member,Community member,ஆண் சமூக உறுப்பினர் / பெண் சமூக உறுப்பினர்,சமூக உறுப்பினர்
+730,Host,Host,ஆண் புரவலர் / பெண் புரவலர்,புரவலர்
+731,Volunteer,Volunteer,ஆண் தன்னார்வலர் / பெண் தன்னார்வலர்,தன்னார்வலர்
+732,Comrade,Comrade,ஆண் தோழர் / பெண் தோழர்,தோழர்
+733,Legislator,Legislator,ஆண் சட்டமன்ற உறுப்பினர் / பெண் சட்டமன்ற உறுப்பினர்,சட்டமன்ற உறுப்பினர்
+734,Public servant,Public servant,ஆண் பொதுப் பணியாளர் / பெண் பொதுப் பணியாளர்,பொதுப் பணியாளர்
+735,Coach,Coach,ஆண் பயிற்சியாளர் / பெண் பயிற்சியாளர்,பயிற்சியாளர்
+736,Team member,Team member,ஆண் அணி உறுப்பினர் / பெண் அணி உறுப்பினர்,அணி உறுப்பினர்
+737,Competitor,Competitor,ஆண் போட்டியாளர் / பெண் போட்டியாளர்,போட்டியாளர்
+738,Technician,Technician,ஆண் தொழில்நுட்ப வல்லுநர் / பெண் தொழில்நுட்ப வல்லுநர்,தொழில்நுட்ப வல்லுநர்
+739,Mechanic,Mechanic,ஆண் இயந்திர பழுதுபார்ப்பாளர் / பெண் இயந்திர பழுதுபார்ப்பாளர்,இயந்திர பழுதுபார்ப்பாளர்
+740,Electrician,Electrician,ஆண் மின்சார பணியாளர் / பெண் மின்சார பணியாளர்,மின்சார பணியாளர்
+741,Carpenter,Carpenter,ஆண் தச்சர் / பெண் தச்சர்,தச்சர்
+742,mother tongue,first language,தாய் மொழி,முதல் மொழி

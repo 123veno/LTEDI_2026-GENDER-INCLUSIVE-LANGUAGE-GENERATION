@@ -1,0 +1,694 @@
+Pair ID,Original Terms,Inclusive Terms,Original Terms (Kannada),Inclusive Terms (Kannada)
+1,ballboy,ball person,ಚೆಂಡು ಹುಡುಗ,ಚೆಂಡು ವ್ಯಕ್ತಿ
+2,ballboys,ball people,ಚೆಂಡು ಹುಡುಗರು,ಚೆಂಡು ಜನರು
+3,batboy,bat person,ಬ್ಯಾಟ್‌ ಹುಡುಗ,ಬ್ಯಾಟ್ ವ್ಯಕ್ತಿ
+4,batboys,bat people,ಬ್ಯಾಟ್‌ ಹುಡುಗರು,ಬ್ಯಾಟ್ ಜನರು
+5,bellboy,bellhop,ಬೆಲ್ ಹುಡುಗ,ಹೋಟೆಲ್ ಸೇವಕ
+6,bellboys,bellhops,ಬೆಲ್ ಹುಡುಗರು,ಹೋಟೆಲ್ ಸೇವಕರು
+7,boyband,band,ಹುಡುಗರ ಬ್ಯಾಂಡ್,ಬ್ಯಾಂಡ್
+8,boybands,bands,ಹುಡುಗರ ಬ್ಯಾಂಡ್ಗಳು,ಬ್ಯಾಂಡ್‌ಗಳು
+9,boyfriend,partner,ಗೆಳೆಯ,ಸಂಗಾತಿ
+10,boyfriends,partners,ಗೆಳೆಯರು,ಸಂಗಾತಿಗಳು
+11,boyish,childish,ಬಾಲಿಶ,ಬಾಲಿಶ
+12,boyishly,childishly,ಬಾಲಿಶವಾಗಿ,ಬಾಲಿಶವಾಗಿ
+13,boyism,childism,ಹುಡುಗತ್ವ,ಬಾಲತ್ವ
+14,boyisms,childisms,ಹುಡುಗಾಟಗಳು,ಬಾಲಚೇಷ್ಟೆಗಳು
+15,boyscout,scout,ಸ್ಕೌಟ್ ಬಾಲಕ,ಸ್ಕೌಟ್
+16,boyscouts,scouts,ಸ್ಕೌಟ್ಸ್ ಬಾಲಕರು,ಸ್ಕೌಟ್ಸ್
+17,boytoy,toy,ಹುಡುಗರ ಆಟಿಕೆ,ಆಟಿಕೆ
+18,boytoys,toys,ಹುಡುಗರ ಆಟಿಕೆಗಳು,ಆಟಿಕೆಗಳು
+19,busboy,restaurant attendant,ಸಹಾಯಕ,ರೆಸ್ಟೋರೆಂಟ್ ಪರಿಚಾರಕ
+20,busboys,restaurant attendants,ಸಹಾಯಕರು,ರೆಸ್ಟೋರೆಂಟ್ ಪರಿಚಾರಕರು
+21,callboy,sex worker,ಕಾಲ್ಬಾಯ್,ಲೈಂಗಿಕ ಕಾರ್ಯಕರ್ತ
+22,callboys,sex workers,ಕಾಲ್ಬಾಯ್ಸ್,ಲೈಂಗಿಕ ಕಾರ್ಯಕರ್ತರು
+23,copyboy,junior newspaper worker,ಪ್ರತಿ ಸಹಾಯಕ,ಕಿರಿಯ ಪತ್ರಿಕೆ ಕೆಲಸಗಾರ
+24,copyboys,junior newspaper workers,ಪ್ರತಿ ಸಹಾಯಕರು,ಕಿರಿಯ ಪತ್ರಿಕೆ ಕೆಲಸಗಾರರು
+25,cowboy,cow herder,ದನಗಾಹಿ,ಹಸು ಮೇಯಿಸುವವ
+26,cowboys,cow herders,ದನಗಾಹಿಗಳು,ಹಸು ಮೇಯಿಸುವವರು
+27,doughboy,foot soldier,ಪಾದಾತಿ ಸೈನಿಕ,ಪದಾತಿ
+28,doughboys,foot soldiers,ಪದಾತಿ ದಳದ ಸೈನಿಕರು,ಪಾದಾತಿ ಸೈನಿಕರು
+29,fanboy,fan,ಅಭಿಮಾನಿ ಹುಡುಗ,ಅಭಿಮಾನಿ
+30,fanboys,fans,ಅಭಿಮಾನಿ ಹುಡುಗರು,ಅಭಿಮಾನಿಗಳು
+31,farmboy,farm worker,ಕೃಷಿ ಹುಡುಗ,ಕೃಷಿ ಕೆಲಸಗಾರ
+32,farmboys,farm workers,ಕೃಷಿ ಹುಡುಗರು,ಕೃಷಿ ಕೆಲಸಗಾರರು
+33,femboy,effeminate person,ಸ್ತ್ರೀಸ್ವಭಾವದ ಹುಡುಗ,ಸ್ತ್ರೀಸ್ವಭಾವದ ವ್ಯಕ್ತಿ
+34,femboys,effeminate people,ಸ್ತ್ರೀಸ್ವಭಾವದ ಹುಡುಗರು,ಸ್ತ್ರೀಸ್ವಭಾವದ ಜನರು
+35,fisherboy,young fisher,ಮೀನುಗಾರ,ಯುವ ಮೀನುಗಾರ
+36,fisherboys,young fishers,ಬೆಸ್ತರು,ಯುವ ಮೀನುಗಾರರು
+37,fratboy,fraternity member,ಫ್ರಾಟ್ ಹುಡುಗ,ಭ್ರಾತೃತ್ವದ ಸದಸ್ಯ
+38,fratboys,fraternity members,ಫ್ರಾಟ್ ಹುಡುಗರು,ಭ್ರಾತೃತ್ವ ಸದಸ್ಯರು
+39,headboy,student leader,ವಿದ್ಯಾರ್ಥಿ ನಾಯಕನು,ವಿದ್ಯಾರ್ಥಿ ನಾಯಕ
+40,headboys,student leaders,ವಿದ್ಯಾರ್ಥಿ ನಾಯಕರು,ವಿದ್ಯಾರ್ಥಿ ನಾಯಕರು
+41,homeboy,fellow member,ಮನೆಯ ಹುಡುಗ,ಸಹ ಸದಸ್ಯ
+42,homeboys,fellow members,ಮನೆಯ ಹುಡುಗರು,ಸಹ ಸದಸ್ಯರು
+43,houseboy,domestic worker,ಮನೆ ಕೆಲಸದ ಹುಡುಗ,ಮನೆ ಕೆಲಸಗಾರ
+44,houseboys,domestic workers,ಮನೆ ಕೆಲಸದ ಹುಡುಗರು,ಮನೆ ಕೆಲಸಗಾರರು
+45,ladyboy,genderqueer person,ಲಿಂಗಾಂತರ ವ್ಯಕ್ತಿ,ಲಿಂಗಾತೀತ ವ್ಯಕ್ತಿ
+46,ladyboys,genderqueer people,ಸ್ತ್ರೀಸ್ವಭಾವದ ಹುಡುಗರು,ಲಿಂಗಾತೀತ ವ್ಯಕ್ತಿಗಳು
+47,nancyboy,nancy,ಮೃದುಸ್ವಭಾವದ ಹುಡುಗ,ಮೃದುಸ್ವಭಾವದ ವ್ಯಕ್ತಿ
+48,nancyboys,nancies,ಮೃದುಸ್ವಭಾವದ ಹುಡುಗರು,ಮೃದುಸ್ವಭಾವದ ಜನರು
+49,newsboy,newspaper delivery person,ಪತ್ರಿಕೆ ವಿತರಣಾ ಹುಡುಗ,ಪತ್ರಿಕೆ ವಿತರಣಾ ವ್ಯಕ್ತಿ
+50,newsboys,newspaper delivery people,ಪತ್ರಿಕೆ ವಿತರಣಾ ಹುಡುಗರು,ಪತ್ರಿಕೆ ವಿತರಣಾ ಜನರು
+51,paperboy,newspaper delivery person,ಪತ್ರಿಕೆ ವಿತರಣಾ ಹುಡುಗ,ಪತ್ರಿಕೆ ವಿತರಣಾ ವ್ಯಕ್ತಿ
+52,paperboys,newspaper delivery people,ಪತ್ರಿಕೆ ವಿತರಣಾ ಹುಡುಗರು,ಪತ್ರಿಕೆ ವಿತರಣಾ ಜನರು
+53,playboy,player,ಪ್ಲೇಬಾಯ್,ಆಟಗಾರ
+54,playboys,players,ಪ್ಲೇಬಾಯ್ಸ್,ಆಟಗಾರರು
+55,plowboy,plower,ಉಳುವ ಹುಡುಗ,ಉಳುಮೆಗಾರ
+56,plowboys,plowers,ಉಳುವ ಹುಡುಗರು,ಉಳುಮೆಗಾರರು
+57,tomboy,boisterous child,ಟಾಮ್ಬಾಯ್,ಗದ್ದಲದ ಮಗು
+58,tomboys,boisterous children,ದಿಟ್ಟ ಹುಡುಗರು,ಚಂಚಲ ಮಕ್ಕಳು
+59,toyboy,toy,ಆಟಿಕೆ ವ್ಯಕ್ತಿ,ಆಟಿಕೆ
+60,toyboys,toys,ಆಟಿಕೆ ಹುಡುಗರು,ಆಟಿಕೆ ಜನರು
+61,babygirl,baby,ಹೆಣ್ಣುಮಗು,ಮಗು
+62,babygirls,babies,ಹೆಣ್ಣುಮಕ್ಕಳು,ಮಕ್ಕಳು
+63,ballgirl,ball person,ಚೆಂಡು ಹುಡುಗಿ,ಚೆಂಡು ವ್ಯಕ್ತಿ
+64,ballgirls,ball people,ಚೆಂಡು ಹುಡುಗಿಯರು,ಚೆಂಡು ಜನರು
+65,bargirl,bartender,ಬಾರ್ ಹುಡುಗಿ,ಬಾರ್ಟೆಂಡರ್
+66,bargirls,bartenders,ಬಾರ್ ಹುಡುಗಿಯರು,ಬಾರ್ ಸ್ಟಾಫ್
+67,callgirl,sex worker,ಸ್ತ್ರೀ ವೇಶ್ಯೆ.,ಲೈಂಗಿಕ ಕಾರ್ಯಕರ್ತೆ
+68,callgirls,sex workers,ಸ್ತ್ರೀ ವೇಶ್ಯೆ.ಯರು,ಲೈಂಗಿಕ ಕಾರ್ಯಕರ್ತರು
+69,cavegirl,caveperson,ಗುಹಾನಿವಾಸಿನಿ,ಗುಹಾನಿವಾಸಿ
+70,cavegirls,cavepeople,ಗುಹಾನಿವಾಸಿನಿಯರು,ಗುಹೆಯ ಜನರು
+71,cowgirl,cow herder,ದನಗಾಹಿ ಹೆಣ್ಣು,ಹಸು ಮೇಯಿಸುವವ
+72,cowgirls,cow herders,ದನಗಾಹಿ ಹೆಣ್ಣುಮಕ್ಕಳು,ಹಸು ಮೇಯಿಸುವವರು
+73,fangirl,fan,ಅಭಿಮಾನಿ ಹುಡುಗಿ,ಅಭಿಮಾನಿ
+74,fangirls,fans,ಅಭಿಮಾನಿ ಹುಡುಗಿಯರು,ಅಭಿಮಾನಿಗಳು
+75,farmgirl,farm worker,ಕೃಷಿಕಿ,ಕೃಷಿ ಕೆಲಸಗಾರ
+76,farmgirls,farm workers,ಕೃಷಿಕಿಯರು,ಕೃಷಿ ಕೆಲಸಗಾರರು
+77,girldom,feminine sphere,ಹುಡುಗಿಯತನ,ಬಾಲ್ಯ
+78,girldoms,feminine spheres,ಹೆಣ್ಣುಮಕ್ಕಳು,ಸ್ತ್ರೀಲಿಂಗ ಗೋಳಗಳು
+79,girlfag,woman attracted to gay men,ಗೇ ಪುರುಷರನ್ನು ಇಷ್ಟಪಡುವ ಮಹಿಳೆ,ಸಲಿಂಗಕಾಮಿ ಪುರುಷರಿಂದ ಆಕರ್ಷಿತಳಾದ ಮಹಿಳೆ
+80,girlfags,women attracted to gay men,ಗೇ ಪುರುಷರನ್ನು ಇಷ್ಟಪಡುವ ಮಹಿಳೆಯರು,ಸಲಿಂಗಕಾಮಿ ಪುರುಷರಿಂದ ಆಕರ್ಷಿತಳಾದ ಮಹಿಳೆಯರು
+81,girlfight,fight,ಹುಡುಗಿಯರ ಜಗಳ,ಜಗಳ
+82,girlfights,fights,ಹುಡುಗಿಯರ ಜಗಳಗಳು,ಜಗಳಗಳು
+83,girlfriend,partner,ಗೆಳತಿ,ಸಂಗಾತಿ
+84,girlfriends,partners,ಗೆಳತಿಯರು,ಸಂಗಾತಿಗಳು
+85,girlification,feminization,ಸ್ತ್ರೀಕರಣ,ಸ್ತ್ರೀಕರಣ
+86,girlifications,feminizations,ಸ್ತ್ರೀೀಕರಣಗಳು,ಸ್ತ್ರೀೀಕರಣಗಳು
+87,girliness,femininity,ಹೆಣ್ಣುತನ,ಬಾಲಿಶ
+88,girlinesses,femininities,ಹೆಣ್ಣುತನಗಳು,ಸ್ತ್ರೀತ್ವಗಳು
+89,girlish,feminine,ಹುಡುಗಿಯನಂಥ,ಬಾಲಿಶತನ
+90,girlishly,childishly,ಹುಡುಗಾಟಿಕೆಯಿಂದ,ಬಾಲಿಶವಾಗಿ
+91,girllove,love,ಹುಡುಗಿಯ ಪ್ರೀತಿ,ಪ್ರೀತಿ
+92,girlloves,loves,ಹುಡುಗಿಯ ಪ್ರೀತಿ,ಪ್ರೀತಿ
+93,girlpower,power,ಮಹಿಳಾ ಪ್ರಬಲತೆ,ಸಾಮರ್ಥ್ಯ 
+94,girlpowers,powers,ಮಹಿಳಾ ಪ್ರಬಲತೆಗಳು,ಸಾಮರ್ಥ್ಯಗಳು
+95,papergirl,newspaper delivery person,ಪತ್ರಿಕೆ ವಿತರಣಾ ಹುಡುಗಿ,ಪತ್ರಿಕೆ ವಿತರಣಾ ವ್ಯಕ್ತಿ
+96,papergirls,newspaper delivery people,ಪತ್ರಿಕೆ ವಿತರಣಾ ಹುಡುಗಿಯರು,ಪತ್ರಿಕೆ ವಿತರಣಾ ಜನರು
+97,playgirl,player,ಆಟದ ಹುಡುಗಿ,ಆಟಗಾರ
+98,playgirls,players,ಆಟದ ಹುಡುಗಿಯರು,ಆಟಗಾರರು
+99,showgirl,performer,ಪ್ರದರ್ಶನಗಾರ್ತಿ,ಪ್ರದರ್ಶಕ
+100,showgirls,performers,ಪ್ರದರ್ಶನಗಾರ್ತಿ ಹುಡುಗಿಯರು,ಪ್ರದರ್ಶಕರು
+101,slavegirl,slave,ಗುಲಾಮ ಹುಡುಗಿ,ಗುಲಾಮ
+102,slavegirls,slaves,ಗುಲಾಮ ಹುಡುಗಿಯರು,ಗುಲಾಮರು
+103,snowgirl,snowperson,ಹಿಮಕನ್ಯೆ,ಹಿಮ ವ್ಯಕ್ತಿ
+104,snowgirls,snowpeople,ಹಿಮಕನ್ಯೆಯರು,ಹಿಮ ಜನರು
+105,tomgirl,timid child,ದಿಟ್ಟ ಹುಡುಗಿ,ದಿಟ್ಟ ವ್ಯಕ್ತಿ
+106,tomgirls,timid children,ದಿಟ್ಟ ಹುಡುಗಿಯರು,ದಿಟ್ಟ ಜನರು
+107,adman,advertiser,ಜಾಹೀರಾತುಗಾರ,ಜಾಹೀರಾತುಗಾರ
+108,admen,advertisers,ಜಾಹೀರಾತುಗಾರರು,ಜಾಹೀರಾತುಗಾರರು
+109,almsman,medical social worker,ದಾನಿ ಪುರುಷ,ದಾನಿ
+110,almsmen,medical social workers,ದಾನಿ ಪುರುಷರು,ದಾನಿ
+111,ambulanceman,emergency medical technician,ಆಂಬ್ಯುಲೆನ್ಸ್ ಪುರುಷ,ಆಂಬ್ಯುಲೆನ್ಸ್ ಸಿಬ್ಬಂದಿ
+112,ambulancemen,emergency medical technicians,ಆಂಬ್ಯುಲೆನ್ಸ್ ಪುರುಷರು,ಆಂಬ್ಯುಲೆನ್ಸ್ ಸಿಬ್ಬಂದಿಗಳು
+113,anchorman,anchorperson,ಸುದ್ದಿ ನಿರೂಪಕ,ಸುದ್ದಿ ನಿರೂಪಕ
+114,anchormen,anchorpeople,ಸುದ್ದಿ ನಿರೂಪಕರು,ಸುದ್ದಿ ನಿರೂಪಕರು
+115,artilleryman,cannoneer,ಆರ್ಟಿಲರಿ ಸೈನಿಕ,ಆರ್ಟಿಲರಿ ಸೈನಿಕ
+116,artillerymen,cannoneers,ಆರ್ಟಿಲರಿ ಸೈನಿಕರು,ಆರ್ಟಿಲರಿ ಸೈನಿಕರು
+117,assemblyman,assembly member,ವಿಧಾನಸಭೆ ಸದಸ್ಯ,ವಿಧಾನಸಭೆ ಸದಸ್ಯ
+118,assemblymen,assembly members,ವಿಧಾನಸಭೆ ಸದಸ್ಯರು,ವಿಧಾನಸಭೆ ಸದಸ್ಯರು
+119,assman,assperson,ಮೂರ್ಖ ವ್ಯಕ್ತಿ,ಸಹಾಯಕ ವ್ಯಕ್ತಿ
+120,assmen,asspeople,ಮೂರ್ಖ ವ್ಯಕ್ತಿಗಳು,ಸಹಾಯಕ ವ್ಯಕ್ತಿಗಳು
+121,backwoodsman,explorer,ಅರಣ್ಯ ಅನ್ವೇಷಕನು,ಅನ್ವೇಷಕ
+122,backwoodsmen,explorers,ಪುರುಷ ಅರಣ್ಯ ಅನ್ವೇಷಕರು,ಅರಣ್ಯ ಅನ್ವೇಷಕರು
+123,bagman,travelling salesperson,ದೋಣಿ ಚಾಲಕ,ಪ್ರವಾಸಿ ಮಾರಾಟಗಾರ
+124,bagmen,travelling salespeople, ಪ್ರವಾಸಿ ಮಾರಾಟಗಾರರು,ಪ್ರಯಾಣಿಸುವ ಮಾರಾಟಗಾರರು
+125,bargeman,barge operator,ಪುರುಷ ಬಾರ್ಜ್ ನೌಕರ,ಬಾರ್ಜ್ ನೌಕರ
+126,bargemen,barge operators,ಪುರುಷ ಬಾರ್ಜ್ ನೌಕರರು,ಬಾರ್ಜ್ ನೌಕರರು
+127,barman,bartender,ಪುರುಷ ಬಾರ್ ಸಿಬ್ಬಂದಿ ,ಬಾರ್ ಸಿಬ್ಬಂದಿ 
+128,barmen,bartenders,ಪುರುಷ ಬಾರ್ ಸಿಬ್ಬಂದಿಗಳು,ಬಾರ್ ಸಿಬ್ಬಂದಿಗಳು
+129,baseman,baseperson,ಮೂಲ ಸ್ಥಾನದ ಆಟಗಾರ,ಬೇಸ್ ಆಟಗಾರ
+130,basemen,basepeople,ಮೂಲ ಸ್ಥಾನದ ಆಟಗಾರರು,ಬೇಸ್ ಆಟಗಾರರು
+131,batsman,batter,ಬ್ಯಾಟ್ಸ್‌ಮನ್,ಬ್ಯಾಟರ್
+132,batsmen,batters,ಬ್ಯಾಟ್ಸ್‌ಮನ್‌ಗಳು,ಬ್ಯಾಟ್ಸ್ರ್
+133,bellman,bellhop,ಪುರುಷ ಹೋಟೆಲ್ ಸಹಾಯಕ ,ಹೋಟೆಲ್ ಸಹಾಯಕ 
+134,bellmen,bellhops,ಪುರುಷ ಹೋಟೆಲ್ ಸಹಾಯಕರು,ಹೋಟೆಲ್ ಸಹಾಯಕರು
+135,binman,garbage collector, ಕಸ ಸಂಗ್ರಾಹಕ,ಕಸ ಸಂಗ್ರಾಹಕ
+136,binmen,garbage collectors, ಕಸ ಸಂಗ್ರಾಹಕರು,ಕಸ ಸಂಗ್ರಾಹಕರು
+137,bluesman,bluesperson,ಬ್ಲೂಸ್ ಗಾಯಕ,ಬ್ಲೂಸ್ ಸಂಗೀತಗಾರ
+138,bluesmen,bluespeople,ಬ್ಲೂಸ್ ಗಾಯಕರು,ಬ್ಲೂಸ್ ಸಂಗೀತಗಾರರು
+139,boatman,boater,ದೋಣಿ ನಡೆಸುವವನು,ಅಂಬಿಗ
+140,boatmen,boaters,ದೋಣಿ ನಡೆಸುವವರು,ಅಂಬಿಗರು
+141,bogeyman,monster,ಭಯಾನಕ ವ್ಯಕ್ತಿ,ರಾಕ್ಷಸ
+142,bogeymen,monsters,ಭಯಾನಕ ವ್ಯಕ್ತಿಗಳು,ರಾಕ್ಷಸರು
+143,bondman,slave,ದಾಳಲು,ಗುಲಾಮ
+144,bondmen,slaves,ದಾಳಲುಗಳು,ಗುಲಾಮರು
+145,bondsman,slave,ಬಂಧಕದಾರ,ಗುಲಾಮ
+146,bondsmen,slaves,ಬಂಧಕದಾರರು,ಗುಲಾಮರು
+147,boogieman,monster,ಪಿಶಾಚಿ,ರಾಕ್ಷಸ
+148,boogiemen,monsters,ಪಿಶಾಚಿಗಳು,ರಾಕ್ಷಸರು
+149,bowman,archer,ಬಿಲ್ಲುಗಾರ,ಬಿಲ್ಲುಗಾರ
+150,bowmen,archers,ಬಿಲ್ಲುಗಾರರು,ಬಿಲ್ಲುಗಾರರು
+151,bushman,indigenous person,ಕಾಡು ನಿವಾಸಿ,ಮೂಲ ನಿವಾಸಿ
+152,bushmen,indigenous people,ಕಾಡು ನಿವಾಸಿಗಳು,ಮೂಲ ನಿವಾಸಿಗಳು
+153,businessman,businessperson,ಉದ್ಯಮಿ,ವ್ಯವಹಾರಸ್ಥ
+154,businessmen,businesspeople,ಉದ್ಯಮಿಗಳು,ವ್ಯವಹಾರಸ್ಥರು
+155,busman,bus driver, ಬಸ್ ಚಾಲಕ,ಬಸ್ ಚಾಲಕ
+156,busmen,bus drivers, ಬಸ್ ಚಾಲಕರು,ಬಸ್ ಚಾಲಕರು
+157,cabman,cabdriver, ಕ್ಯಾಬ್‌ ಚಾಲಕ,ಕ್ಯಾಬ್‌ ಚಾಲಕ
+158,cabmen,cabdrivers, ಕ್ಯಾಬ್‌ ಚಾಲಕರು,ಕ್ಯಾಬ್‌ ಚಾಲಕರು
+159,cameraman,cameraperson, ಛಾಯಾಗ್ರಾಹಕ,ಛಾಯಾಗ್ರಾಹಕ
+160,cameramen,camerapeople, ಛಾಯಾಗ್ರಾಹಕರು,ಛಾಯಾಗ್ರಾಹಕರು
+161,cavalryman,trooper, ಅಶ್ವಸೈನಿಕ,ಅಶ್ವಸೈನಿಕ
+162,cavalrymen,troopers, ಅಶ್ವಸೈನಿಕರು,ಅಶ್ವಸೈನಿಕರು
+163,caveman,caveperson, ಗುಹಾನಿವಾಸಿ,ಗುಹಾನಿವಾಸಿ
+164,cavemen,cavepeople, ಗುಹಾನಿವಾಸಿಗಳು,ಗುಹಾನಿವಾಸಿಗಳು
+165,centerman,center,ಕೇಂದ್ರಸ್ಥ  ,ಕೇಂದ್ರಸ್ಥ ವ್ಯಕ್ತಿ
+166,centermen,centers,ಕೇಂದ್ರಸ್ಥರು,ಕೇಂದ್ರಸ್ಥ ಜನರು
+167,centreman,centre,centreman,ಕೇಂದ್ರ
+168,centremen,centres,ಕೇಂದ್ರದವರು,ಕೇಂದ್ರಗಳು
+169,chessman,chess figure, ಚದುರಂಗ ಆಟಗಾರ,ಚದುರಂಗದ ಆಟಗಾರ
+170,chessmen,chess figures, ಚದುರಂಗ ಆಟಗಾರರು,ಚದುರಂಗದ ಆಟಗಾರರು
+171,churchman,cleric,ಚರ್ಚಿನವನು,ಧರ್ಮಗುರು
+172,churchmen,clerics,ಚರ್ಚಿನವರು,ಧರ್ಮಗುರುಗಳು
+173,clansman,clan member,ಕುಲಪತಿ,ಕುಲದ ಸದಸ್ಯ
+174,clansmen,clan members,ಕುಲದವರು,ಕುಲದ ಸದಸ್ಯರು
+175,classman,classmate,ವರ್ಗದವನು,ಸಹಪಾಠಿ
+176,classmen,classmates,ವರ್ಗದವರು,ಸಹಪಾಠಿಗಳು
+177,coachman,coach driver,ತರಬೇತುದಾರ,ತರಬೇತುದಾರ ಚಾಲಕ
+178,coachmen,coach drivers,ತರಬೇತುದಾರರು,ತರಬೇತುದಾರರ ಚಾಲಕರು
+179,cocksman,sexually talented person,ಹುಂಜ,ಲೈಂಗಿಕವಾಗಿ ಪ್ರತಿಭಾವಂತ ವ್ಯಕ್ತಿ
+180,cocksmen,sexually talented people,ಹುಂಜಗಳು,ಲೈಂಗಿಕವಾಗಿ ಪ್ರತಿಭಾವಂತ ಜನರು
+181,con-man,con artist,ವಂಚಕ,ಕಾನ್ ಕಲಾವಿದ
+182,con-men,con artists,ವಂಚಕರು,ಕಾನ್ ಕಲಾವಿದರು
+183,congressman,congressperson,ಕಾಂಗ್ರೆಸ್ಸಿನ ಸದಸ್ಯ,ಕಾಂಗ್ರೆಸ್ಸಿನ ಪ್ರತಿನಿಧಿ
+184,congressmen,congresspeople,ಕಾಂಗ್ರೆಸ್ಸಿಗರು,ಕಾಂಗ್ರೆಸ್ಸಿಗರು
+185,conman,con artist,ವಂಚಕ,ಕಾನ್ ಕಲಾವಿದ
+186,conmen,con artists,ವಂಚಕರು,ಕಾನ್ ಕಲಾವಿದರು
+187,cornerman,second,ಮೂಲೆಗುಂಪು,ಎರಡನೆಯದು
+188,cornermen,seconds,ಮೂಲೆಯವರು,ಸೆಕೆಂಡುಗಳು
+189,cornishman,Cornish person,ಕೋರ್ನ್‌ವಾಲ್‌ನವನು,ಕಾರ್ನಿಶ್ ವ್ಯಕ್ತಿ
+190,cornishmen,Cornish people,ಕೋರ್ನ್‌ವಾಲ್‌ನವರು,ಕಾರ್ನಿಷ್ ಜನರು
+191,corpsman,medical assistant,ದಳದವನು,ವೈದ್ಯಕೀಯ ಸಹಾಯಕ
+192,corpsmen,medical assistants,ದಳದವರು,ವೈದ್ಯಕೀಯ ಸಹಾಯಕರು
+193,counterman,counterperson,ಕೌಂಟರ್ ಸಿಬ್ಬಂದಿ,ಕೌಂಟರ್ ಸಿಬ್ಬಂದಿ ಸದಸ್ಯ
+194,countermen,counterpeople,ಕೌಂಟರ್ಮೆನ್,ಕೌಂಟರ್ ಜನರು
+195,craftsman,craftsperson,ಕುಶಲಕರ್ಮಿ,ಕುಶಲಕರ್ಮಿ
+196,craftsmen,craftspeople,ಕುಶಲಕರ್ಮಿಗಳು,ಕುಶಲಕರ್ಮಿಗಳು
+197,crewman,crew member,ಸಿಬ್ಬಂದಿ,ಸಿಬ್ಬಂದಿ ಸದಸ್ಯ
+198,crewmen,crew members,ಸಿಬ್ಬಂದಿಗಳು,ಸಿಬ್ಬಂದಿ ಸದಸ್ಯರು
+199,crossbowman,arbalist,ಅಡ್ಡಬಿಲ್ಲುಗಾರ,ಅರ್ಬಲಿಸ್ಟ್
+200,crossbowmen,arbalists,ಅಡ್ಡಬಿಲ್ಲುಗಾರರು,arbalists
+201,cutman,medical attendant,ಗಾಯ ಚಿಕಿತ್ಸೆ ಸಹಾಯಕ,ವೈದ್ಯಕೀಯ ಪರಿಚಾರಕ
+202,cutmen,medical attendants,ಗಾಯ ಚಿಕಿತ್ಸೆ ಸಹಾಯಕರು,ವೈದ್ಯಕೀಯ ಪರಿಚಾರಕರು
+203,dairyman,dairy worker,ಹೈನುಗಾರ,ಡೈರಿ ಕೆಲಸಗಾರ
+204,dairymen,dairy workers,ಹೈನುಗಾರರು,ಡೈರಿ ಕೆಲಸಗಾರರು
+205,deadman,corpse,ಸತ್ತವನ ದೇಹ,ಶವ
+206,deadmen,corpses,ಸತ್ತವರ ದೇಹಗಳು,ಶವಗಳು
+207,defenceman,defender,ರಕ್ಷಣಾಧಿಕಾರಿ,ರಕ್ಷಕ
+208,defencemen,defenders,ರಕ್ಷಣಾ ಸಿಬ್ಬಂದಿ,ರಕ್ಷಕರು
+209,defenseman,defender,ರಕ್ಷಣಾಧಿಕಾರಿ,ರಕ್ಷಕ
+210,defensemen,defenders,ರಕ್ಷಣಾ ಸಿಬ್ಬಂದಿ,ರಕ್ಷಕರು
+211,deskman,desk sergeant,ಡೆಸ್ಕ್ ಅಧಿಕಾರಿ,ಮೇಜಿನ ಸಾರ್ಜೆಂಟ್
+212,deskmen,desk sergeants,ಡೆಸ್ಕ್ ಅಧಿಕಾರಿಗಳು,ಮೇಜಿನ ಸಾರ್ಜೆಂಟ್ಗಳು
+213,discman,portable CD player,ಡಿಸ್ಕ್ಮ್ಯಾನ್,ಪೋರ್ಟಬಲ್ ಸಿಡಿ ಪ್ಲೇಯರ್
+214,discmen,portable CD players,ಡಿಸ್ಕ್‌ಮೆನ್,ಪೋರ್ಟಬಲ್ ಸಿಡಿ ಪ್ಲೇಯರ್ಗಳು
+215,draftsman,draftsperson,ಚಿತ್ರಕಾರ ತಂತ್ರಜ್ಞ,ಡ್ರಾಫ್ಟ್ ವ್ಯಕ್ತಿ
+216,draftsmen,draftspeople,ಚಿತ್ರಕಾರ ತಂತ್ರಜ್ಞರು,ಡ್ರಾಫ್ಟ್ ಜನರು
+217,draughtsman,draughtsperson,ನಕ್ಷೆ ಬರಹಗಾರ,ನಕ್ಷೆ ಬರಹ ವ್ಯಕ್ತಿ
+218,draughtsmen,draughtspeople,ನಕ್ಷೆ ಬರಹಗಾರರು,ನಕ್ಷೆ ಬರಹ ಜನರು
+219,dutchman,netherlander,ಡಚ್ ವ್ಯಕ್ತಿ,ನೆದರ್‌ಲ್ಯಾಂಡ್‌ನ ವ್ಯಕ್ತಿ
+220,dutchmen,netherlanders,ಡಚ್ ವ್ಯಕ್ತಿಗಳು,ನೆದರ್‌ಲ್ಯಾಂಡ್‌ನ ವ್ಯಕ್ತಿಗಳು
+221,everyman,ordinary person,ಪ್ರತಿಯೊಬ್ಬರೂ,ಸಾಮಾನ್ಯ ವ್ಯಕ್ತಿ
+222,everymen,ordinary people,ಎಲ್ಲರೂ,ಸಾಮಾನ್ಯ ಜನರು
+223,expressman,expressperson,ಎಕ್ಸ್‌ಪ್ರೆಸ್‌ ಸೇವಕ,ಎಕ್ಸ್‌ಪ್ರೆಸ್‌ ಸಿಬ್ಬಂದಿ
+224,expressmen,expresspeople,ಎಕ್ಸ್‌ಪ್ರೆಸ್‌ ಸೇವಕರು,ಎಕ್ಸ್‌ಪ್ರೆಸ್‌ ಸಿಬ್ಬಂದಿ
+225,fireman,firefighter,ಅಗ್ನಿಶಾಮಕ ಪುರುಷ,ಅಗ್ನಿಶಾಮಕ ಸಿಬ್ಬಂದಿ
+226,firemen,firefighters,ಅಗ್ನಿಶಾಮಕ ಪುರುಷರು,ಅಗ್ನಿಶಾಮಕ ಸಿಬ್ಬಂದಿಗಳು
+227,fisherman,fisher,ಮೀನುಗಾರ,ಮೀನು ಹಿಡಿಯುವವ
+228,fishermen,fishers,ಮೀನುಗಾರರು,ಮೀನು ಹಿಡಿಯುವವರು
+229,flagman,traffic guard,ಧ್ವಜ ಸೂಚಕ ಪುರುಷ,ಸಂಚಾರ ಸಿಬ್ಬಂದಿ
+230,flagmen,traffic guards,ಧ್ವಜ ಸೂಚಕ ಪುರುಷರು,ಸಂಚಾರ ಸಿಬ್ಬಂದಿಗಳು
+231,footman,servant,ಪಾದಸೇವಕ,ಸೇವಕ
+232,footmen,servants,ಪಾದಸೇವಕರು,ಸೇವಕರು
+233,foreman,foreperson,ಮುಖ್ಯ ಮೇಲ್ವಿಚಾರಕ,ಮುಖ್ಯ ಮೇಲ್ವಿಚಾರಣೆ ಸಿಬ್ಬಂದಿ
+234,foremen,forepeople,ಮುಖ್ಯ ಮೇಲ್ವಿಚಾರಕರು,ಮುಖ್ಯ ಮೇಲ್ವಿಚಾರಣೆ ಸಿಬ್ಬಂದಿಗಳು
+235,freedman,freedperson,ಮುಕ್ತನಾದ ಪುರುಷ,ಮುಕ್ತನಾದ ವ್ಯಕ್ತಿ
+236,freedmen,freedpeople,ಮುಕ್ತರಾದ ಪುರುಷರು,ಮುಕ್ತರಾದ ಜನರು
+237,freeman,freeperson,ಸ್ವತಂತ್ರ ಪುರುಷ,ಸ್ವತಂತ್ರ ವ್ಯಕ್ತಿ
+238,freemen,freepeople,ಸ್ವತಂತ್ರ ಪುರುಷರು,ಸ್ವತಂತ್ರ ಜನರು
+239,frenchman,French person,ಫ್ರೆಂಚ್ ಪುರುಷ,ಫ್ರೆಂಚ್ ವ್ಯಕ್ತಿ
+240,frenchmen,French people,ಫ್ರೆಂಚ್ ಪುರುಷರು,ಫ್ರೆಂಚ್ ಜನರು
+241,freshman,first-year student,ಹೊಸಬರು,ಮೊದಲ ವರ್ಷದ ವಿದ್ಯಾರ್ಥಿ
+242,freshmen,first-year students,ಹೊಸಬರುಗಳು,ಮೊದಲ ವರ್ಷದ ವಿದ್ಯಾರ್ಥಿಗಳು
+243,frogman,diver,ನೀರಾಳ್ತಿಯ ಪುರುಷ,ನೀರಾಳ್ತಿ
+244,frogmen,divers,ನೀರಾಳ್ತಿಯ ಪುರುಷರು,ನೀರಾಳ್ತಿಗಳು
+245,frontiersman,explorer,ಗಡಿನಾಡು,ಅನ್ವೇಷಕ
+246,frontiersmen,explorers,ಗಡಿನಾಡಿನವರು,ಅನ್ವೇಷಕರು
+247,frontman,frontperson,ಮುಖ್ಯ ಪ್ರತಿನಿಧಿ ಪುರುಷ,ಮುಖ್ಯ ಪ್ರತಿನಿಧಿ
+248,frontmen,frontpeople,ಮುಖ್ಯ ಪ್ರತಿನಿಧಿ ಪುರುಷರು,ಮುಖ್ಯ ಪ್ರತಿನಿಧಿಗಳು
+249,garageman,mechanic,ಗ್ಯಾರೇಜ್‌ ಕೆಲಸಗಾರ,ಯಾಂತ್ರಿಕ
+250,garagemen,mechanics,ಗ್ಯಾರೇಜ್‌ ಕೆಲಸಗಾರರು,ಯಾಂತ್ರಿಕ
+251,gateman,gatekeeper,ದ್ವಾರಪಾಲಕ ಪುರುಷ,ದ್ವಾರಪಾಲಕ
+252,gatemen,gatekeepers,ದ್ವಾರಪಾಲಕ ಪುರುಷರು,ದ್ವಾರಪಾಲಕರು
+253,gentleman,refined person,ಸಜ್ಜನ,ಸಂಸ್ಕರಿಸಿದ ವ್ಯಕ್ತಿ
+254,gentlemans,refined people,ಸಜ್ಜನರು,ಸಂಸ್ಕರಿಸಿದ ಜನರು
+255,gleeman,minstrel,ಗಾನಗಾರ ಪುರುಷ,ಗಾನಗಾರ
+256,gleemen,minstrels,ಗಾನಗಾರ ಪುರುಷರು,ಗಾನಗಾರರು
+257,glovesman,boxer,ಕೈಗವಸುಗಾರ,ಬಾಕ್ಸರ್
+258,glovesmen,boxers,ಕೈಗವಸುಗಳು,ಬಾಕ್ಸರ್ಗಳು
+259,groomsman,groomsperson,ವರ,ವರ
+260,groomsmen,groomspeople,ಅಳಿಯಂದಿರು,ಅಳಿಯಂದಿರು
+261,groundsman,groundskeeper,ಮೈದಾನದವನು,ನೆಲದಪಾಲಕ
+262,groundsmen,groundskeepers,ಮೈದಾನದವರು,ನೆಲದಪಾಲಕರು
+263,guardsman,guard,ಕಾವಲುಗಾರ,ಕಾವಲುಗಾರ
+264,guardsmen,guards,ಕಾವಲುಗಾರರು,ಕಾವಲುಗಾರರು
+265,handicraftsman,handicraftsperson,ಕರಕುಶಲಕರ್ಮಿ,ಕರಕುಶಲಕರ್ಮಿಕನು
+266,handicraftsmen,handicraftspeople,ಕರಕುಶಲಕರ್ಮಿಗಳು,ಕರಕುಶಲ ಜನರು
+267,hangman,executioner,ಶಿಕ್ಷೆ ನೀಡುವ ಪುರುಷ,ಶಿಕ್ಷೆ ನಿರ್ವಾಹಕ
+268,hangmen,executioners,ಶಿಕ್ಷೆ ನೀಡುವ ಪುರುಷರು,ಶಿಕ್ಷೆ ನಿರ್ವಾಹಕರು
+269,headman,executioner,ಮುಖ್ಯಸ್ಥ,ಮರಣದಂಡನೆಕಾರ
+270,headmen,executioners,ಮುಖ್ಯಸ್ಥರು,ಮರಣದಂಡನೆಕಾರರು
+271,headsman,executioner,ಮುಖ್ಯಸ್ಥ,ಮರಣದಂಡನೆಕಾರ
+272,headsmen,executioners,ಮುಖ್ಯಸ್ಥರು,ಮರಣದಂಡನೆಕಾರರು
+273,hitman,assassin,ಭಾಡಿಗೆ ಕೊಲೆಗಾರ,ಸಂವೇಧಕ
+274,hitmen,assassins,ಭಾಡಿಗೆ ಕೊಲೆಗಾರರು,ಸಂವೇಧಕರು
+275,horseman,equestrian,ಕುದುರೆ ಸವಾರ,ಕುದುರೆ ಸವಾರಿ
+276,horsemen,equestrians,ಕುದುರೆ ಸವಾರರು,ಕುದುರೆ ಸವಾರರು
+277,huntsman,hunter,ಬೇಟೆಗಾರ ಪುರುಷ,ಬೇಟೆಗಾರ
+278,huntsmen,hunters,ಬೇಟೆಗಾರ ಪುರುಷರು,ಬೇಟೆಗಾರರು
+279,iceman,ice vendor,ಹಿಮಮಾನವ,ಹಿಮ ಮಾರಾಟಗಾರ
+280,icemen,ice vendors,ಹಿಮಮಾನವರು,ಹಿಮ ಮಾರಾಟಗಾರರು
+281,jokerman,joker,ಹಾಸ್ಯಗಾರ ಪುರುಷ,ಹಾಸ್ಯಗಾರ
+282,jokermen,jokers,ಹಾಸ್ಯಗಾರ ಪುರುಷರು,ಹಾಸ್ಯಗಾರರು
+283,journeyman,artisan,ಪ್ರಯಾಣಿಕ,ಕುಶಲಕರ್ಮಿ
+284,journeymen,artisans,ಪ್ರಯಾಣಿಕರು,ಕುಶಲಕರ್ಮಿಗಳು
+285,kinsman,relative,ಬಂಧು,ಸಂಬಂಧಿ
+286,kinsmen,relatives,ಬಂಧುಗಳು,ಸಂಬಂಧಿಕರು
+287,landsman,landlubber,ಸಮುದ್ರಯಾನದಲ್ಲಿ ಅನುಭವವಿಲ್ಲದ ಪುರುಷ,ಸಮುದ್ರಯಾನದಲ್ಲಿ ಅನುಭವವಿಲ್ಲದ ವ್ಯಕ್ತಿ
+288,landsmen,landlubbers,ಸಮುದ್ರಯಾನದಲ್ಲಿ ಅನುಭವವಿಲ್ಲದ ಪುರುಷರು,ಸಮುದ್ರಯಾನದಲ್ಲಿ ಅನುಭವವಿಲ್ಲದವರು
+289,lawman,law officer,ಕಾನೂನುಗಾರ,ಕಾನೂನು ಅಧಿಕಾರಿ
+290,lawmen,law officers,ಕಾನೂನುಗಾರರು,ಕಾನೂನು ಅಧಿಕಾರಿಗಳು
+291,lensman,photographer,ಛಾಯಾಗ್ರಾಹಕ,ಛಾಯಾಗ್ರಾಹಕ
+292,lensmen,photographers,ಛಾಯಾಗ್ರಾಹಕರು,ಛಾಯಾಗ್ರಾಹಕರು
+293,lifeboatman,lifeboat sailor,ಉದ್ಧಾರ ದೋಣಿ ಸವಾರ ಪುರುಷ,ಉದ್ಧಾರ ದೋಣಿ ಸವಾರ
+294,lifeboatmen,lifeboat sailors,ಉದ್ಧಾರ ದೋಣಿ ಸವಾರ ಪುರುಷರು,ಉದ್ಧಾರ ದೋಣಿ ಸವಾರರು
+295,liftman,lift operator,ಲಿಫ್ಟ್‌ ಚಾಲನೆ ಮಾಡುವ ಪುರುಷ,ಲಿಫ್ಟ್‌ ಚಾಲಕ
+296,liftmen,lift operators,ಲಿಫ್ಟ್‌ ಚಾಲನೆ ಮಾಡುವ ಪುರುಷರು,ಲಿಫ್ಟ್‌ ಚಾಲಕರು
+297,lineman,lineperson,ಲೈನ್ಮ್ಯಾನ್,ಲೈನ್‌ಪರ್ಸನ್
+298,linemen,linepeople,ಲೈನ್‌ಮ್ಯಾನ್‌ಗಳು,ಸಾಲು ಜನರು
+299,linesman,linesperson,ರೇಖಾಗಾರ,ರೇಖೆಯ ವ್ಯಕ್ತಿ
+300,linesmen,linespeople,ಲೈನ್ಸ್‌ಮೆನ್,ಲೈನ್ ಜನರು
+301,lobsterman,lobster catcher,ನಳ್ಳಿ,ನಳ್ಳಿ ಹಿಡಿಯುವವನು
+302,lobstermen,lobster catchers,ನಳ್ಳಿಗಳು,ನಳ್ಳಿ ಹಿಡಿಯುವವರು
+303,longshoreman,dockworker,ಕರಾವಳಿ ಬಂದರು ಕೆಲಸಗಾರ ಪುರುಷ,ಬಂದರು ಕೆಲಸಗಾರ
+304,longshoremen,dockworkers,ಕರಾವಳಿ ಬಂದರು ಕೆಲಸಗಾರ ಪುರುಷರು,ಬಂದರು ಕೆಲಸಗಾರರು
+305,lumberman,logger,ಮರಕಡಿಯವನು,ಮರಕಡಿಯವನು
+306,lumbermen,loggers,ಮರಕಡಿಯವರು,ಮರಕಡಿಯವರು
+307,madman,maniac,ಹುಚ್ಚ,ಹುಚ್ಚ
+308,madmen,maniacs,ಹುಚ್ಚು ಮನುಷ್ಯರು,ಹುಚ್ಚರು
+309,mailman,mail carrier,ಅಂಚೆಯವನು,ಅಂಚೆವಾಹಕ
+310,mailmen,mail carriers,ಅಂಚೆಯವರು,ಅಂಚೆವಾಹಕಗಳು
+311,man cave,sanctuary,ಮನುಷ್ಯ ಗುಹೆ,ಅಭಯಾರಣ್ಯ
+312,man caves,sanctuaries,ಮನುಷ್ಯ ಗುಹೆಗಳು,ಅಭಯಾರಣ್ಯಗಳು
+313,man hater,hater,ಮನುಷ್ಯ ದ್ವೇಷಿ,ದ್ವೇಷಿ
+314,man haters,haters,ಮನುಷ್ಯ ದ್ವೇಷಿಗಳು,ದ್ವೇಷಿಗಳು
+315,man hating,misandry,ಪುರುಷ ದ್ವೇಷ,ಮಿಸ್ಯಾಂಡ್ರಿ
+316,man hug,pound hug,ಮನುಷ್ಯ ಅಪ್ಪುಗೆ,ಪೌಂಡ್ ಅಪ್ಪುಗೆ
+317,man hugs,pound hugs,ಮನುಷ್ಯ ಅಪ್ಪಿಕೊಳ್ಳುತ್ತಾನೆ,ಪೌಂಡ್ ಅಪ್ಪುಗೆಗಳು
+318,man hunt,organized search,ಮನುಷ್ಯ ಬೇಟೆ,ಸಂಘಟಿತ ಹುಡುಕಾಟ
+319,man hunts,organized searches,ಮನುಷ್ಯ ಬೇಟೆಯಾಡುತ್ತಾನೆ,ಸಂಘಟಿತ ಹುಡುಕಾಟಗಳು
+320,man magnet,attractive person,ಮನುಷ್ಯ ಮ್ಯಾಗ್ನೆಟ್,ಆಕರ್ಷಕ ವ್ಯಕ್ತಿ
+321,man magnets,attractive people,ಮನುಷ್ಯ ಆಯಸ್ಕಾಂತಗಳು,ಆಕರ್ಷಕ ಜನರು
+322,man marking,marking,ಮನುಷ್ಯ ಗುರುತು,ಗುರುತು ಹಾಕುವುದು
+323,man servant,servant,ಮನುಷ್ಯ ಸೇವಕ,ಸೇವಕ
+324,man servants,servants,ಮನುಷ್ಯ ಸೇವಕರು,ಸೇವಕರು
+325,man up,adult up,ಧೈರ್ಯ ತೋರಿಸು,ವಯಸ್ಕನಂತೆ ನಡೆ
+326,man-ass,ass,ಮನುಷ್ಯ-ಕತ್ತೆ,ಕತ್ತೆ
+327,man-asses,asses,ಮನುಷ್ಯ-ಕತ್ತೆಗಳು,ಕತ್ತೆಗಳು
+328,man-bag,handbag,ಮನುಷ್ಯ ಚೀಲ,ಕೈಚೀಲ
+329,man-bags,handbags,ಮನುಷ್ಯ ಚೀಲಗಳು,ಕೈಚೀಲಗಳು
+330,man-boob,boob,ಪುರುಷ ಸ್ತನ,ಸ್ತನ
+331,man-boobs,boobs,ಪುರುಷ ಸ್ತನಗಳು,ಪುರುಷ ಸ್ತನಗಳು
+332,man-cave,sanctuary,ಮನುಷ್ಯ-ಗುಹೆ,ಅಭಯಾರಣ್ಯ
+333,man-caves,sanctuaries,ಮಾನವ ಗುಹೆಗಳು,ಅಭಯಾರಣ್ಯಗಳು
+334,man-cession,recession,ಮ್ಯಾನ್-ಸೆಶನ್,ಹಿಂಜರಿತ
+335,man-cessions,recessions,ಮ್ಯಾನ್-ಸೆಷನ್ಸ್,ಹಿಂಜರಿತಗಳು
+336,man-child,child,ಗಂಡು-ಮಗು,ಮಗು
+337,man-childs,children,ಗಂಡು-ಮಕ್ಕಳು,ಮಕ್ಕಳು
+338,man-crush,crush,ಮನುಷ್ಯ-ಮೋಹ,ಕ್ರಷ್
+339,man-crushes,crushes,ಮನುಷ್ಯ-ಕ್ರಶ್ಗಳು,ಪುಡಿಮಾಡುತ್ತದೆ
+340,man-eater,cannibal,ನರಭಕ್ಷಕ,ನರಭಕ್ಷಕ
+341,man-eaters,cannibals,ನರಭಕ್ಷಕರು,ನರಭಕ್ಷಕರು
+342,man-eating,human-eating,ನರಭಕ್ಷಕ,ಮಾನವ ತಿನ್ನುವ
+343,man-friend,friend,ಮನುಷ್ಯ-ಸ್ನೇಹಿತ,ಸ್ನೇಹಿತ
+344,man-friends,friends,ಮನುಷ್ಯ ಸ್ನೇಹಿತರು,ಸ್ನೇಹಿತರು
+345,man-hater,hater,ಮನುಷ್ಯ ದ್ವೇಷಿ,ದ್ವೇಷಿ
+346,man-haters,haters,ಮನುಷ್ಯ ದ್ವೇಷಿಗಳು,ದ್ವೇಷಿಗಳು
+347,man-hating,misandry,ಮನುಷ್ಯ ದ್ವೇಷಿಸುವ,ಮಿಸ್ಯಾಂಡ್ರಿ
+348,man-hatings,misandries,ಮನುಷ್ಯ-ಹೇಸ್ಟಿಂಗ್ಸ್ - ಪುರುಷ ದ್ವೇಷಗಳು,ಮಿಸಂಡ್ರಿಗಳು - ದುಷ್ಕೃತ್ಯಗಳು
+349,man-hour,work-hour,ಮಾನವ-ಗಂಟೆ,ಕೆಲಸದ ಸಮಯ
+350,man-hours,work-hours,ಮಾನವ-ಗಂಟೆಗಳು,ಕಾರ್ಯಗಂಟೆಗಳು
+351,man-hug,pound hug,ಮನುಷ್ಯನ ಅಪ್ಪುಗೆ,ಪೌಂಡ್ ಅಪ್ಪುಗೆ
+352,man-hugs,pound hugs,ಮನುಷ್ಯ-ನರ್ತನಗಳು,ಪೌಂಡ್ ಅಪ್ಪುಗೆಗಳು
+353,man-hunt,organized search,ಮಾನವನ ಶೋಧ,ಸಂಘಟಿತ ಶೋಧ
+354,man-hunts,organized searches,ಮಾನವನ ಶೋಧಗಳು,ಸಂಘಟಿತ ಶೋಧಗಳು
+355,man-kind,humankind,ಮನುಷ್ಯ ಜಾತಿ,ಮಾನವಕುಲ
+356,man-kinds,humankinds,ಮನುಷ್ಯ-ರೀತಿಯ,ಮಾನವವರ್ಗಗಳು
+357,man-machine,human-computers,ಮಾನವ-ಕಂಪ್ಯೂಟರ್,ಮಾನವ-ಕಂಪ್ಯೂಟರ್‌ಗಳು
+358,man-machines,human-computers,ಮಾನವ-ಯಂತ್ರಗಳು,ಮಾನವ-ಕಂಪ್ಯೂಟರ್‌ಗಳು
+359,man-made,synthetic,ಮಾನವಕೃತ,ಕೃತಕ
+360,man-magnet,attractive person,ಮನುಷ್ಯ-ಕಾಂತ,ಆಕರ್ಷಕ ವ್ಯಕ್ತಿ
+361,man-magnets,attractive people,ಮನುಷ್ಯ-ಕಾಂತಗಳು,ಆಕರ್ಷಕ ಜನರು
+362,man-mark,mark,ಮನುಷ್ಯ ಗುರುತು,ಗುರುತು
+363,man-marks,marks,ಮನುಷ್ಯ ಗುರುತುಗಳು,ಗುರುತುಗಳು
+364,man-marking,marking,ಮಾನವ ಗುರುತು,ಗುರುತು ಹಾಕುವುದು
+365,man-markings,markings,ಪುರುಷ ಗುರುತುಗಳು,ಗುರುತುಗಳು
+366,man-month,work-month,ಮಾನವ-ತಿಂಗಳು,ಕೆಲಸದ ತಿಂಗಳು
+367,man-pack,pack,ಮನುಷ್ಯ-ಪ್ಯಾಕ್,ಪ್ಯಾಕ್
+368,man-packs,packs,ಮನುಷ್ಯ-ಪ್ಯಾಕ್‌ಗಳು,ಪ್ಯಾಕ್‌ಗಳು
+369,man-power,workforce,ಮಾನವ ಬಲ,ಕಾರ್ಯಪಡೆ
+370,man-powers,workforces,ಮಾನವ ಶಕ್ತಿಗಳು,ಕಾರ್ಯಪಡೆಗಳು
+371,man-rating,human-rating,ಮಾನವ-ಶ್ರೇಯಾಂಕ,ಮಾನವನ ಮೌಲ್ಯಮಾಪನ
+372,man-ratings,human-ratings,ಮ್ಯಾನ್-ರೇಟಿಂಗ್‌ಗಳು,ಮಾನವನ ಮೌಲ್ಯಮಾಪನಗಳು
+373,man-servant,servant,ಮನುಷ್ಯ ಸೇವಕ,ಸೇವಕ
+374,man-stealing,kidnapping,ಮನುಷ್ಯ-ಕಳ್ಳತನ,ಅಪಹರಣ
+375,man-stopper,stopping power,ಮನುಷ್ಯ-ತಡೆಯುವವನು,ನಿಲ್ಲಿಸುವ ಶಕ್ತಿ
+376,man-stoppers,stopping powers,ಮನುಷ್ಯ-ತಡೆಯುವವರು,ನಿಲ್ಲಿಸುವ ಶಕ್ತಿಗಳು
+377,man-trap,attractive person,ಮನುಷ್ಯ-ಬಲೆ,ಆಕರ್ಷಕ ವ್ಯಕ್ತಿ
+378,man-traps,attractive people,ಮನುಷ್ಯ-ಬಲೆಗಳು,ಆಕರ್ಷಕ ಜನರು
+379,man-up,adult up,ಮನುಷ್ಯ-ಅಪ್,ಪ್ರೌಢರಾಗಿ ವರ್ತಿಸು
+380,man-whore,sex worker,ಪುರುಷ ವೇಶ್ಯೆ,ಲೈಂಗಿಕ ಕೆಲಸಗಾರ
+381,man-whores,sex workers,ಪುರುಷ-ವೇಶ್ಯೆಯರು,ಲೈಂಗಿಕ ಕಾರ್ಯಕರ್ತರು
+382,man-year,work-year,ಮಾನವ ವರ್ಷ,ಕೆಲಸದ ವರ್ಷ
+383,mancession,recession,ರಾಜಮನೆತನ,ಹಿಂಜರಿತ
+384,mancessions,recessions,ರಾಜಮನೆತನಗಳು,ಹಿಂಜರಿತಗಳು
+385,manfriend,friend,ಪುರುಷಸ್ನೇಹಿತ,ಸ್ನೇಹಿತ
+386,manfriends,friends,ಪುರುಷಸ್ನೇಹಿತರು,ಸ್ನೇಹಿತರು
+387,mankind,humankind,ಮನುಷ್ಯಕುಲ,ಮಾನವಕುಲ
+388,mankinds,humankinds,ಮನುಷ್ಯಕುಲದ,ಮಾನವಕುಲಗಳು
+389,manpack,pack,ಮನುಷ್ಯಕೂಟ,ಪ್ಯಾಕ್
+390,manpacks,packs,ಮ್ಯಾನ್‌ಪ್ಯಾಕ್‌ಗಳು,ಪ್ಯಾಕ್‌ಗಳು
+391,manpower,workforce,ಮನುಷ್ಯಶಕ್ತಿ,ಕಾರ್ಯಪಡೆ
+392,manpowers,workforces,ಮನುಷ್ಯಶಕ್ತಿಗಳು,ಕಾರ್ಯಪಡೆಗಳು
+393,manstealing,kidnapping,ಮನುಷ್ಯ ಕಳ್ಳತನ,ಅಪಹರಣ
+394,manstopper,stopping power,ಮನುಷ್ಯನ ತಡೆ,ಅಧಿಕಾರವನ್ನು ನಿಲ್ಲಿಸುವುದು
+395,manstoppers,stopping powers,ಮನುಷ್ಯನ ತಡೆ,ಅಧಿಕಾರಗಳನ್ನು ನಿಲ್ಲಿಸುವುದು
+396,marksman,sharpshooter,ಗುರಿಗಾರರು,ತೀಕ್ಷ್ಣಶೂಟರ್
+397,marksmen,sharpshooters,ಗುರಿಗಾರರು,ತೀಕ್ಷ್ಣಶೂಟರ್‌ರು
+398,merchantman,merchant,ವ್ಯಾಪಾರಿ,ವ್ಯಾಪಾರಿ
+399,merchantmen,merchants,ವ್ಯಾಪಾರಿಗಳು,ವ್ಯಾಪಾರಿಗಳು
+400,merman,merperson,ಮೀನಿನ ಮಾನವ,ಮೀನಿನ ವ್ಯಕ್ತಿ
+401,mermen,merpeople,ಮೀನಿನ ಮಾನವರು,ಮೀನಿನ ಜನರು
+402,midshipman,naval officer,ನೌಕಾಪಡೆ ಲೆಫ್ಟಿನಂಟ್,ನೌಕಾ ಅಧಿಕಾರಿ
+403,midshipmen,naval officers,ನೌಕಾಪಡೆ ಲೆಫ್ಟಿನಂಟ್‌ರು,ನೌಕಾ ಅಧಿಕಾರಿಗಳು
+404,militiaman,militia member,ಸೈನಿಕರು,ಮಿಲಿಟಿಯ ಸದಸ್ಯ
+405,militiamen,militia members,ಸೈನಿಕರು,ಮಿಲಿಟಿಯ ಸದಸ್ಯರು
+406,minuteman,soldier,ನಿಮಿಷದ ವ್ಯಕ್ತಿ,ಸೈನಿಕ
+407,minutemen,soldiers,ನಿಮಿಷದವರು,ಸೈನಿಕರು
+408,motorman,operator,ಯಂತ್ರಚಾಲಕ,ಆಪರೇಟರ್
+409,motormen,operators,ಯಂತ್ರಚಾಲಕರು,ನಿರ್ವಾಹಕರು
+410,newsman,reporter,ಸುದ್ದಿಗಾರ,ವರದಿಗಾರ
+411,newsmen,reporters,ಸುದ್ದಿಗಾರರು,ವರದಿಗಾರರು
+412,newspaperman,journalist,ಪತ್ರಿಕೆಗಾರ,ಪತ್ರಕರ್ತ - ಪತ್ರಿಕೋದ್ಯಮಿ
+413,newspapermen,journalists,ಸಮಾಚಾರ ಪತ್ರಕರ್ತರು,ಪತ್ರಕರ್ತರು
+414,nightwatchman,nightwatchbatter,ರಾತ್ರಿ ರಕ್ಷಕ,ನೈಟ್ ವಾಚ್ ಬ್ಯಾಟರ್
+415,nightwatchmen,nightwatchbatters,ರಾತ್ರಿ ರಕ್ಷಕರು,ರಾತ್ರಿ ವಾಚ್ ಬ್ಯಾಟರ್ಸ್
+416,nobleman,noble person,ಶ್ರೇಷ್ಠ ವ್ಯಕ್ತಿ,ಉದಾತ್ತ ವ್ಯಕ್ತಿ
+417,noblemans,noble people,ಶ್ರೇಷ್ಠ ವ್ಯಕ್ತಿಗಳು,ಉದಾತ್ತ ಜನರು
+418,oarsman,rower,ಹಡಗಿನ ಪರಿಕರ ಚಾಲಕ,ಹೊಡೆತಗಾರ
+419,oarsmen,rowers,ಹಡಗಿನ ಪರಿಕರ ಚಾಲಕರು,ಹೊಡೆತಗಾರರು
+420,ombudsman,ombudsperson,ನ್ಯಾಯ ನಿರೀಕ್ಷಕ,ಸಾರ್ವಜನಿಕ ತನಿಖಾಧಿಕಾರಿ
+421,ombudsmen,ombudspeople,ನ್ಯಾಯ ನಿರೀಕ್ಷಕರು,ಸಾರ್ವಜನಿಕ ತನಿಖಾಧಿಕಾರಿಗಳು
+422,overman,Ã¼bermensch,ಮೇಲ್ವಿಚಾರ,ಎಬರ್ಮೆನ್ಷ್
+423,overmen,Ã¼bermenschen,ಮೇಲ್ವಿಚಾರಕರು,ಎಬರ್ಮೆನ್ಸ್ಚೆನ್
+424,oysterman,oysterperson,ಸಿಪ್ಪಿ ಮೀನುಗಾರ,ಸಿಂಪಿ ವ್ಯಕ್ತಿ
+425,oystermen,oysterpeople,ಸಿಪ್ಪಿ ಮೀನುಗಾರರು,ಸಿಂಪಿ ಜನರು
+426,packetman,packet sailor,ಪ್ಯಾಕೆಟ್ಮ್ಯಾನ್,ಪ್ಯಾಕೆಟ್ ನಾವಿಕ
+427,packetmen,packet sailors,ಪ್ಯಾಕೆಟ್‌ಮೆನ್,ಪ್ಯಾಕೆಟ್ ನಾವಿಕರು
+428,packman,seller,ಪ್ಯಾಕ್ ಮ್ಯಾನ್,ಮಾರಾಟಗಾರ
+429,packmen,sellers,ಪ್ಯಾಕ್‌ಮೆನ್,ಮಾರಾಟಗಾರರು
+430,pieman,pie vendor,pman,ಪೈ ವ್ಯಾಪಾರಿಗಳು
+431,piemen,pie vendors,piemen,ಪೈ ಮಾರಾಟಗಾರರು
+432,pitchman,pitcher,ಪಿಚ್ಮ್ಯಾನ್,ಪಿಚರ್
+433,pitchmen,pitchers,ಪಿಚ್‌ಮೆನ್,ಹೂಜಿಗಳು
+434,placeman,appointee,ಸ್ಥಾನಿಕ  -ಸ್ಥಳಾಧಿಕಾರಿ,ನೇಮಕಗೊಂಡವರು
+435,placemen,appointees,ಉದ್ಯೋಗದಾತರು,ನೇಮಕಗೊಂಡವರು
+436,ploughman,plower,ಉಳುವವ,ಉಳುಮೆಗಾರ
+437,ploughmen,plowers,ಉಳುಮೆ ಮಾಡುವವರು,ಉಳುಮೆಗಾರರು
+438,plowman,plower,ಉಳುವವ - ನೇಗಿಲುಗಾರ,ಉಳುಮೆಗಾರ - ಉಳುವವನು
+439,plowmen,plowers,ಉಳುವವರು,ಉಳುಮೆಗಾರರು
+440,pointsman,traffic officer,ಪಾಯಿಂಟ್ ಮ್ಯಾನ್,ಸಂಚಾರ ಅಧಿಕಾರಿ
+441,pointsmen,traffic officers,ಅಂಕಗಳು,ಸಂಚಾರ ಅಧಿಕಾರಿಗಳು
+442,policeman,police officer,ಪೊಲೀಸ್,ಪೊಲೀಸ್ ಅಧಿಕಾರಿ
+443,policemen,police officers,ಪೊಲೀಸರು,ಪೊಲೀಸ್ ಅಧಿಕಾರಿಗಳು
+444,postman,mail carrier,ಅಂಚೆಯವ,ಅಂಚೆ ವಾಹಕ
+445,postmen,mail carriers,ಪೋಸ್ಟ್ಮ್ಯಾನ್ಗಳು,ಅಂಚೆ ವಾಹಕಗಳು
+446,pressman,printer,ಪತ್ರಿಕಾಗಾರ,ಮುದ್ರಕ
+447,pressmen,printers,ಪತ್ರಿಕಾ ಸಿಬ್ಬಂದಿ,ಮುದ್ರಕಗಳು
+448,Prostitute,Sexworker,ವೇಶ್ಯೆ,ಲೈಂಗಿಕ ಕೆಲಸಗಾರ
+449,prman,press agent,ಪುರಾವೆ,ಪತ್ರಿಕಾ ಏಜೆಂಟ್
+450,prmen,press agents,ಪ್ರಮೆನ್,ಪತ್ರಿಕಾ ಏಜೆಂಟ್
+451,rubberman,latex fetishist,ಲವಚ್ಯಮಾನವ,ಲ್ಯಾಟೆಕ್ಸ್ ಫೆಟಿಶಿಸ್ಟ್
+452,rubbermen,latex fetishists,ರಬ್ಬರ್‌ಮೆನ್,ಲ್ಯಾಟೆಕ್ಸ್ ಫೆಟಿಶಿಸ್ಟ್ಗಳು
+453,seaman,sailor,ನಾವಿಕರು,ನಾವಿಕ
+454,seamen,sailors,ನಾವಿಕರು,ನಾವಿಕರು
+455,seedsman,seeds dealer,ಬೀಜಗಾರ - ವರ್ತಕ,ಬೀಜ ವ್ಯಾಪಾರಿ
+456,seedsmen,seeds dealers,ಬೀಜಗಳು,ಬೀಜ ವಿತರಕರು
+457,selectman,member of the board,ಆಯ್ಕೆಗಾರ - ಆಯ್ಕೆಯ ಸದಸ್ಯ,ಮಂಡಳಿಯ ಸದಸ್ಯ
+458,selectmen,members of the board,ಆಯ್ಕೆಗಾರರು,ಮಂಡಳಿಯ ಸದಸ್ಯರು
+459,serviceman,service member,ಸೇವಾಕರ್ಮಿ,ಸೇವಾ ಸದಸ್ಯ
+460,servicemen,service members,ಸೈನಿಕರು,ಸೇವಾ ಸದಸ್ಯರು
+461,she-man,feminine person,ಸ್ತ್ರೀ ಪುರುಷ,ಸ್ತ್ರೀಸ್ವಭಾವದ ವ್ಯಕ್ತಿ
+462,she-men,feminine people,ಅವಳು-ಪುರುಷರು,ಸ್ತ್ರೀಯುಕ್ತ ವ್ಯಕ್ತಿಗಳು
+463,sheepman,shepherd,ಕುರಿ ಕಾಯುವವ,ಕುರುಬ
+464,sheepmen,shepherds,ಕುರಿಗಾರರು,ಕುರುಬರು
+465,showman,showperson,ಪ್ರದರ್ಶಕ,ಪ್ರದರ್ಶನಕಾರ ವ್ಯಕ್ತಿ
+466,showmen,showpeople,ಪ್ರದರ್ಶನಕಾರರು,ಪ್ರದರ್ಶನ ಜನರು
+467,sideman,side artist,ಸಹಾಯಕ,ಸಹಾಯಕ ಕಲಾವಿದ
+468,sidemen,side artists,ಸಹಾಯಕರು,ಸಹಾಯಕ ಕಲಾವಿದರು
+469,slaughterman,butcher,ಕಸಾಯಿ,ಕಟುಕ
+470,slaughtermen,butchers,ಕಸಾಯಿಗಳು,ಕಟುಕರು
+471,snowman,snowperson,ಹಿಮಮಾನವ,ಹಿಮ ವ್ಯಕ್ತಿ
+472,snowmen,snowpeople,ಹಿಮ ಮಾನವರು,ಹಿಮ ವ್ಯಕ್ತಿಗಳು
+473,soundman,audio engineer,ಧ್ವನಿ ತಂತ್ರಜ್ಞ,ಧ್ವನಿ ತಂತ್ರಜ್ಞ
+474,soundmen,audio engineers,ಧ್ವನಿ ತಂತ್ರಜ್ಞರು,ಧ್ವನಿ ತಂತ್ರಜ್ಞರು
+475,spaceman,astronaut,ಅಂತರಿಕ್ಷ ಯಾತ್ರಿ,ಗಗನಯಾತ್ರಿ
+476,spacemen,astronauts,ಅಂತರಿಕ್ಷ ಯಾತ್ರಿಗಳು,ಗಗನಯಾತ್ರಿಗಳು
+477,spearfisherman,spearfisher,ಈಟಿ ಮೀನುಗಾರ,ಈಟಿ ಮೀನುಗಾರ
+478,spearfishermen,spearfishers,ಈಟಿ ಮೀನುಗಾರರು,ಈಟಿ ಮೀನುಗಾರರು
+479,spearman,lancer,ಈಟಿ ಯೋಧ,ಈಟಿಗ
+480,spearmen,lancers,ಈಟಿ ಯೋಧರು,ಈಟಿಗರು
+481,spokeman,spokeperson,ಪ್ರತಿನಿಧಿ,ಪ್ರಸಕ್ತಿಗಾರ
+482,spokemen,spokepeople,ಪ್ರತಿನಿಧಿಗಳು,ಪ್ರಸಕ್ತಿಗಾರರು
+483,spokesman,spokesperson,ಪ್ರತಿನಿಧಿ,ವಕ್ತಾರರು
+484,spokesmen,spokespeople,ಪ್ರತಿನಿಧಿಗಳು,ವಕ್ತಾರರು
+485,sportsman,athlete,ಕ್ರೀಡಾಪಟು,ಕ್ರೀಡಾಪಟು
+486,sportsmen,athletes,ಕ್ರೀಡಾಪಟುಗಳು,ಕ್ರೀಡಾಪಟುಗಳು
+487,statesman,statesperson,ರಾಜನೀತಿಜ್ಞ,ರಾಜ್ಯ ನಾಯಕ
+488,statesmen,statespeople,ರಾಜನೀತಿಜ್ಞರು,ರಾಜ್ಯ ನಾಯಕರು
+489,stickman,stick figure,ರೇಖಾಚಿತ್ರ ಮಾನವ,ಕೋಲು ಮಾನವ
+490,stickmen,stick figures,ರೇಖಾಚಿತ್ರ ಮಾನವರು,ಕೋಲು ಮಾನವರು
+491,stockman,stock farmer,ಪಶುಸಂಗೋಪಕ,ಪಶುಪಾಲಕ
+492,stockmen,stock farmers,ಪಶುಸಂಗೋಪಕರು,ಪಶುಪಾಲಕರು
+493,storeman,warehouser,ಗೋದಾಮು ಕಾರ್ಯಕರ್ತ,ಉಗ್ರಾಣಗಾರ
+494,storemen,warehousers,ಗೋದಾಮು ಕಾರ್ಯಕರ್ತರು,ಉಗ್ರಾಣದವರು
+495,strongman,strong person,ಬಲಶಾಲಿ,ಬಲವಾದ ವ್ಯಕ್ತಿ
+496,strongmen,strong people,ಬಲಶಾಲಿಗಳು,ಬಲಿಷ್ಠ ಜನರು
+497,sub-man,inferior human,ಉಪ-ಕಾರ್ಯಕರ್ತ,ಕೆಳಮಟ್ಟದ ಮಾನವ
+498,sub-men,inferior humans,ಉಪ-ಕಾರ್ಯಕರ್ತರು,ಕೆಳಮಟ್ಟದ ಮಾನವರು
+499,superman,superhero,ಸೂಪರ್ ಹೀರೋ,ಮಹಾವೀರ
+500,supermen,superheroes,ಸೂಪರ್ ಹೀರೋಗಳು,ಮಹಾವೀರರು
+501,swagman,transient labourer,ಸ್ವಾಗತ,ಕ್ಷಣಿಕ ಕಾರ್ಮಿಕ
+502,swagmen,transient labourers,ತೋರಣ,ಕ್ಷಣಿಕ ಕಾರ್ಮಿಕರು
+503,swingman,versatile athlete,ಸ್ವಿಂಗ್ಮ್ಯಾನ್,ಬಹುಮುಖ ಕ್ರೀಡಾಪಟು
+504,swingmen,versatile athletes,ಸ್ವಿಂಗ್ಮೆನ್,ಬಹುಮುಖ ಕ್ರೀಡಾಪಟುಗಳು
+505,switchman,railroad worker,ಸ್ವಿಚ್ಮ್ಯಾನ್,ರೈಲ್ರೋಡ್ ಕೆಲಸಗಾರ
+506,switchmen,railroad workers,ಸ್ವಿಚ್‌ಮೆನ್,ರೈಲ್ರೋಡ್ ಕೆಲಸಗಾರರು
+507,swordman,fencer,ಖಡ್ಗಧಾರಿ,ಬೇಲಿಗಾರ
+508,swordmen,fencers,ಖಡ್ಗಧಾರಿಗಳು,ಬೇಲಿಗಳು
+509,swordsman,fencer,ಖಡ್ಗಧಾರಿ,ಬೇಲಿಗಾರ
+510,swordsmen,fencers,ಖಡ್ಗಧಾರಿಗಳು,ಬೇಲಿಗಳು
+511,targetman,forward,ಗುರಿಕಾರ,ಮುಂದಕ್ಕೆ
+512,targetmen,forwards,ಗುರಿಕಾರರು,ಮುಂದಕ್ಕೆ
+513,taxman,tax collector,ತೆರಿಗೆದಾರ,ತೆರಿಗೆ ಸಂಗ್ರಾಹಕ
+514,taxmen,tax collectors,ತೆರಿಗೆದಾರರು,ತೆರಿಗೆ ಸಂಗ್ರಹಕಾರರು
+515,townsman,townsperson,ನಗರವಾಸಿ,ಪಟ್ಟಣವಾಸಿ
+516,townsmen,townspeople,ನಗರವಾಸಿಗಳು,ಪಟ್ಟಣವಾಸಿಗಳು
+517,tribesman,tribesperson,ಆದಿವಾಸಿ ವ್ಯಕ್ತಿ,ಬುಡಕಟ್ಟು ವ್ಯಕ್ತಿ
+518,tribesmen,tribespeople,ಆದಿವಾಸಿ ವ್ಯಕ್ತಿಗಳು,ಬುಡಕಟ್ಟು ಜನರು
+519,triggerman,hired gun,ಪ್ರಚೋದಕ ವ್ಯಕ್ತಿ,ಬಾಡಿಗೆ ಬಂದೂಕು
+520,triggermen,hired guns,ಪ್ರಚೋದಕ ಜನರು,ಬಾಡಿಗೆ ಬಂದೂಕುಗಳು
+521,underclassman,undergraduate,ಕೆಳವರ್ಗದವನು,ಪದವಿಪೂರ್ವ
+522,underclassmen,undergraduates,ಕೆಳವರ್ಗದವರು,ಪದವಿಪೂರ್ವ ವಿದ್ಯಾರ್ಥಿಗಳು
+523,upperclassman,student,ಮೇಲ್ವರ್ಗದವನು,ವಿದ್ಯಾರ್ಥಿ
+524,upperclassmen,students,ಮೇಲ್ವರ್ಗದವರು,ವಿದ್ಯಾರ್ಥಿಗಳು
+525,warehouseman,warehouse worker,ಉಗ್ರಾಣಗಾರ,ಗೋದಾಮಿನ ಕೆಲಸಗಾರ
+526,warehousemen,warehouse workers,ಉಗ್ರಾಣದವರು,ಗೋದಾಮಿನ ಕೆಲಸಗಾರರು
+527,washerman,washer,ತೊಳೆಯುವವನು, ತೊಳೆಯುವ ವ್ಯಕ್ತಿ
+528,washermen,washers,ತೊಳೆಯುವವರು,ತೊಳೆಯುವ ವ್ಯಕ್ತಿಗಳು
+529,watchman,watcher,ಕಾವಲುಗಾರ,ಕಾವಲುಸ್ಥ
+530,watchmen,watchers,ಕಾವಲುಗಾರರು,ಕಾವಲುಸ್ಥರು
+531,weatherman,weather forecaster,ಹವಾಮಾನ ವರದಿಗಾರ,ಹವಾಮಾನ ಮುನ್ಸೂಚಕ
+532,weathermen,weather forecasters,ಹವಾಮಾನ ವರದಿಗಾರರು,ಹವಾಮಾನ ಮುನ್ಸೂಚಕರು
+533,wheelman,driver,ಚಾಲಕ,ಚಾಲನೆ ಮಾಡುವ ವ್ಯಕ್ತಿ
+534,wheelmen,drivers,ಚಾಲಕರು,ಚಾಲನೆ ಮಾಡುವ ವ್ಯಕ್ತಿಗಳು
+535,whiteman,white person,ಶ್ವೇತವರ್ಣದ ಪುರುಷ,ಶ್ವೇತವರ್ಣದ ವ್ಯಕ್ತಿ
+536,whitemen,white people,ಶ್ವೇತವರ್ಣದ ಪುರುಷರು,ಶ್ವೇತವರ್ಣದ ಜನರು
+537,wildman,wild person,ಕಾಡು ಮನುಷ್ಯ,ಕಾಡು ವ್ಯಕ್ತಿ
+538,wildmen,wild people,ಕಾಡು ಮನುಷ್ಯರು,ಕಾಡು ಜನರು
+539,winchman,rescue swimmer,ವಿಂಚ್ ಚಾಲಕ    ,ರಕ್ಷಣಾ ಈಜುಗಾರ 
+540,winchmen,rescue swimmers,ವಿಂಚ್ ಚಾಲಕರು,ರಕ್ಷಣಾ ಈಜುಗಾರರು
+541,wingman,pilot partner,ಪೈಲಟ್ ಸಹಾಯಕ,ಪೈಲಟ್ ಸಂಗಾತಿ
+542,wingmen,pilot partners,ಪೈಲಟ್ ಸಹಾಯಕರ,ಪೈಲಟ್ ಸಂಗಾತಿಗಳು
+543,woodman,woodworker,ಮರದ ಕಾರ್ಮಿಕ,ಮರದ ಕೆಲಸಗಾರ
+544,woodmen,woodworkers,ಮರದ ಕಾರ್ಮಿಕರು,ಮರದ ಕೆಲಸಗಾರರು
+545,woodsman,forester,ಅರಣ್ಯ ರಕ್ಷಕ,ಅರಣ್ಯ ಕಾರ್ಯಕರ್ತ
+546,woodsmen,foresters,ಅರಣ್ಯ ರಕ್ಷಕರು,ಅರಣ್ಯ ಕಾರ್ಯಕರ್ತರು
+547,workingman,worker,ಕೆಲಸಗಾರ,ಕಾರ್ಮಿಕ 
+548,workingmen,workers,ಕೆಲಸಗಾರರು,ಕಾರ್ಮಿಕರು
+549,workman,worker,ದುಡಿಯುವವರು,ಕಾರ್ಮಿಕ
+550,workmen,workers,ಕೆಲಸಗಾರ,ಕಾರ್ಮಿಕರು
+551,yeoman,officer,ಯೌಮನ್ ಅಧಿಕಾರಿ,ಅಧಿಕಾರಿ
+552,yeomen,officers,ಯೇಮೆನ್ ಅಧಿಕಾರಿಗಳು ,ಅಧಿಕಾರಿಗಳು
+553,airmanship,aerial skill,ವಾಯುನೌಕೆ,ವೈಮಾನಿಕ ಕೌಶಲ್ಯ
+554,airmanships,aerial skills,ವಾಯುನೌಕೆಗಳು,ವೈಮಾನಿಕ ಕೌಶಲ್ಯಗಳು
+555,batsmanship,batting skill,ಬ್ಯಾಟ್ಸ್ಮನ್ಶಿಪ್,ಬ್ಯಾಟಿಂಗ್ ಕೌಶಲ್ಯ
+556,batsmanships,batting skills,ಬ್ಯಾಟ್ಸ್‌ಮನ್‌ಶಿಪ್‌ಗಳು,ಬ್ಯಾಟಿಂಗ್ ಕೌಶಲ್ಯಗಳು
+557,brinkmanship,extreme strategy,ಬ್ರಿಂಕ್ಮನ್ಶಿಪ್,ತೀವ್ರ ತಂತ್ರ
+558,brinkmanships,extreme strategies,ಬ್ರಿಂಕ್ಮನ್ಶಿಪ್ಗಳು,ತೀವ್ರ ತಂತ್ರಗಳು
+559,brinksmanship,extreme strategy,ಬ್ರಿಂಕ್ಮನ್ಶಿಪ್,ತೀವ್ರ ತಂತ್ರ
+560,brinksmanships,extreme strategies,ಬ್ರಿಂಕ್ಸ್ಮನ್ಶಿಪ್ಸ್,ತೀವ್ರ ತಂತ್ರಗಳು
+561,chairmanship,chairpersonship,ಅಧ್ಯಕ್ಷತೆ,ಅಧ್ಯಕ್ಷ ಸ್ಥಾನ
+562,chairmanships,chairpersonships,ಅಧ್ಯಕ್ಷ ಸ್ಥಾನಗಳು,ಅಧ್ಯಕ್ಷ ಸ್ಥಾನಗಳು
+563,churchmanshipsÂ ,churchpersonships,ಚರ್ಚ್ ಮ್ಯಾನ್ಶಿಪ್ಸ್,ಚರ್ಚ್ ಸದಸ್ಯತ್ವಗಳು
+564,churchmanshipÂ ,churchpersonship,ಚರ್ಚ್ ಮ್ಯಾನ್ಶಿಪ್,ಚರ್ಚ್ ಸದಸ್ಯತ್ವ
+565,craftmanship,craftpersonship,ಕರಕುಶಲತೆ,ಕೈಗಾರಿಕೆ ನೈಪುಣ್ಯ 
+566,craftmanships,craftpersonships,ಕರಕುಶಲತೆಗಳು,ಕಲೆಪರ ನೈಪುಣ್ಯಗಳು
+567,craftsmanship,craftspersonship,ಕರಕುಶಲತೆ,ಕೈಗಾರಿಕೆ ನೈಪುಣ್ಯ 
+568,craftsmanships,craftspersonships,ಕರಕುಶಲತೆಗಳು,ಕಲೆಪರ ನೈಪುಣ್ಯಗಳು
+569,draftsmanship,draftspersonship,ಕರಡುಗಾರಿಕೆಯ ಕೌಶಲ್ಯ,ಕರಡುಕಾರರ ನೈಪುಣ್ಯ
+570,draftsmanships,draftspersonships,ಕರಡುಗಾರಿಕೆಯ ಕೌಶಲ್ಯಗಳು,ಕರಡುಕಾರರ ನೈಪುಣ್ಯಗಳು
+571,draughtsmanship,draughtspersonship,ಕರಡುಗಾರಿಕೆ,ಕರಡುಕಾರರ ನೈಪುಣ್ಯ
+572,draughtsmanships,draughtspersonships,ಕರಡುಕಲೆಗಳು,ಕರಡುಕಾರರ ನೈಪುಣ್ಯಗಳು
+573,foremanship,forepersonship,ಮುಖ್ಯ ಮೇಲ್ವಿಚಾರಕರ ಕೌಶಲ್ಯ,ಮುಖ್ಯ ಮೇಲ್ವಿಚಾರಕನ ನೈಪುಣ್ಯ
+574,foremanships,forepersonships,ಫೋರ್ಮನ್‌ಗಳ ಕೌಶಲ್ಯಗಳು,ಮುಖ್ಯ ಮೇಲ್ವಿಚಾರಕರ ನೈಪುಣ್ಯಗಳು
+575,gamesmanship,unsporting tactic,ಆಟದ ಕೌಶಲ್ಯ,ಕ್ರೀಡೆಯಲ್ಲದ ತಂತ್ರ
+576,gamesmanships,unsporting tactics,ಆಟದ ಕೌಶಲ್ಯಗಳು,ಕ್ರೀಡೆಯಲ್ಲದ ತಂತ್ರಗಳು
+577,gentlemanship,refinedness,ಸಜ್ಜನಿಕೆ,ಪರಿಷ್ಕೃತತೆ
+578,gentlemanships,refinednesses,ಸಜ್ಜನಿಕೆಗಳು,ಸೂಕ್ಷ್ಮತೆಗಳು
+579,grantsmanship,grant acquisition expertise,ಅನುದಾನ ನೀಡುವಿಕೆ,ಅನುದಾನ ಸ್ವಾಧೀನ ಪರಿಣತಿ
+580,grantsmanships,grant acquisition expertises,ಅನುದಾನಗಳು,ಅನುದಾನ ಸ್ವಾಧೀನ ಪರಿಣತಿಗಳು
+581,handcraftsmanship,handcraftspersonship,ಕರಕುಶಲತೆ,ಹಸ್ತಕಲಾ ನೈಪುಣ್ಯ
+582,handcraftsmanships,handcraftspersonships,ಕರಕುಶಲ ಕಲೆಗಳು,ಹಸ್ತಕಲಾ ನೈಪುಣ್ಯಗಳು
+583,horsemanship,equestrian skill,ಕುದುರೆ ಸವಾರಿ,ಕುದುರೆ ಸವಾರಿ ಕೌಶಲ್ಯ
+584,horsemanships,equestrian skills,ಕುದುರೆ ಸವಾರಿ,ಕುದುರೆ ಸವಾರಿ ಕೌಶಲ್ಯಗಳು
+585,journeymanship,artisanship,ಕಾರುಗಾರಿಕೆಯ ಕೌಶಲ್ಯ,ಕಾರುಗಾರಿಕೆಯ ನೈಪುಣ್ಯ
+586,journeymanships,artisanships,ಕಾರುಗಾರಿಕೆಯ ತಾಂತ್ರಿಕ ಕೌಶಲ್ಯಗಳು,ಕಾರುಗಾರಿಕೆಯ ನೈಪುಣ್ಯಗಳು
+587,manship,courage,ಪುರುಷನ ಗುಣ,ಧೈರ್ಯ
+588,manships,courages,ಪುರುಷನ ಗುಣಗಳು,ಧೈರ್ಯಶಾಲಿ
+589,marksmanship,sharpshooting skill,ಗುರಿಕಾರ್ಯಾಚರಣೆ,ಶಾರ್ಪ್‌ಶೂಟಿಂಗ್ ಕೌಶಲ್ಯ
+590,marksmanships,sharpshooting skills,ಗುರಿಕಾರ್ಯಾಚರಣೆಗಳು,ಶಾರ್ಪ್‌ಶೂಟಿಂಗ್ ಕೌಶಲ್ಯಗಳು
+591,oarsmanship,rowing skill,ಹುಟ್ಟುಗಾರಿಕೆ,ದೋಣಿ ವಿಹಾರ ಕೌಶಲ್ಯ
+592,oarsmanships,rowing skills,ಹುಟ್ಟುಹಡಗುಗಳು,ದೋಣಿ ವಿಹಾರ ಕೌಶಲ್ಯಗಳು
+593,penmanship,calligraphy,ಲೇಖನಕೌಶಲ್ಯ,ಲಿಪಿಕಲೆ
+594,penmanships,calligraphies,ಲೇಖನ ಕೌಶಲ್ಯಗಳು,ಲಿಪಿಕಲೆಗಳು
+595,salesmanship,selling skill,ಮಾರಾಟಗಾರಿಕೆ,ಮಾರಾಟ ಕೌಶಲ್ಯ
+596,salesmanships,selling skills,ಮಾರಾಟಗಾರಿಕೆ,ಮಾರಾಟ ಕೌಶಲ್ಯಗಳು
+597,seamanship,marine skill,ನಾವಿಕರ ಕೌಶಲ್ಯ,ಸಮುದ್ರ ಕೌಶಲ್ಯ
+598,seamanships,marine skills,ನಾವಿಕರ ಕೌಶಲ್ಯಗಳು,ಸಮುದ್ರ ಕೌಶಲ್ಯಗಳು
+599,showmanship,performing skill,ಪ್ರದರ್ಶನ,ಪ್ರದರ್ಶನ ಕೌಶಲ್ಯ
+600,showmanships,performing skills,ಪ್ರದರ್ಶನಗಳು,ಪ್ರದರ್ಶನ ಕೌಶಲ್ಯಗಳು
+601,sportsmanship,athletic skill,ಕ್ರೀಡಾಸಹೃದಯತೆ,ಕ್ರೀಡಾ ಕೌಶಲ್ಯ
+602,sportsmanships,athletic skills,ಕ್ರೀಡಾಸಹೃದಯತೆಗಳು,ಕ್ರೀಡಾ ಕೌಶಲ್ಯಗಳು
+603,statesmanship,public management skill,ರಾಜನೀತಿ,ಸಾರ್ವಜನಿಕ ನಿರ್ವಹಣಾ ಕೌಶಲ್ಯ
+604,statesmanships,public management skills,ರಾಜನೀತಿಗಳು,ಸಾರ್ವಜನಿಕ ನಿರ್ವಹಣಾ ಕೌಶಲ್ಯಗಳು
+605,stockmanship,livestock raising skill,ದಾಸ್ತಾನು,ಜಾನುವಾರು ಸಾಕಣೆ ಕೌಶಲ್ಯ
+606,stockmanships,livestock raising skills,ದಾಸ್ತಾನು,ಜಾನುವಾರುಗಳನ್ನು ಬೆಳೆಸುವ ಕೌಶಲ್ಯಗಳು
+607,swordsmanship,fencing skill,ಖಡ್ಗಕಲೆ,ಫೆನ್ಸಿಂಗ್ ಕೌಶಲ್ಯ
+608,swordsmanships,fencing skills,ಖಡ್ಗಕಲೆಗಳು,ಫೆನ್ಸಿಂಗ್ ಕೌಶಲ್ಯಗಳು
+609,upmanship,competitive behavior,ಇತರರನ್ನು ಮೀರಿಸುವ ವರ್ತನೆ,ಸ್ಪರ್ಧಾತ್ಮಕ ನಡವಳಿಕೆ
+610,upmanships,competitive behaviors,ಮೇಲ್ಮೈ ಸಾಧನೆಗಳ ಕ್ರಮಗಳು,ಸ್ಪರ್ಧಾತ್ಮಕ ನಡವಳಿಕೆಗಳು
+611,workmanship,workpersonship,ಕೆಲಸಗಾರಿಕೆ,ಕೆಲಸಗಾರತ್ವ
+612,workmanships,workpersonships,ಕಾರ್ಯನೈಪುಣ್ಯಗಳು,ಕೆಲಸಗಾರತ್ವಗಳು
+613,ambulancewoman,emergency medical technician,ಆಂಬ್ಯುಲೆನ್ಸ್ ಮಹಿಳೆ,ತುರ್ತು ವೈದ್ಯಕೀಯ ತಂತ್ರಜ್ಞ
+614,ambulancewomen,emergency medical technicians,ಆಂಬ್ಯುಲೆನ್ಸ್ ಮಹಿಳೆಯರು,ತುರ್ತು ವೈದ್ಯಕೀಯ ತಂತ್ರಜ್ಞರು
+615,anchorwoman,anchorperson,ಮಹಿಳಾ ನಿರೂಪಕಿ,ನಿರೂಪಕರು
+616,anchorwomen,anchorpeople,ಮಹಿಳಾ ನಿರೂಪಕಿಯರು,ನಿರೂಪಕರು
+617,anti-woman,misogynist,ಮಹಿಳಾ ವಿರೋಧಿ,ಸ್ತ್ರೀದ್ವೇಷವಾದಿ
+618,anti-women,misogynists,ಮಹಿಳಾ ವಿರೋಧಿ,ಸ್ತ್ರೀದ್ವೇಷವಾದಿಗಳು
+619,antiwoman,misogynist,ಮಹಿಳೆಯರ ವಿರೋಧಿ,ಸ್ತ್ರೀದ್ವೇಷವಾದಿ
+620,antiwomen,misogynists,ಮಹಿಳೆಯರ ವಿರೋಧಿ,ಸ್ತ್ರೀದ್ವೇಷವಾದಿಗಳು
+621,bogeywoman,monster,ಬೋಗಿ ಮಹಿಳೆ,ರಾಕ್ಷಸ
+622,bogeywomen,monsters,ಬೋಗಿ ಮಹಿಳೆಯರು,ರಾಕ್ಷಸರು
+623,bondwoman,slave,ಬಂಧಿತ ಮಹಿಳೆ,ಗುಲಾಮ
+624,bondwomen,slaves,ಬಂಧಿತ ಮಹಿಳೆಯರು,ಗುಲಾಮರು
+625,businesswoman,businessperson,ವ್ಯಾಪಾರಿಣಿ,ವ್ಯಾಪಾರಸ್ಥ
+626,businesswomen,businesspeople,ವ್ಯಾಪಾರಿಣಿಯರು,ವ್ಯಾಪಾರಸ್ಥರು
+627,cavewoman,caveperson,ಗವಿ ಮಹಿಳೆ,ಗುಹಾನಿವಾಸಿ
+628,cavewomen,cavepeople,ಗವಿ ಮಹಿಳೆಯರು,ಗುಹೆಯ ಜನರು
+629,charwoman,cleaner,ಸ್ವಚ್ಛತಾ ಮಹಿಳೆ,ಕ್ಲೀನರ್
+630,charwomen,cleaners,ಸ್ವಚ್ಛತಾ ಮಹಿಳೆಯರು,ಸ್ವಚ್ಛಗೊಳಿಸುವವರು
+631,congresswoman,congressperson,ಕಾಂಗ್ರೆಸ್ ಮಹಿಳೆ,ಕಾಂಗ್ರೆಸ್ಸಿಗ
+632,congresswomen,congresspeople,ಕಾಂಗ್ರೆಸ್ ಮಹಿಳೆಯರು,ಕಾಂಗ್ರೆಸ್ಸಿಗರು
+633,craftswoman,craftsoerson,ಕುಶಲಕರ್ಮಿಣಿ,ಕುಶಲಕರ್ಮಿ
+634,craftswomen,craftsoersons,ಕುಶಲಕರ್ಮಿಣಿಯರು,ಕುಶಲಕರ್ಮಿಗಳು
+635,everywoman,ordinary person,ಸಾಮಾನ್ಯ ಮಹಿಳೆ,ಸಾಮಾನ್ಯ ವ್ಯಕ್ತಿ
+636,everywomen,ordinary people,ಸಾಮಾನ್ಯ ಮಹಿಳೆಯರು,ಸಾಮಾನ್ಯ ಜನರು
+637,fisherwoman,fisher,ಮೀನುಗಾರ ಮಹಿಳೆ,ಮೀನುಗಾರ
+638,fisherwomen,fishers,ಮೀನುಗಾರ ಮಹಿಳೆಯರು,ಮೀನುಗಾರರು
+639,forewoman,foreperson,ಮಹಿಳಾ ಮೇಲ್ವಿಚಾರಕಿ,ಮುಂದಾಳು
+640,forewomen,forepeople,ಮಹಿಳಾ ಮೇಲ್ವಿಚಾರಕಿಯರು,ಮೇಲ್ವಿಚಾರಕರು
+641,frontierswoman,explorer,ಗಡಿನಾಡಿನ ಮಹಿಳೆ,ಅನ್ವೇಷಕ
+642,frontierswomen,explorers,ಗಡಿನಾಡಿನ ಮಹಿಳೆಯರು,ಅನ್ವೇಷಕರು
+643,frontwoman,frontperson,ಮುಖ್ಯ ನಿರೂಪಕಿ,ಮುಖ್ಯ ಕಲಾವಿದ
+644,frontwomen,frontpeople,ಮುಖ್ಯ ಗಾಯಕಿಯರು,ಮುಖ್ಯ ಕಲಾವಿದರು
+645,gentlewoman,refined person,ಸನ್ಮಾನ್ಯ ಮಹಿಳೆ,ಸಂಸ್ಕೃತ ವ್ಯಕ್ತಿ
+646,gentlewomen,refined people,ಸನ್ಮಾನ್ಯ ಮಹಿಳೆಯರು,ಸಂಸ್ಕೃತ ಜನರು
+647,hitwoman,assassin,ಹತ್ಯೆಗಾರ್ತಿ,ಹಂತಕ
+648,hitwomen,assassins,ಹತ್ಯೆಗಾರ್ತಿಯರು,ಹಂತಕರು
+649,horsewoman,equestrian,ಕುದುರೆ ಸವಾರ್ತಿ,ಕುದುರೆ ಸವಾರ
+650,horsewomen,equestrians,ಕುದುರೆ ಸವಾರ್ತಿಯರು,ಕುದುರೆ ಸವಾರರು
+651,madwoman,maniac,ಹುಚ್ಚು ಮಹಿಳೆ,ಹುಚ್ಚ
+652,madwomen,maniacs,ಹುಚ್ಚು ಮಹಿಳೆಯರು,ಹುಚ್ಚರು
+653,man-woman,masculine person,ಪುರುಷ-ಮಹಿಳೆ,ಪುಲ್ಲಿಂಗ ವ್ಯಕ್ತಿ
+654,man-women,masculine people,ಪುರುಷ-ಮಹಿಳೆಯರು,ಪುಲ್ಲಿಂಗ ಜನರು
+655,manwoman,masculine person,ಪುರುಷ ಮಹಿಳೆ,ಪುಲ್ಲಿಂಗ ವ್ಯಕ್ತಿ
+656,manwomen,masculine people,ಪುರುಷ ಮಹಿಳೆಯರು,ಪುಲ್ಲಿಂಗ ಜನರು
+657,markswoman,sharpshooter,ಶೂಟರ್ ಮಹಿಳೆ,ಶಾರ್ಪ್ ಶೂಟರ್
+658,markswomen,sharpshooters,ಶೂಟರ್ ಮಹಿಳೆಯರು,ಶಾರ್ಪ್‌ಶೂಟರ್‌ಗಳು
+659,newswoman,reporter,ಸುದ್ದಿಗಾರ್ತಿ,ವರದಿಗಾರ
+660,newswomen,reporters,ಸುದ್ದಿಗಾರ್ತಿಯರು,ವರದಿಗಾರರು
+661,noblewoman,noble person,ಉದಾತ್ತ ಮಹಿಳೆ,ಉದಾತ್ತ ವ್ಯಕ್ತಿ
+662,noblewomen,noble people,ಉದಾತ್ತ ಮಹಿಳೆಯರು,ಉದಾತ್ತ ಜನರು
+663,policewoman,police officer,ಪೊಲೀಸ್ ಮಹಿಳೆ,ಪೊಲೀಸ್ ಅಧಿಕಾರಿ
+664,policewomen,police officers,ಪೊಲೀಸ್ ಮಹಿಳೆಯರು,ಪೊಲೀಸ್ ಅಧಿಕಾರಿಗಳು
+665,selectwoman,member of the board,ಸ್ತ್ರೀ ಆಡಳಿತಾಧಿಕಾರಿ,ಮಂಡಳಿಯ ಸದಸ್ಯ
+666,selectwomen,members of the board,ಆಯ್ದ ಮಹಿಳೆಯರು,ಮಂಡಳಿಯ ಸದಸ್ಯರು
+667,servicewoman,service member,ಮಹಿಳಾ ಸೈನಿಕ,ಸೈನ್ಯ ಸದಸ್ಯ
+668,servicewomen,service members,ಮಹಿಳಾ ಸೈನಿಕರು,ಸೈನಿಕ ಸಿಬ್ಬಂದಿಗಳು
+669,spokeswoman,spokesperson,ಮಾತುಗಾರ್ತಿ,ವಕ್ತಾರರು
+670,spokeswomen,spokespeople,ಮಾತುಗಾರ್ತಿಯರು,ವಕ್ತಾರರು
+671,spokewoman,spokeperson,ಮಾತುಗಾರ್ತಿ,ವಕ್ತಾರ
+672,spokewomen,spokepeople,ವಕ್ತಾರರು,ವಕ್ತಾರರು
+673,sportswoman,athlete,ಕ್ರೀಡಾಪಟುತಿ,ಕ್ರೀಡಾಪಟು
+674,sportswomen,athletes,ಕ್ರೀಡಾಪಟುತಿಯರು,ಕ್ರೀಡಾಪಟುಗಳು
+675,stateswoman,statesperson, ರಾಜಕಾರಣಿ,ರಾಜ್ಯನಾಯಕರ
+676,stateswomen,statespeople,ರಾಜಕಾರಣಿಯರು,ರಾಜ್ಯನಾಯಕರ ಗುಂಪು
+677,swordswoman,fencer,ಖಡ್ಗಧಾರಿಣಿ,ಕತ್ತಿವೀರ
+678,swordswomen,fencers,ಖಡ್ಗಧಾರಿಣಿಯರು,ಕತ್ತಿವೀರರು
+679,tribeswoman,tribesperson,ಬುಡಕಟ್ಟು ಮಹಿಳೆ,ಬುಡಕಟ್ಟು ವ್ಯಕ್ತಿ
+680,tribeswomen,tribespeople,ಬುಡಕಟ್ಟು ಮಹಿಳೆಯರು,ಬುಡಕಟ್ಟು ಜನರು
+681,washerwoman,washer,ಧೋಬಿ ಮಹಿಳೆ,ತೊಳೆಯುವವರು
+682,washerwomen,Washers,ಧೋಬಿ ಮಹಿಳೆಯರು,ತೊಳೆಯುವವರು
+683,womanism,Feminism,ಸ್ತ್ರೀವಾದ,ಸ್ತ್ರೀವಾದ
+684,womanisms,Feminisms,ಸ್ತ್ರೀವಾದಗಳು,ಸ್ತ್ರೀವಾದಗಳು
+685,womanist,Feminist,ಸ್ತ್ರೀವಾದಿ,ಸ್ತ್ರೀವಾದಿ
+686,womanists,Feminists,ಸ್ತ್ರೀವಾದಿಗಳು,ಸ್ತ್ರೀವಾದಿಗಳು
+687,womankind,Humankind,ಸ್ತ್ರೀಕುಲ,ಮಾನವಕುಲ
+688,womankinds,Humankinds,ಸ್ತ್ರೀಕುಲಗಳು,ಮಾನವಕುಲಗಳು
+689,womanly,Feminine,ಹೆಣ್ಣಿನ,ಸ್ತ್ರೀಲಿಂಗ
+690,stateswomanship,Statespersonship,ರಾಜ್ಯನಾಯಿಕೆಯ ನೈಪುಣ್ಯ,ರಾಜ್ಯನಾಯಕತ್ವದ ನೈಪುಣ್ಯ
+691,stateswomanships,Statespersonships,ರಾಜ್ಯನಾಯಿಕೆಯ ನೈಪುಣ್ಯಗಳು,ರಾಜ್ಯನಾಯಕತ್ವದ ನೈಪುಣ್ಯಗಳು
+692,workwomanship,Workpersonship,ಮಹಿಳೆಯ ಕಾರ್ಯನೈಪುಣ್ಯ,ಕಾರ್ಯನೈಪುಣ್ಯ
+693,workwomanships,Workpersonships,ಮಹಿಳೆಯ ಕಾರ್ಯಕೌಶಲ್ಯಗಳು,ಕಾರ್ಯನೈಪುಣ್ಯಗಳು

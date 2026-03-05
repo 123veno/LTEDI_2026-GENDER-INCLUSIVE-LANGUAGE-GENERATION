@@ -1,0 +1,694 @@
+Pair ID,Original Terms,Inclusive Terms
+1,ballboy,ball person
+2,ballboys,ball people
+3,batboy,bat person
+4,batboys,bat people
+5,bellboy,bellhop
+6,bellboys,bellhops
+7,boyband,band
+8,boybands,bands
+9,boyfriend,partner
+10,boyfriends,partners
+11,boyish,childish
+12,boyishly,childishly
+13,boyism,childism
+14,boyisms,childisms
+15,boyscout,scout
+16,boyscouts,scouts
+17,boytoy,toy
+18,boytoys,toys
+19,busboy,restaurant attendant
+20,busboys,restaurant attendants
+21,callboy,sex worker
+22,callboys,sex workers
+23,copyboy,junior newspaper worker
+24,copyboys,junior newspaper workers
+25,cowboy,cow herder
+26,cowboys,cow herders
+27,doughboy,foot soldier
+28,doughboys,foot soldiers
+29,fanboy,fan
+30,fanboys,fans
+31,farmboy,farm worker
+32,farmboys,farm workers
+33,femboy,effeminate person
+34,femboys,effeminate people
+35,fisherboy,young fisher
+36,fisherboys,young fishers
+37,fratboy,fraternity member
+38,fratboys,fraternity members
+39,headboy,student leader
+40,headboys,student leaders
+41,homeboy,fellow member
+42,homeboys,fellow members
+43,houseboy,domestic worker
+44,houseboys,domestic workers
+45,ladyboy,genderqueer person
+46,ladyboys,genderqueer people
+47,nancyboy,nancy
+48,nancyboys,nancies
+49,newsboy,newspaper delivery person
+50,newsboys,newspaper delivery people
+51,paperboy,newspaper delivery person
+52,paperboys,newspaper delivery people
+53,playboy,player
+54,playboys,players
+55,plowboy,plower
+56,plowboys,plowers
+57,tomboy,boisterous child
+58,tomboys,boisterous children
+59,toyboy,toy
+60,toyboys,toys
+61,babygirl,baby
+62,babygirls,babies
+63,ballgirl,ball person
+64,ballgirls,ball people
+65,bargirl,bartender
+66,bargirls,bartenders
+67,callgirl,sex worker
+68,callgirls,sex workers
+69,cavegirl,caveperson
+70,cavegirls,cavepeople
+71,cowgirl,cow herder
+72,cowgirls,cow herders
+73,fangirl,fan
+74,fangirls,fans
+75,farmgirl,farm worker
+76,farmgirls,farm workers
+77,girldom,feminine sphere
+78,girldoms,feminine spheres
+79,girlfag,woman attracted to gay men
+80,girlfags,women attracted to gay men
+81,girlfight,fight
+82,girlfights,fights
+83,girlfriend,partner
+84,girlfriends,partners
+85,girlification,feminization
+86,girlifications,feminizations
+87,girliness,femininity
+88,girlinesses,femininities
+89,girlish,feminine
+90,girlishly,childishly
+91,girllove,love
+92,girlloves,loves
+93,girlpower,power
+94,girlpowers,powers
+95,papergirl,newspaper delivery person
+96,papergirls,newspaper delivery people
+97,playgirl,player
+98,playgirls,players
+99,showgirl,performer
+100,showgirls,performers
+101,slavegirl,slave
+102,slavegirls,slaves
+103,snowgirl,snowperson
+104,snowgirls,snowpeople
+105,tomgirl,timid child
+106,tomgirls,timid children
+107,adman,advertiser
+108,admen,advertisers
+109,almsman,medical social worker
+110,almsmen,medical social workers
+111,ambulanceman,emergency medical technician
+112,ambulancemen,emergency medical technicians
+113,anchorman,anchorperson
+114,anchormen,anchorpeople
+115,artilleryman,cannoneer
+116,artillerymen,cannoneers
+117,assemblyman,assembly member
+118,assemblymen,assembly members
+119,assman,assperson
+120,assmen,asspeople
+121,backwoodsman,explorer
+122,backwoodsmen,explorers
+123,bagman,travelling salesperson
+124,bagmen,travelling salespeople
+125,bargeman,barge operator
+126,bargemen,barge operators
+127,barman,bartender
+128,barmen,bartenders
+129,baseman,baseperson
+130,basemen,basepeople
+131,batsman,batter
+132,batsmen,batters
+133,bellman,bellhop
+134,bellmen,bellhops
+135,binman,garbage collector
+136,binmen,garbage collectors
+137,bluesman,bluesperson
+138,bluesmen,bluespeople
+139,boatman,boater
+140,boatmen,boaters
+141,bogeyman,monster
+142,bogeymen,monsters
+143,bondman,slave
+144,bondmen,slaves
+145,bondsman,slave
+146,bondsmen,slaves
+147,boogieman,monster
+148,boogiemen,monsters
+149,bowman,archer
+150,bowmen,archers
+151,bushman,indigenous person
+152,bushmen,indigenous people
+153,businessman,businessperson
+154,businessmen,businesspeople
+155,busman,bus driver
+156,busmen,bus drivers
+157,cabman,cabdriver
+158,cabmen,cabdrivers
+159,cameraman,cameraperson
+160,cameramen,camerapeople
+161,cavalryman,trooper
+162,cavalrymen,troopers
+163,caveman,caveperson
+164,cavemen,cavepeople
+165,centerman,center
+166,centermen,centers
+167,centreman,centre
+168,centremen,centres
+169,chessman,chess figure
+170,chessmen,chess figures
+171,churchman,cleric
+172,churchmen,clerics
+173,clansman,clan member
+174,clansmen,clan members
+175,classman,classmate
+176,classmen,classmates
+177,coachman,coach driver
+178,coachmen,coach drivers
+179,cocksman,sexually talented person
+180,cocksmen,sexually talented people
+181,con-man,con artist
+182,con-men,con artists
+183,congressman,congressperson
+184,congressmen,congresspeople
+185,conman,con artist
+186,conmen,con artists
+187,cornerman,second
+188,cornermen,seconds
+189,cornishman,Cornish person
+190,cornishmen,Cornish people
+191,corpsman,medical assistant
+192,corpsmen,medical assistants
+193,counterman,counterperson
+194,countermen,counterpeople
+195,craftsman,craftsperson
+196,craftsmen,craftspeople
+197,crewman,crew member
+198,crewmen,crew members
+199,crossbowman,arbalist
+200,crossbowmen,arbalists
+201,cutman,medical attendant
+202,cutmen,medical attendants
+203,dairyman,dairy worker
+204,dairymen,dairy workers
+205,deadman,corpse
+206,deadmen,corpses
+207,defenceman,defender
+208,defencemen,defenders
+209,defenseman,defender
+210,defensemen,defenders
+211,deskman,desk sergeant
+212,deskmen,desk sergeants
+213,discman,portable CD player
+214,discmen,portable CD players
+215,draftsman,draftsperson
+216,draftsmen,draftspeople
+217,draughtsman,draughtsperson
+218,draughtsmen,draughtspeople
+219,dutchman,netherlander
+220,dutchmen,netherlanders
+221,everyman,ordinary person
+222,everymen,ordinary people
+223,expressman,expressperson
+224,expressmen,expresspeople
+225,fireman,firefighter
+226,firemen,firefighters
+227,fisherman,fisher
+228,fishermen,fishers
+229,flagman,traffic guard
+230,flagmen,traffic guards
+231,footman,servant
+232,footmen,servants
+233,foreman,foreperson
+234,foremen,forepeople
+235,freedman,freedperson
+236,freedmen,freedpeople
+237,freeman,freeperson
+238,freemen,freepeople
+239,frenchman,French person
+240,frenchmen,French people
+241,freshman,first-year student
+242,freshmen,first-year students
+243,frogman,diver
+244,frogmen,divers
+245,frontiersman,explorer
+246,frontiersmen,explorers
+247,frontman,frontperson
+248,frontmen,frontpeople
+249,garageman,mechanic
+250,garagemen,mechanics
+251,gateman,gatekeeper
+252,gatemen,gatekeepers
+253,gentleman,refined person
+254,gentlemans,refined people
+255,gleeman,minstrel
+256,gleemen,minstrels
+257,glovesman,boxer
+258,glovesmen,boxers
+259,groomsman,groomsperson
+260,groomsmen,groomspeople
+261,groundsman,groundskeeper
+262,groundsmen,groundskeepers
+263,guardsman,guard
+264,guardsmen,guards
+265,handicraftsman,handicraftsperson
+266,handicraftsmen,handicraftspeople
+267,hangman,executioner
+268,hangmen,executioners
+269,headman,executioner
+270,headmen,executioners
+271,headsman,executioner
+272,headsmen,executioners
+273,hitman,assassin
+274,hitmen,assassins
+275,horseman,equestrian
+276,horsemen,equestrians
+277,huntsman,hunter
+278,huntsmen,hunters
+279,iceman,ice vendor
+280,icemen,ice vendors
+281,jokerman,joker
+282,jokermen,jokers
+283,journeyman,artisan
+284,journeymen,artisans
+285,kinsman,relative
+286,kinsmen,relatives
+287,landsman,landlubber
+288,landsmen,landlubbers
+289,lawman,law officer
+290,lawmen,law officers
+291,lensman,photographer
+292,lensmen,photographers
+293,lifeboatman,lifeboat sailor
+294,lifeboatmen,lifeboat sailors
+295,liftman,lift operator
+296,liftmen,lift operators
+297,lineman,lineperson
+298,linemen,linepeople
+299,linesman,linesperson
+300,linesmen,linespeople
+301,lobsterman,lobster catcher
+302,lobstermen,lobster catchers
+303,longshoreman,dockworker
+304,longshoremen,dockworkers
+305,lumberman,logger
+306,lumbermen,loggers
+307,madman,maniac
+308,madmen,maniacs
+309,mailman,mail carrier
+310,mailmen,mail carriers
+311,man cave,sanctuary
+312,man caves,sanctuaries
+313,man hater,hater
+314,man haters,haters
+315,man hating,misandry
+316,man hug,pound hug
+317,man hugs,pound hugs
+318,man hunt,organized search
+319,man hunts,organized searches
+320,man magnet,attractive person
+321,man magnets,attractive people
+322,man marking,marking
+323,man servant,servant
+324,man servants,servants
+325,man up,adult up
+326,man-ass,ass
+327,man-asses,asses
+328,man-bag,handbag
+329,man-bags,handbags
+330,man-boob,boob
+331,man-boobs,boobs
+332,man-cave,sanctuary
+333,man-caves,sanctuaries
+334,man-cession,recession
+335,man-cessions,recessions
+336,man-child,child
+337,man-childs,children
+338,man-crush,crush
+339,man-crushes,crushes
+340,man-eater,cannibal
+341,man-eaters,cannibals
+342,man-eating,human-eating
+343,man-friend,friend
+344,man-friends,friends
+345,man-hater,hater
+346,man-haters,haters
+347,man-hating,misandry
+348,man-hatings,misandries
+349,man-hour,work-hour
+350,man-hours,work-hours
+351,man-hug,pound hug
+352,man-hugs,pound hugs
+353,man-hunt,organized search
+354,man-hunts,organized searches
+355,man-kind,humankind
+356,man-kinds,humankinds
+357,man-machine,human-computer
+358,man-machines,human-computers
+359,man-made,synthetic
+360,man-magnet,attractive person
+361,man-magnets,attractive people
+362,man-mark,mark
+363,man-marks,marks
+364,man-marking,marking
+365,man-markings,markings
+366,man-month,work-month
+367,man-pack,pack
+368,man-packs,packs
+369,man-power,workforce
+370,man-powers,workforces
+371,man-rating,human-rating
+372,man-ratings,human-ratings
+373,man-servant,servant
+374,man-stealing,kidnapping
+375,man-stopper,stopping power
+376,man-stoppers,stopping powers
+377,man-trap,attractive person
+378,man-traps,attractive people
+379,man-up,adult up
+380,man-whore,sex worker
+381,man-whores,sex workers
+382,man-year,work-year
+383,mancession,recession
+384,mancessions,recessions
+385,manfriend,friend
+386,manfriends,friends
+387,mankind,humankind
+388,mankinds,humankinds
+389,manpack,pack
+390,manpacks,packs
+391,manpower,workforce
+392,manpowers,workforces
+393,manstealing,kidnapping
+394,manstopper,stopping power
+395,manstoppers,stopping powers
+396,marksman,sharpshooter
+397,marksmen,sharpshooters
+398,merchantman,merchant
+399,merchantmen,merchants
+400,merman,merperson
+401,mermen,merpeople
+402,midshipman,naval officer
+403,midshipmen,naval officers
+404,militiaman,militia member
+405,militiamen,militia members
+406,minuteman,soldier
+407,minutemen,soldiers
+408,motorman,operator
+409,motormen,operators
+410,newsman,reporter
+411,newsmen,reporters
+412,newspaperman,journalist
+413,newspapermen,journalists
+414,nightwatchman,nightwatchbatter
+415,nightwatchmen,nightwatchbatters
+416,nobleman,noble person
+417,noblemans,noble people
+418,oarsman,rower
+419,oarsmen,rowers
+420,ombudsman,ombudsperson
+421,ombudsmen,ombudspeople
+422,overman,Ã¼bermensch
+423,overmen,Ã¼bermenschen
+424,oysterman,oysterperson
+425,oystermen,oysterpeople
+426,packetman,packet sailor
+427,packetmen,packet sailors
+428,packman,seller
+429,packmen,sellers
+430,pieman,pie vendor
+431,piemen,pie vendors
+432,pitchman,pitcher
+433,pitchmen,pitchers
+434,placeman,appointee
+435,placemen,appointees
+436,ploughman,plower
+437,ploughmen,plowers
+438,plowman,plower
+439,plowmen,plowers
+440,pointsman,traffic officer
+441,pointsmen,traffic officers
+442,policeman,police officer
+443,policemen,police officers
+444,postman,mail carrier
+445,postmen,mail carriers
+446,pressman,printer
+447,pressmen,printers
+448,Prostitute,Sexworker
+449,prman,press agent
+450,prmen,press agents
+451,rubberman,latex fetishist
+452,rubbermen,latex fetishists
+453,seaman,sailor
+454,seamen,sailors
+455,seedsman,seeds dealer
+456,seedsmen,seeds dealers
+457,selectman,member of the board
+458,selectmen,members of the board
+459,serviceman,service member
+460,servicemen,service members
+461,she-man,feminine person
+462,she-men,feminine people
+463,sheepman,shepherd
+464,sheepmen,shepherds
+465,showman,showperson
+466,showmen,showpeople
+467,sideman,side artist
+468,sidemen,side artists
+469,slaughterman,butcher
+470,slaughtermen,butchers
+471,snowman,snowperson
+472,snowmen,snowpeople
+473,soundman,audio engineer
+474,soundmen,audio engineers
+475,spaceman,astronaut
+476,spacemen,astronauts
+477,spearfisherman,spearfisher
+478,spearfishermen,spearfishers
+479,spearman,lancer
+480,spearmen,lancers
+481,spokeman,spokeperson
+482,spokemen,spokepeople
+483,spokesman,spokesperson
+484,spokesmen,spokespeople
+485,sportsman,athlete
+486,sportsmen,athletes
+487,statesman,statesperson
+488,statesmen,statespeople
+489,stickman,stick figure
+490,stickmen,stick figures
+491,stockman,stock farmer
+492,stockmen,stock farmers
+493,storeman,warehouser
+494,storemen,warehousers
+495,strongman,strong person
+496,strongmen,strong people
+497,sub-man,inferior human
+498,sub-men,inferior humans
+499,superman,superhero
+500,supermen,superheroes
+501,swagman,transient labourer
+502,swagmen,transient labourers
+503,swingman,versatile athlete
+504,swingmen,versatile athletes
+505,switchman,railroad worker
+506,switchmen,railroad workers
+507,swordman,fencer
+508,swordmen,fencers
+509,swordsman,fencer
+510,swordsmen,fencers
+511,targetman,forward
+512,targetmen,forwards
+513,taxman,tax collector
+514,taxmen,tax collectors
+515,townsman,townsperson
+516,townsmen,townspeople
+517,tribesman,tribesperson
+518,tribesmen,tribespeople
+519,triggerman,hired gun
+520,triggermen,hired guns
+521,underclassman,undergraduate
+522,underclassmen,undergraduates
+523,upperclassman,student
+524,upperclassmen,students
+525,warehouseman,warehouse worker
+526,warehousemen,warehouse workers
+527,washerman,washer
+528,washermen,washers
+529,watchman,watcher
+530,watchmen,watchers
+531,weatherman,weather forecaster
+532,weathermen,weather forecasters
+533,wheelman,driver
+534,wheelmen,drivers
+535,whiteman,white person
+536,whitemen,white people
+537,wildman,wild person
+538,wildmen,wild people
+539,winchman,rescue swimmer
+540,winchmen,rescue swimmers
+541,wingman,pilot partner
+542,wingmen,pilot partners
+543,woodman,woodworker
+544,woodmen,woodworkers
+545,woodsman,forester
+546,woodsmen,foresters
+547,workingman,worker
+548,workingmen,workers
+549,workman,worker
+550,workmen,workers
+551,yeoman,officer
+552,yeomen,officers
+553,airmanship,aerial skill
+554,airmanships,aerial skills
+555,batsmanship,batting skill
+556,batsmanships,batting skills
+557,brinkmanship,extreme strategy
+558,brinkmanships,extreme strategies
+559,brinksmanship,extreme strategy
+560,brinksmanships,extreme strategies
+561,chairmanship,chairpersonship
+562,chairmanships,chairpersonships
+563,churchmanshipsÂ ,churchpersonships
+564,churchmanshipÂ ,churchpersonship
+565,craftmanship,craftpersonship
+566,craftmanships,craftpersonships
+567,craftsmanship,craftspersonship
+568,craftsmanships,craftspersonships
+569,draftsmanship,draftspersonship
+570,draftsmanships,draftspersonships
+571,draughtsmanship,draughtspersonship
+572,draughtsmanships,draughtspersonships
+573,foremanship,forepersonship
+574,foremanships,forepersonships
+575,gamesmanship,unsporting tactic
+576,gamesmanships,unsporting tactics
+577,gentlemanship,refinedness
+578,gentlemanships,refinednesses
+579,grantsmanship,grant acquisition expertise
+580,grantsmanships,grant acquisition expertises
+581,handcraftsmanship,handcraftspersonship
+582,handcraftsmanships,handcraftspersonships
+583,horsemanship,equestrian skill
+584,horsemanships,equestrian skills
+585,journeymanship,artisanship
+586,journeymanships,artisanships
+587,manship,courage
+588,manships,courages
+589,marksmanship,sharpshooting skill
+590,marksmanships,sharpshooting skills
+591,oarsmanship,rowing skill
+592,oarsmanships,rowing skills
+593,penmanship,calligraphy
+594,penmanships,calligraphies
+595,salesmanship,selling skill
+596,salesmanships,selling skills
+597,seamanship,marine skill
+598,seamanships,marine skills
+599,showmanship,performing skill
+600,showmanships,performing skills
+601,sportsmanship,athletic skill
+602,sportsmanships,athletic skills
+603,statesmanship,public management skill
+604,statesmanships,public management skills
+605,stockmanship,livestock raising skill
+606,stockmanships,livestock raising skills
+607,swordsmanship,fencing skill
+608,swordsmanships,fencing skills
+609,upmanship,competitive behavior
+610,upmanships,competitive behaviors
+611,workmanship,workpersonship
+612,workmanships,workpersonships
+613,ambulancewoman,emergency medical technician
+614,ambulancewomen,emergency medical technicians
+615,anchorwoman,anchorperson
+616,anchorwomen,anchorpeople
+617,anti-woman,misogynist
+618,anti-women,misogynists
+619,antiwoman,misogynist
+620,antiwomen,misogynists
+621,bogeywoman,monster
+622,bogeywomen,monsters
+623,bondwoman,slave
+624,bondwomen,slaves
+625,businesswoman,businessperson
+626,businesswomen,businesspeople
+627,cavewoman,caveperson
+628,cavewomen,cavepeople
+629,charwoman,cleaner
+630,charwomen,cleaners
+631,congresswoman,congressperson
+632,congresswomen,congresspeople
+633,craftswoman,craftsoerson
+634,craftswomen,craftsoersons
+635,everywoman,ordinary person
+636,everywomen,ordinary people
+637,fisherwoman,fisher
+638,fisherwomen,fishers
+639,forewoman,foreperson
+640,forewomen,forepeople
+641,frontierswoman,explorer
+642,frontierswomen,explorers
+643,frontwoman,frontperson
+644,frontwomen,frontpeople
+645,gentlewoman,refined person
+646,gentlewomen,refined people
+647,hitwoman,assassin
+648,hitwomen,assassins
+649,horsewoman,equestrian
+650,horsewomen,equestrians
+651,madwoman,maniac
+652,madwomen,maniacs
+653,man-woman,masculine person
+654,man-women,masculine people
+655,manwoman,masculine person
+656,manwomen,masculine people
+657,markswoman,sharpshooter
+658,markswomen,sharpshooters
+659,newswoman,reporter
+660,newswomen,reporters
+661,noblewoman,noble person
+662,noblewomen,noble people
+663,policewoman,police officer
+664,policewomen,police officers
+665,selectwoman,member of the board
+666,selectwomen,members of the board
+667,servicewoman,service member
+668,servicewomen,service members
+669,spokeswoman,spokesperson
+670,spokeswomen,spokespeople
+671,spokewoman,spokeperson
+672,spokewomen,spokepeople
+673,sportswoman,athlete
+674,sportswomen,athletes
+675,stateswoman,statesperson
+676,stateswomen,statespeople
+677,swordswoman,fencer
+678,swordswomen,fencers
+679,tribeswoman,tribesperson
+680,tribeswomen,tribespeople
+681,washerwoman,washer
+682,washerwomen,Washers
+683,womanism,Feminism
+684,womanisms,Feminisms
+685,womanist,Feminist
+686,womanists,Feminists
+687,womankind,Humankind
+688,womankinds,Humankinds
+689,womanly,Feminine
+690,stateswomanship,Statespersonship
+691,stateswomanships,Statespersonships
+692,workwomanship,Workpersonship
+693,workwomanships,Workpersonships
